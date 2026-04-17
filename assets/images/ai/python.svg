@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122" height="122" viewBox="0 0 122 122">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.13" y1="0.12" x2="0.796" y2="0.782" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#387eb8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.191" y1="0.206" x2="0.907" y2="0.884" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe052"/>
+      <stop offset="1" stop-color="#ffc331"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_18575" data-name="Group 18575" transform="translate(-82 -6964.5)">
+    <g id="Rectangle_10853" data-name="Rectangle 10853" transform="translate(82 6964.5)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.1">
+      <rect width="122" height="122" rx="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="121" height="121" rx="15.5" fill="none"/>
+    </g>
+    <g id="python-5_1_" data-name="python-5 (1)" transform="translate(114.855 6997.428)">
+      <path id="Path_26775" data-name="Path 26775" d="M27.864.072c-14.176,0-13.29,6.147-13.29,6.147l.016,6.369H28.116V14.5H9.216S.145,13.472.145,27.775s7.917,13.8,7.917,13.8h4.725V34.933s-.255-7.917,7.791-7.917H34s7.538.122,7.538-7.285V7.484S42.678.072,27.864.072ZM20.4,4.355a2.431,2.431,0,1,1-1.721.712A2.431,2.431,0,0,1,20.4,4.355Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <path id="Path_26776" data-name="Path 26776" d="M79.835,105.822c14.176,0,13.29-6.147,13.29-6.147l-.016-6.369H79.582V91.394h18.9s9.071,1.029,9.071-13.275-7.917-13.8-7.917-13.8H94.91V70.96s.255,7.917-7.791,7.917H73.7s-7.538-.122-7.538,7.285V98.41s-1.145,7.412,13.67,7.412Zm7.459-4.282a2.432,2.432,0,1,1,1.721-.712,2.431,2.431,0,0,1-1.721.712Z" transform="translate(-51.568 -50.201)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

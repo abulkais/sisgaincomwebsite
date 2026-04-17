@@ -1,0 +1,1141 @@
+/* ==== CRM Benefits Section ==== */
+.crm-benefits-section {
+  background: #0f172a;
+  padding: 2rem 0 1rem 0;
+  color: #e2e8f0;
+
+  position: relative;
+  margin-top: 3rem;
+}
+
+.crm-benefits-section-head {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Heading */
+.crm-benefits-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 18px;
+  color: #fff;
+}
+
+.crm-benefits-subtitle {
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 4rem;
+  color: #cbd5e1;
+  line-height: 1.7;
+}
+
+/* Grid */
+.crm-benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  margin-bottom: 60px;
+}
+
+.crm-benefits-grid-top {
+  margin-bottom: 60px;
+}
+
+/* Card */
+.crm-benefit-card {
+  background: rgba(30, 41, 59, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-radius: 24px;
+  padding: 32px;
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  transition: all 0.4s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.crm-benefit-card:hover {
+  transform: translateY(-10px);
+  background: rgba(30, 41, 59, 0.95);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+  border-color: #60a5fa;
+}
+
+/* Number Circle */
+.crm-card-number {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 60px;
+  background: #1e40af;
+  color: white;
+  font-weight: 600;
+  font-size: 1.4rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 4px solid #0f172a;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  z-index: 3;
+}
+
+/* Card Title & Text */
+.crm-card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 20px 0 16px;
+  color: #fff;
+  text-align: center;
+}
+
+.crm-card-text {
+  font-size: 14px;
+  line-height: 1.65;
+  color: #cbd5e1;
+  flex-grow: 1;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .crm-benefits-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .crm-benefits-title {
+    font-size: 2rem;
+  }
+
+  .crm-benefits-subtitle {
+    margin-bottom: 50px;
+  }
+
+  .crm-stats-bar {
+    gap: 40px;
+    padding: 25px 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .crm-benefit-card {
+    padding: 28px 20px;
+  }
+
+  .crm-card-number {
+    width: 60px;
+    height: 60px;
+    font-size: 1.2rem;
+    top: -30px;
+  }
+
+  .crm-card-title {
+    font-size: 1.2rem;
+  }
+
+  .crm-stats-bar {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .crm-stat-item i {
+    font-size: 1.8rem;
+  }
+
+  .crm-stat-number {
+    font-size: 1.8rem;
+  }
+}
+
+/* =====================================
+   INDUSTRY EXPERTISE SECTION
+===================================== */
+#industry-expertise-section {
+  background: #f1f5f9;
+  padding: 3rem 0;
+}
+
+/* HEADER */
+.industry-subtitle {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #3b82f6;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.industry-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #0f172a;
+  margin-bottom: 15px;
+}
+
+.industry-description {
+  /* max-width: 600px; */
+  color: #64748b;
+  font-size: 16px;
+  line-height: normal;
+  margin-bottom: 50px;
+}
+
+/* CARD */
+.industry-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px;
+  height: 100%;
+  border: 1px solid #e2e8f0;
+  transition: 0.3s;
+}
+
+/* HOVER */
+.industry-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* ICON */
+.industry-icon img {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 15px;
+}
+
+/* TITLE */
+.industry-card h3 {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #0f172a;
+}
+
+.industry-card h3 a {
+  color: #0f172a;
+}
+
+/* TEXT */
+.industry-card p {
+  font-size: 14px;
+  color: #64748b;
+  line-height: 1.6;
+}
+
+/* RESPONSIVE */
+@media (max-width: 991px) {
+  .industry-title {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 576px) {
+  .industry-title {
+    font-size: 26px;
+  }
+
+  .industry-description {
+    font-size: 14px;
+  }
+}
+
+/* ==== Why Choose SISGAIN Section ==== */
+.why-sisgain-section {
+  background: #f8fafc;
+  padding: 4rem 0;
+
+  color: #1e293b;
+}
+
+.why-sisgain-section_head {
+  width: 900px;
+  margin: 0 auto;
+}
+
+/* Heading */
+.why-sisgain-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  color: #0f172a;
+}
+
+.why-sisgain-subtitle {
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #475569;
+  line-height: 1.7;
+}
+
+/* Grid Layout */
+.why-sisgain-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+  margin-bottom: 60px;
+}
+
+.why-sisgain-grid-bottom {
+  margin-bottom: 0;
+}
+
+/* Card */
+.why-card {
+  background: #1e293b;
+  color: #e2e8f0;
+  border-radius: 20px;
+  padding: 32px;
+  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.why-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), transparent);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.why-card:hover::before {
+  opacity: 1;
+}
+
+.why-card:hover {
+  transform: translateY(-12px) scale(1.02);
+  box-shadow: 0 25px 50px rgba(30, 41, 59, 0.25);
+  background: #fff;
+}
+
+.why-card:hover .why-card-title,
+.why-card:hover .why-card-text {
+  color: #000;
+}
+
+/* Icon */
+.why-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  font-size: 1.6rem;
+  color: #60a5fa;
+  transition: all 0.3s ease;
+}
+
+.why-card:hover .why-icon {
+  background: #000;
+  color: #fff;
+  transform: scale(1.1);
+}
+
+/* Card Title & Text */
+.why-card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+  color: #ffffff;
+}
+
+.why-card-text {
+  font-size: 14px;
+  line-height: 1.65;
+  color: #cbd5e1;
+  flex-grow: 1;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .why-sisgain-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .why-sisgain-title {
+    font-size: 2rem;
+  }
+
+  .why-sisgain-subtitle {
+    font-size: 1rem;
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 576px) {
+  .why-card {
+    padding: 24px;
+  }
+
+  .why-icon {
+    width: 48px;
+    height: 48px;
+    font-size: 1.4rem;
+  }
+
+  .why-card-title {
+    font-size: 1.2rem;
+  }
+}
+
+/* ceo message */
+
+.ceo-message-section {
+  padding: 0rem 0 4rem 0;
+  background: #f7f9fc;
+}
+
+.ceo-message-card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 40px;
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.08);
+  max-width: 900px;
+  margin: auto;
+  position: relative;
+}
+
+.ceo-profile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.ceo-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 18px;
+}
+
+.ceo-info h3 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.ceo-role {
+  margin: 0;
+  color: #777;
+  font-size: 14px;
+}
+
+.ceo-message {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #444;
+  position: relative;
+  padding-left: 35px;
+}
+
+.quote-icon {
+  font-size: 40px;
+  color: #ff6a00;
+  position: absolute;
+  left: 0;
+  top: -10px;
+}
+
+@media (max-width: 768px) {
+  .ceo-message-card {
+    padding: 25px;
+  }
+
+  .ceo-profile {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .ceo-img {
+    margin-bottom: 10px;
+  }
+
+  .ceo-message {
+    padding-left: 0;
+    margin-top: 10px;
+  }
+
+  .quote-icon {
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+/* ceo message */
+
+/* emerging screen */
+
+.crm-emerging-technologies {
+  background: #000;
+  color: #fff;
+  padding: 3rem 0;
+  overflow: hidden;
+}
+
+.crm-emerging-technologies-head h2 {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.crm-emerging-technologies-head p {
+  max-width: 900px;
+  margin: auto;
+  opacity: 0.8;
+}
+
+.crm-emerging-technologies-slider-wrapper {
+  position: relative;
+  margin-top: 50px;
+}
+
+.crm-emerging-technologies-slider {
+  display: flex;
+  overflow-x: auto;
+  gap: 25px;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
+.crm-emerging-technologies-slider::-webkit-scrollbar {
+  display: none;
+}
+
+.crm-emerging-technologies-card {
+  flex: 0 0 calc(33.333% - 17px);
+}
+
+.crm-emerging-technologies-card {
+  /* min-width: 32%; */
+  background: #0b0f19;
+  border-radius: 14px;
+  /* margin-right: 25px; */
+  padding-bottom: 25px;
+  transition: 0.3s;
+}
+
+.crm-emerging-technologies-card ul {
+  margin: 15px 20px 0;
+  padding-left: 18px;
+  opacity: 0.9;
+}
+
+.crm-emerging-technologies-card ul li {
+  margin-bottom: 6px;
+  font-size: 15px;
+}
+
+.crm-emerging-technologies-card img {
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 14px 14px 0 0;
+}
+
+.crm-emerging-technologies-card h3 {
+  font-size: 22px;
+  margin: 20px;
+  border-bottom: 2px solid #fff;
+  display: inline-block;
+  padding-bottom: 6px;
+}
+
+.crm-emerging-technologies-card p {
+  font-size: 16px;
+  opacity: 0.85;
+  line-height: 1.7;
+  margin: 0 20px;
+}
+
+.crm-emerging-technologies-card:hover {
+  transform: translateY(-6px);
+}
+
+.crm-emerging-technologies-nav {
+  position: absolute;
+  top: 40%;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background: #fff;
+  color: #000;
+  z-index: 5;
+}
+
+.crm-emerging-technologies-nav.prev {
+  left: -20px;
+}
+
+.crm-emerging-technologies-nav.next {
+  right: -20px;
+}
+
+@media (max-width: 768px) {
+  .crm-emerging-technologies-card {
+    min-width: 100%;
+  }
+
+  .crm-emerging-technologies-nav {
+    display: none;
+  }
+}
+
+/* emerging screen */
+
+/* cta section */
+.partner_cta {
+  background:
+    linear-gradient(rgba(6, 6, 223, 0.58), rgba(2, 7, 54, 0.75)) top center /
+      cover,
+    url(../images/crm/ai_bg.webp);
+  background-size: cover;
+  background-position: center bottom;
+  padding: 10rem 0 8rem;
+  background-attachment: fixed;
+  /* height: 482px; */
+  text-align: center;
+  position: relative;
+}
+
+.partner_cta_cont {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  padding: 0 15px;
+  width: 100%;
+  max-width: 1160px;
+  transform: translate(-50%, -50%);
+}
+
+.partner_cta p {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #fff;
+}
+
+.partner_cta button {
+  padding: 10px 2rem;
+  background: #1163fb;
+  color: #fff;
+  font-size: 1.1rem;
+  border: 0;
+  transition: 0.5s ease-in-out;
+  border-radius: 0 1.5rem;
+}
+
+.partner_cta button:hover {
+  /* border: 1px solid #1163fb; */
+  color: #1163fb;
+  background: #fff;
+}
+
+/* partner cta section end*/
+
+@media only screen and (max-width: 768px) {
+  .partner_cta h3 {
+    font-size: 2rem;
+  }
+
+  .partner_cta {
+    padding: 10rem 0;
+  }
+
+  .partner_cta button {
+    margin-top: 1rem;
+  }
+}
+
+.developmen_process_sec {
+  margin: 3rem 0;
+}
+
+.development_process_sec_head h2 {
+  text-align: center;
+  color: #000;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.development_process_sec_head p {
+  text-align: center;
+  color: #000;
+  font-size: 15px;
+}
+
+.development_process_sec_head {
+  margin-bottom: 1.5rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* development-process start  */
+.development-process {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.development-process *:after,
+.development-process *:before {
+  box-sizing: content-box;
+}
+
+.development-process .process-card {
+  padding: 30px 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+
+/* === Reveal animation add-on === */
+.development-process .process-card {
+  opacity: 0;
+  transform: translateY(22px);
+  transition:
+    opacity 0.6s ease,
+    transform 0.6s ease;
+}
+
+/* scale-in for the circle icon */
+.development-process .process-card .icon {
+  transform: scale(0.85);
+  transition: transform 0.6s ease 0.05s;
+}
+
+/* lines start hidden (compressed) */
+.development-process .process-card .dotted-liner,
+.development-process .process-card .dotted-liner.before,
+.development-process .process-card .dotted-round.after,
+.development-process .process-card .dotted-round.before {
+  transform: scaleX(0);
+  transition: transform 0.7s ease 0.15s;
+}
+
+/* left-to-right draw for normal liners/rounds */
+.development-process .process-card .dotted-liner,
+.development-process .process-card .dotted-round.after {
+  transform-origin: left center;
+}
+
+/* right-to-left draw for ".before" ones */
+.development-process .process-card .dotted-liner.before,
+.development-process .process-card .dotted-round.before {
+  transform-origin: right center;
+}
+
+/* when revealed */
+.development-process .process-card.reveal {
+  opacity: 1;
+  transform: none;
+}
+
+.development-process .process-card.reveal .icon {
+  transform: scale(1);
+}
+
+.development-process .process-card.reveal .dotted-liner,
+.development-process .process-card.reveal .dotted-liner.before,
+.development-process .process-card.reveal .dotted-round.after,
+.development-process .process-card.reveal .dotted-round.before {
+  transform: scaleX(1);
+}
+
+/* Respect user's motion settings */
+@media (prefers-reduced-motion: reduce) {
+  .development-process .process-card,
+  .development-process .process-card .icon,
+  .development-process .process-card .dotted-liner,
+  .development-process .process-card .dotted-liner.before,
+  .development-process .process-card .dotted-round.after,
+  .development-process .process-card .dotted-round.before {
+    transition: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+  }
+}
+
+/* === Full card reveal animation === */
+.development-process .process-card {
+  opacity: 0;
+  transform: translateY(40px);
+  transition:
+    opacity 1s ease,
+    transform 1s ease;
+}
+
+/* children fade in slightly later */
+.development-process .process-card .icon,
+.development-process .process-card .title,
+.development-process .process-card p {
+  opacity: 0;
+  transform: translateY(20px);
+  transition:
+    opacity 1s ease,
+    transform 1s ease;
+}
+
+/* dotted lines start hidden */
+.development-process .process-card .dotted-liner,
+.development-process .process-card .dotted-liner.before,
+.development-process .process-card .dotted-round.after,
+.development-process .process-card .dotted-round.before {
+  opacity: 0;
+  transform: scaleX(0);
+  transition:
+    transform 1s ease,
+    opacity 1s ease;
+  transform-origin: left center;
+}
+
+.development-process .process-card .dotted-liner.before,
+.development-process .process-card .dotted-round.before {
+  transform-origin: right center;
+}
+
+/* --- when revealed --- */
+.development-process .process-card.reveal {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.development-process .process-card.reveal .icon,
+.development-process .process-card.reveal .title,
+.development-process .process-card.reveal p {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.development-process .process-card.reveal .dotted-liner,
+.development-process .process-card.reveal .dotted-liner.before,
+.development-process .process-card.reveal .dotted-round.after,
+.development-process .process-card.reveal .dotted-round.before {
+  opacity: 1;
+  transform: scaleX(1);
+}
+
+/* Accessibility: no animation for reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .development-process .process-card,
+  .development-process .process-card .icon,
+  .development-process .process-card .title,
+  .development-process .process-card p,
+  .development-process .process-card .dotted-liner,
+  .development-process .process-card .dotted-round.after,
+  .development-process .process-card .dotted-round.before {
+    transition: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+  }
+}
+
+.development-process .process-card .title,
+.development-process .process-card p {
+  color: #000;
+  line-height: 1.6;
+  letter-spacing: normal;
+  position: relative;
+  z-index: 2;
+}
+
+.development-process .process-card .title {
+  font-size: 20px;
+  margin: 10px 0 5px 0;
+  font-weight: 700;
+}
+
+.development-process .process-card p {
+  font-size: 14px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.development-process .icon {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+  display: inline-block;
+  border-radius: 50%;
+  position: relative;
+  z-index: 2;
+}
+
+.development-process .icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.development-process .dotted-liner,
+.development-process .dotted-round.after,
+.development-process .dotted-round.before,
+.development-process .dotted-liner.before {
+  position: absolute;
+}
+
+.development-process .dotted-liner {
+  height: 4px;
+  width: 100%;
+  top: 60px;
+  left: 0;
+}
+
+.development-process .dotted-liner::before,
+.development-process .dotted-liner::after,
+.development-process .dotted-round.after::after,
+.development-process .dotted-round.before::after {
+  content: "";
+  width: 100%;
+  display: block;
+}
+
+.development-process .dotted-liner::before {
+  border-top: 4px dashed #fff;
+}
+
+.development-process .dotted-liner::after {
+  border-top: 3px dotted #171624;
+  margin-top: -8px;
+}
+
+.development-process .dotted-round.after::after {
+  height: 100%;
+  border: 3px dotted #171624;
+  border-radius: 150px;
+  margin: -3px;
+  box-sizing: content-box;
+}
+
+.development-process .dotted-round.after,
+.development-process .dotted-round.before {
+  width: 100%;
+  height: 100%;
+  border: 3px dotted #fff;
+  /* background-color: #171624; */
+  top: 60px;
+  bottom: 0;
+  right: 0;
+  border-radius: 150px;
+  z-index: 1;
+}
+
+.development-process .dotted-round.after {
+  clip-path: circle(66% at 100%);
+}
+
+.development-process .dotted-round.before {
+  clip-path: circle(66% at 0%);
+}
+
+.development-process .dotted-liner.before {
+  height: 4px;
+  width: 55%;
+  top: 60px;
+  right: 0;
+  left: auto;
+}
+
+.development-process .dotted-round.before::after {
+  height: 100%;
+  border: 3px dotted #171624;
+  border-radius: 150px;
+  margin: -3px;
+  box-sizing: content-box;
+}
+
+.dotted-round.mob {
+  display: none;
+}
+
+.development-process .dotted-round.lg {
+  display: block;
+}
+
+@media (max-width: 767px) {
+  .development-process .process-card {
+    padding: 30px 20px;
+  }
+}
+
+/* ==== FAQ Section ==== */
+.crm-faq-section {
+  background: #f8f9fa;
+  padding: 4rem 0 1rem;
+  color: #1e293b;
+}
+
+.crm-faq-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #1e293b;
+}
+
+/* Row & Column */
+.crm-faq-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.crm-faq-col {
+  flex: 1;
+  min-width: 300px;
+  max-width: 580px;
+}
+
+/* FAQ Card */
+.crm-faq-card {
+  background: white;
+  border-radius: 18px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.06);
+  /* margin-bottom: 24px; */
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.crm-faq-card:hover {
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+  transform: translateY(-3px);
+}
+
+.crm-faq-header {
+  padding: 22px 28px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #1e293b;
+  user-select: none;
+}
+
+.crm-faq-toggle {
+  width: 44px;
+  height: 44px;
+  background: #e2e8f0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: #475569;
+  transition: all 0.3s ease;
+}
+
+.crm-faq-card.active .crm-faq-toggle {
+  background: #3b82f6;
+  color: white;
+  /* transform: rotate(45deg); */
+}
+
+.crm-faq-card.active .crm-faq-toggle i::before {
+  content: "\f068";
+  /* minus */
+}
+
+.crm-faq-toggle i::before {
+  content: "\f067";
+  /* plus */
+}
+
+.crm-faq-body {
+  max-height: 0;
+  overflow: hidden;
+  padding: 0 28px;
+  color: #475569;
+  font-size: 1rem;
+  line-height: 1.75;
+  border-top: 1px solid #e2e8f0;
+  transition:
+    max-height 0.4s ease,
+    padding 0.4s ease;
+}
+
+.crm-faq-card.active .crm-faq-body {
+  max-height: 400px;
+  padding: 20px 28px 28px;
+}
+
+@media (max-width: 575px) {
+  .why-sisgain-section_head {
+    width: 100%;
+  }
+  .development-process {
+    grid-template-columns: 1fr;
+  }
+
+  .development-process .dotted-liner {
+    width: 56%;
+  }
+
+  .development-process
+    .process-card:nth-child(2n):not(:last-child)
+    .dotted-liner {
+    width: 0 !important;
+    left: auto;
+  }
+
+  .development-process .process-card:nth-child(3) .dotted-liner.before,
+  .development-process .process-card:nth-child(5) .dotted-liner.before {
+    width: 0;
+  }
+
+  .dotted-round.mob {
+    display: block;
+  }
+
+  .development-process .dotted-round.lg {
+    display: none;
+  }
+
+  .development_process_sec_head {
+    width: 100%;
+  }
+  .quote-icon {
+    display: none;
+  }
+
+  .partner_cta p {
+    line-height: normal;
+    font-size: 2rem;
+  }
+      .partner_cta {
+        padding: 12rem 0;
+    }
+    .development_process_sec_head h2,
+    .crm-faq-title,
+    .crm-emerging-technologies-head h2{
+      font-size: 2rem;
+    }
+    
+    #industry-expertise-section{
+      padding-bottom: 0;
+    }
+}

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /blogs/
+Allow: /sitemap.xml
+
+Disallow: /project*
+Disallow: /shift-shopper*
+Disallow: /index-new*
+Disallow: /web_enquires*
+Disallow: /thankyou*
+
+Sitemap: https://sisgain.com/sitemap.xml

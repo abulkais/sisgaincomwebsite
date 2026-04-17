@@ -1,0 +1,362 @@
+/* global presence */
+.global_pressence {
+  background-color: #000;
+  padding: 4rem 0;
+  margin-bottom: 2rem;
+}
+
+.global_pressence h4,
+.global_pressence h3 {
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  font-size: 2.2rem;
+}
+
+.global_pressence p {
+  text-align: center;
+  color: #fff;
+  line-height: normal;
+  font-size: 1rem;
+}
+
+.glob_pres_box {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding: 3rem 3rem 0 3rem;
+  border-radius: 1.3rem;
+  background-color: #4e4c4c8a;
+}
+
+.glob_pres_box .col-lg-2 {
+  flex: 0 0 20%;
+  /* Force equal width (20% for 5 items per row) */
+  max-width: 20%;
+  /* Ensure Bootstrap respects the width */
+  margin-bottom: 3rem;
+}
+
+.glob_pres_box .col-lg-2 img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+.glob_pres_box .col-lg-2 h5 {
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-size: 1.3rem;
+}
+
+.world_map {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+/*  */
+
+/*  */
+.way-section {
+  background-color: #fff;
+  /* padding-bottom: 60px; */
+}
+
+.way-section .way-bg {
+  background: #0e82fd;
+  border-radius: 25px;
+  position: relative;
+  overflow: hidden;
+}
+
+.way-section .way-bg .way-shapes-img {
+  position: relative;
+}
+
+.way-inner-header {
+  margin: 0;
+  padding: 80px;
+}
+
+.way-inner-header h3 {
+  color: #fff;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+
+.way-inner-header p {
+  font-weight: 500;
+  font-size: 16px;
+  color: #e2edff;
+  margin-bottom: 1rem;
+}
+
+.way-inner-header .btn {
+  font-size: 16px;
+  padding: 8px 16px;
+  color: #012047;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 44px;
+}
+
+.way-img {
+  position: relative;
+  top: 10px;
+}
+
+.way-section .way-bg .way-shapes-img .way-shapes-left {
+  position: absolute;
+  top: 60px;
+  right: 200px;
+}
+
+.way-section .way-bg .way-shapes-img .way-shapes-right {
+  position: absolute;
+  right: 0;
+}
+
+/*  */
+
+/*  */
+.feedback-section-fifteen {
+  position: relative;
+  /* padding: 3rem 0 */
+}
+
+.feedback-section-fifteen .feedback-schedule-all {
+  background: #0e82fd;
+  border-radius: 10px;
+}
+
+@media (max-width: 1399.98px) {
+  .feedback-section-fifteen .feedback-schedule-all .feedback-inner-main {
+    margin: 0 0 0 30px;
+  }
+}
+
+.feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content {
+  padding: 50px 50px 0 0;
+}
+
+.feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content h3 {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  max-width: 650px;
+}
+
+.feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content p {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content a {
+  padding: 9px 16px;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 44px;
+  display: inline-block;
+  color: #012047;
+  font-size: 16px;
+  font-weight: 500;
+  transition: color 0.5s ease-in-out, box-shadow 0.3s ease-in-out;
+  box-shadow: inset 0 0 0 0 #0e82fd;
+}
+
+.feedback-section-fifteen
+  .feedback-schedule-all
+  .feedback-fifteen-content
+  a:hover {
+  border: 1px solid #fff;
+  color: #fff;
+  background: transparent;
+}
+
+/*  */
+.tele_med_upper .telemed_header {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* about services section */
+
+:root {
+  --primary1: #0a78be;
+  --primary1-light: #4ca7e1;
+  --primary1-dark: #065a93;
+  --secondary: #2dd4bf;
+  --text-light: #64748b;
+  --radius: 12px;
+  --shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* Section */
+.telemedicine-services {
+  margin: 3rem 0 0 0;
+  position: relative;
+}
+
+.telemedicine-services .container {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+/* Left side (sticky) */
+.telemedicine-services__header {
+  flex: 0 0 30%;
+  position: sticky;
+  top: 6rem;
+  align-self: flex-start;
+  text-align: left;
+}
+
+.telemedicine-services__title {
+  font-size: 2.3rem;
+  font-weight: 600;
+  color: var(--primary1);
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.telemedicine-services__intro {
+  font-size: 15px;
+  color: var(--text-light);
+  line-height: 1.7;
+}
+
+/* Right side */
+.telemedicine-services__content {
+  flex: 1;
+}
+
+/* Service cards */
+.telemedicine-service {
+  background: #64748b0e;
+  border-radius: var(--radius);
+  padding: 1rem;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  height: 100%;
+}
+
+.telemedicine-services__content .col-lg-6,
+.telemedicine-services__content .col-lg-12 {
+  margin-bottom: 2rem;
+}
+
+.telemedicine-service__icon {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: var(--primary1);
+}
+
+.telemedicine-service__heading {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--primary1-dark);
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+.telemedicine-service__text {
+  color: var(--text-light);
+  line-height: 1.6;
+  margin-bottom: 0;
+  font-size: 15px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .telemedicine-services .container {
+    flex-direction: column;
+  }
+
+  .telemedicine-services__header {
+    position: static;
+    width: 100%;
+  }
+
+  .telemedicine-services .row {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* about services section */
+@media only screen and (max-width: 500px) {
+  .global_pressence h4,
+  .global_pressence h3 {
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+  }
+
+  .global_pressence {
+    padding: 2rem 0;
+  }
+
+  .glob_pres_box {
+    margin: 0 0 2rem 0;
+    padding: 2rem 0 0 0;
+  }
+
+  .glob_pres_box .col-lg-1 {
+    display: none;
+  }
+
+  .glob_pres_box .col-lg-2 {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+    margin-bottom: 2rem;
+  }
+
+  .glob_pres_box .col-lg-2 img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .glob_pres_box .col-lg-2 h5 {
+    font-size: 1rem;
+  }
+
+  /*  */
+
+  .way-inner-header h3 {
+    font-size: 1.3rem;
+  }
+
+  .way-inner-header,
+  .feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content {
+    padding: 2rem;
+  }
+
+  .feedback-section-fifteen
+    .feedback-schedule-all
+    .feedback-fifteen-content
+    h3 {
+    font-size: 1.5rem;
+  }
+
+  .way-shapes-img,
+  .way-img img,
+  .top_banner img {
+    display: none;
+  }
+  .telemedicine-services__title {
+    font-size: 2rem;
+  }
+  .telemedicine-services__intro {
+    margin-bottom: 0;
+  }
+}

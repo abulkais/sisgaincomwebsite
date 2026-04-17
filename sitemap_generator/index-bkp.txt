@@ -1,0 +1,259 @@
+<?php 
+include "session_check.php" 
+?>
+
+
+<?php
+
+
+include "db.php"; // Ensure DB connection
+
+function generateSitemap($conn)
+{
+    $sitemapFile = "../sitemap.xml";
+    // Fetch all URLs from the database
+    $result = $conn->query("SELECT url, createdDate FROM sitemapurl ORDER BY createdDate DESC");
+
+    // Start XML structure
+    $sitemapContent = '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
+    $sitemapContent .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . PHP_EOL;
+
+    while ($row = $result->fetch_assoc()) {
+        $sitemapContent .= "    <url>\n";
+        $sitemapContent .= "        <loc>" . htmlspecialchars($row['url']) . "</loc>\n";
+        $sitemapContent .= "        <lastmod>" . date('Y-m-d', strtotime($row['createdDate'])) . "</lastmod>\n";
+        $sitemapContent .= "        <changefreq>weekly</changefreq>\n";
+        $sitemapContent .= "        <priority>1.0</priority>\n";
+        $sitemapContent .= "    </url>\n";
+    }
+
+    $sitemapContent .= "</urlset>";
+
+    // Write to sitemap.xml
+    file_put_contents($sitemapFile, $sitemapContent);
+}
+
+
+if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['url'])) {
+    $url = trim($_POST['url']);
+    $response = ["success" => false, "message" => ""];
+
+    if (!empty($url)) {
+        // Check for duplicate URL
+        $checkStmt = $conn->prepare("SELECT COUNT(*) FROM sitemapurl WHERE url = ?");
+        $checkStmt->bind_param("s", $url);
+        $checkStmt->execute();
+        $checkStmt->bind_result($count);
+        $checkStmt->fetch();
+        $checkStmt->close();
+
+        if ($count > 0) {
+            $response["message"] = "URL already exists!";
+        } else {
+            // Insert new URL
+            $stmt = $conn->prepare("INSERT INTO sitemapurl (url, createdDate) VALUES (?, NOW())");
+            $stmt->bind_param("s", $url);
+
+            if ($stmt->execute()) {
+                generateSitemap($conn); // Update sitemap after adding URL
+                $response["success"] = true;
+                $response["message"] = "URL added successfully!";
+            } else {
+                $response["message"] = "Failed to add URL!";
+            }
+            $stmt->close();
+        }
+    } else {
+        $response["message"] = "URL field cannot be empty!";
+    }
+
+    header('Content-Type: application/json'); // Ensure correct response type
+    echo json_encode($response);
+    exit;
+}
+
+// Handle DELETE request
+if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['deleteId'])) {
+    $deleteId = intval($_POST['deleteId']);
+    $deleteStmt = $conn->prepare("DELETE FROM sitemapurl WHERE id = ?");
+    $deleteStmt->bind_param("i", $deleteId);
+
+    $response = ["success" => false, "message" => ""];
+
+    if ($deleteStmt->execute()) {
+        generateSitemap($conn); // Update sitemap after deleting URL
+        $response["success"] = true;
+        $response["message"] = "URL deleted successfully!";
+    } else {
+        $response["message"] = "Failed to delete URL!";
+    }
+
+    $deleteStmt->close();
+    echo json_encode($response);
+    exit;
+}
+
+
+
+?>
+
+
+<?php
+// Fetch the total count of URLs
+$countResult = $conn->query("SELECT COUNT(*) as total FROM sitemapurl");
+$countRow = $countResult->fetch_assoc();
+$totalUrls = $countRow['total'];
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sitemap Panel</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+</head>
+
+<body>
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="form-group">
+                    <input type="url" class="form-control" id="url" placeholder="Enter URL" required>
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <button type="button" id="submitBtn" class="btn btn-success">Submit</button>
+            </div>
+            <div class="col-lg-3">
+                <button type="button" class="btn btn-info">Total URL (<?= $totalUrls ?>)</button>
+            </div>
+            
+             <div class="col-lg-3">
+               <a href="logout.php" class="d-flex btn btn-warning" style="align-items: center; gap:10px; float:right;"
+   onclick="return confirmLogout(event)">
+    <i class="fa fa-sign-out fa-lg"></i> Log Out
+</a>
+            </div>
+        </div>
+
+<script>
+function confirmLogout(event) {
+    event.preventDefault(); // Stop the default link action
+    let confirmAction = confirm("Are you sure you want to log out?");
+    if (confirmAction) {
+        window.location.href = "logout.php"; // Redirect if confirmed
+    }
+}
+</script>
+        <div class=" mt-4">
+            <table class="table table-bordered table-striped table-hover">
+                <thead class="table-dark" style="position: sticky;  top: 0;">
+                    <tr>
+                        <th>S.N.</th>
+                        <th>URL</th>
+                        <th>Change Frequency</th>
+                        <th>Modification Date</th>
+                        <th>Priority</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php
+                    $result = $conn->query("SELECT id, url, createdDate FROM sitemapurl ORDER BY createdDate DESC");
+                    $index = 1;
+                    while ($row = $result->fetch_assoc()):
+                        ?>
+                        <tr id="row-<?= $row['id'] ?>">
+                            <td><?= $index++ ?></td>
+                            <td style="width:60%"> <a target="blank" href="<?= htmlspecialchars($row['url']) ?>"> <?= htmlspecialchars($row['url']) ?></a></td>
+                            <td>Weekly</td>
+                            <td><?= (new DateTime($row['createdDate']))->format('d-M-Y') ?></td>
+                            <td>1.0</td>
+                            <td>
+                                <div style="display: flex; justify-content: space-around;">
+                                    <a href="https://sisgain.com/sitemap.xml" target="_blank" class="btn btn-success btn-md">
+                                        <i class="fa fa-eye fa-lg"></i>
+                                    </a>
+                                    <button class="btn btn-danger btn-md delete-post" data-id="<?= $row['id'] ?>">
+                                        <i class="fa fa-trash fa-lg"></i>
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+                    <?php endwhile; ?>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+
+            $("#submitBtn").click(function () {
+                let url = $("#url").val().trim();
+
+                if (url === "") {
+                    showToast("URL field cannot be empty!", "error");
+                    return;
+                }
+
+                $.ajax({
+                    url: "index",
+                    type: "POST",
+                    data: { url: url },
+                    dataType: "json",
+                    success: function (response) {
+                        console.log("Response:", response); // Debugging Log
+                        if (response.success) {
+                            showToast(response.message, "success");
+                            $("#url").val(""); // Clear input field
+                            setTimeout(() => location.reload(), 3000); // Slight delay before refresh
+                        } else {
+                            showToast(response.message, "error");
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        console.error("AJAX Error:", status, error); // Debugging Log
+                        showToast("Something went wrong!", "error");
+                    }
+                });
+            });
+
+
+            $(".delete-post").click(function () {
+                let postId = $(this).data("id");
+
+                if (confirm("Are you sure you want to delete this?")) {
+                    $.post("index", { deleteId: postId }, function (response) {
+                        showToast(response.message, response.success ? "success" : "error");
+                        if (response.success) {
+                            $("#row-" + postId).fadeOut();
+                            setTimeout(() => location.reload(), 3000);
+                        }
+                    }, "json");
+                }
+            });
+
+            function showToast(message, type) {
+                Toastify({
+                    text: message,
+                    duration: 3000,
+                    gravity: "top",
+                    position: "right",
+                    backgroundColor: type === "success" ? "green" : "red"
+                }).showToast();
+            }
+        });
+    </script>
+
+</body>
+
+</html>

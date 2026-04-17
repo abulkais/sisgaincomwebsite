@@ -1,0 +1,388 @@
+.security_section {
+  margin: 3rem 0;
+}
+
+.security_section h4,
+.security_section h3 {
+  margin-bottom: 10px;
+  color: #0a78be;
+  font-size: 2.4rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+.security_section p {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.security_sectioninner {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.security_sectioninner img {
+  margin: 0 auto;
+  display: block;
+  height: 50px;
+  width: auto;
+  margin-bottom: 1rem;
+}
+
+.security_sectioninner h5,
+.security_sectioninner h3 {
+  text-align: center;
+  margin-bottom: 0;
+  font-weight: 600;
+  font-size: 1rem !important;
+}
+
+/*  */
+.launch_section {
+  margin: 3rem 0;
+}
+
+.launch_section img {
+  margin: 0 auto;
+  display: block;
+  width: auto;
+  height: 300px;
+}
+
+.launch_section button {
+  border-radius: 1.5rem;
+  padding: 8px 1rem;
+}
+
+.launch_section .row {
+  align-items: center;
+}
+
+/*  */
+
+.healthcare-app {
+  background-color: #f8f9fa;
+  padding: 3rem 0;
+}
+
+.healthcare-header {
+  margin-bottom: 50px;
+}
+
+.healthcare-header h3,
+.healthcare-header h2 {
+  margin-bottom: 10px;
+  color: #0a78be;
+  font-size: 2.4rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+.healthcare-header p {
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.feature-card {
+  background: white;
+  border-radius: 10px;
+  padding: 30px;
+  height: 100%;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-10px);
+}
+
+.feature-card h3 {
+  color: #444;
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.feature-card p {
+  margin-bottom: 0;
+  color: #555;
+  line-height: 1.6;
+}
+
+.services-list p {
+  text-align: center;
+  font-size: 1rem;
+  color: #555;
+  margin: 2rem 0 0 0;
+}
+
+/*  */
+.way-section {
+  background-color: #fff;
+  padding-bottom: 60px;
+}
+
+.way-section .way-bg {
+  background: #0e82fd;
+  border-radius: 25px;
+  position: relative;
+  overflow: hidden;
+}
+
+.way-section .way-bg .way-shapes-img {
+  position: relative;
+}
+
+.way-inner-header {
+  margin: 0;
+  padding: 80px;
+}
+
+.way-inner-header h3 {
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.way-inner-header p {
+  font-weight: 500;
+  font-size: 16px;
+  color: #e2edff;
+  margin-bottom: 40px;
+}
+
+.way-inner-header .btn {
+  font-size: 16px;
+  padding: 8px 16px;
+  color: #012047;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 44px;
+}
+
+.way-img {
+  position: relative;
+  top: 10px;
+}
+
+.way-section .way-bg .way-shapes-img .way-shapes-left {
+  position: absolute;
+  top: 60px;
+  right: 200px;
+}
+
+.way-section .way-bg .way-shapes-img .way-shapes-right {
+  position: absolute;
+  right: 0;
+}
+
+/*  */
+.feedback-section-fifteen {
+  position: relative;
+  /* padding: 3rem 0 */
+}
+
+.feedback-section-fifteen .feedback-schedule-all {
+  background: #0e82fd;
+  border-radius: 10px;
+}
+
+@media (max-width: 1399.98px) {
+  .feedback-section-fifteen .feedback-schedule-all .feedback-inner-main {
+    margin: 0 0 0 30px;
+  }
+}
+
+.feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content {
+  padding: 50px 50px 0 0;
+}
+
+.feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content h3 {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  max-width: 650px;
+}
+
+.feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content p {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content a {
+  padding: 9px 16px;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 44px;
+  display: inline-block;
+  color: #012047;
+  font-size: 16px;
+  font-weight: 500;
+  transition: color 0.5s ease-in-out, box-shadow 0.3s ease-in-out;
+  box-shadow: inset 0 0 0 0 #0e82fd;
+}
+
+.feedback-section-fifteen
+  .feedback-schedule-all
+  .feedback-fifteen-content
+  a:hover {
+  border: 1px solid #fff;
+  color: #fff;
+  background: transparent;
+}
+
+/*  */
+
+/* global presence */
+.global_pressence {
+  background-color: #000;
+  padding: 4rem 0;
+  margin-bottom: 2rem;
+}
+
+.global_pressence h4,
+.global_pressence h3 {
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  font-size: 2.2rem;
+}
+
+.global_pressence p {
+  text-align: center;
+  color: #fff;
+  line-height: normal;
+  font-size: 1rem;
+}
+
+.glob_pres_box {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding: 3rem 3rem 0 3rem;
+  border-radius: 1.3rem;
+  background-color: #4e4c4c8a;
+}
+
+.glob_pres_box .col-lg-2 {
+  flex: 0 0 20%;
+  /* Force equal width (20% for 5 items per row) */
+  max-width: 20%;
+  /* Ensure Bootstrap respects the width */
+  margin-bottom: 3rem;
+}
+
+.glob_pres_box .col-lg-2 img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+.glob_pres_box .col-lg-2 h5 {
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-size: 1.3rem;
+}
+
+.world_map {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+@media only screen and (max-width: 500px) {
+  .global_pressence h4,
+  .global_pressence h3 {
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+  }
+
+  .global_pressence {
+    padding: 2rem 0;
+  }
+
+  .glob_pres_box {
+    margin: 0 0 2rem 0;
+    padding: 2rem 0 0 0;
+  }
+
+  .glob_pres_box .col-lg-1 {
+    display: none;
+  }
+
+  .glob_pres_box .col-lg-2 {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+    margin-bottom: 2rem;
+  }
+
+  .glob_pres_box .col-lg-2 img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .glob_pres_box .col-lg-2 h5 {
+    font-size: 1rem;
+  }
+  /*  */
+  .security_section h4,
+  .security_section h3,
+  .healthcare-header h3,
+  .healthcare-header h2 {
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: normal;
+  }
+
+  /*  */
+  .launch_section img {
+    width: 100%;
+    height: auto;
+    margin-top: 2rem;
+  }
+
+  .healthcare-app .col-md-4 {
+    margin-top: 1.5rem;
+  }
+
+  .healthcare-header {
+    margin-bottom: 0;
+  }
+
+  .healthcare-app {
+    padding: 1rem 0;
+  }
+
+  .way-inner-header,
+  .feedback-section-fifteen .feedback-schedule-all .feedback-fifteen-content {
+    padding: 2rem;
+  }
+
+  .way-shapes-img,
+  .feedback-inner-main,
+  .way-img img,
+  .top_banner img {
+    display: none;
+  }
+
+  .feedback-section-fifteen
+    .feedback-schedule-all
+    .feedback-fifteen-content
+    h3 {
+    font-size: 1.5rem;
+  }
+
+  .top_banner button {
+    padding: 8px 1rem;
+  }
+}

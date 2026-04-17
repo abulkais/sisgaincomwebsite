@@ -1,0 +1,252 @@
+
+.usa_states_telemed h3 {
+    font-weight: 600;
+    font-size: 40px;
+    color: #0a78be;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.usa_states_telemed h5 {
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.other_countries_telemed h3 {
+    font-weight: 600;
+    font-size: 40px;
+    color: #0a78be;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.other_countries_telemed ul {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+
+.other_countries_telemed ul li {
+    list-style-type: none;
+    text-transform: capitalize;
+    color: #000;
+}
+
+
+.other_countries_telemed ul li {
+    margin-top: 18px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.other_countries_telemed ul li a img {
+    height: 30px;
+    margin-right: 5px;
+    width: auto;
+}
+
+.other_countries_telemed ul li a:hover {
+    text-decoration: underline;
+    color: #0a78be;
+}
+
+.other_countries_telemed h5 {
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.addressbox {
+    margin: 0 6px;
+}
+
+.addressimg {
+    width: 190px;
+    padding: 0px 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.addressimg img {
+    border-radius: 10px;
+}
+
+
+.addresssnewlider .address_overlay {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    padding: 0 15px 0px 18px;
+    top: 63%;
+}
+
+.addresssnewlider .address_overlay h5 {
+    text-transform: capitalize;
+    font-style: normal;
+    font-weight: 600;
+    color: #fff;
+}
+
+.slick-dots {
+
+    text-align: center;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+.slick-dots li {
+    display: inline-block;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.slick-dots li.slick-active button {
+    background-color: #0a78be;
+}
+
+.slick-dots li button {
+    font: 0/0 a;
+    text-shadow: none;
+    color: transparent;
+    background-color: #0a78be69;
+    border: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.slick-dots li :hover {
+    background-color: #0a78be;
+
+}
+
+/* Custom Arrow */
+.prev {
+    cursor: pointer;
+    background-color: #0a78be;
+    color: #fff;
+    padding: 1px 18px;
+    border-radius: 100%;
+    position: absolute;
+    top: 38%;
+    left: -1.5em;
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+.prev:hover {
+    background-color: transparent;
+    color: #0a78be;
+    border: 1px solid #0a78be;
+}
+
+
+
+
+.next {
+    cursor: pointer;
+    background-color: #0a78be;
+    color: #fff;
+    padding: 1px 18px;
+    border-radius: 100%;
+    position: absolute;
+    top: 38%;
+    right: -1.5em;
+    font-size: 1.5em;
+}
+
+.next:hover {
+    background-color: transparent;
+    color: #0a78be;
+    border: 1px solid #0a78be;
+}
+
+@media screen and (max-width: 1200px) {
+
+    .addressimg {
+        width: 170px;
+        padding: 0px 10px;
+        position: relative;
+        overflow: hidden;
+    }
+
+
+
+    .prev {
+        cursor: pointer;
+        background-color: #0a78bebf !important;
+        color: #fff !important;
+        padding: 1px 18px;
+        border-radius: 100%;
+        position: absolute;
+        top: 35%;
+        left: 1.5em;
+        font-weight: 600;
+        font-size: 1.5em;
+    }
+
+    .next {
+        cursor: pointer;
+        background-color: #0a78bebf !important;
+        color: #fff !important;
+        padding: 1px 18px;
+        border-radius: 100%;
+        position: absolute;
+        top: 35%;
+        right: 1.5em;
+        font-weight: 600;
+        font-size: 1.5em;
+    }
+
+    .slick-slide {
+        width: 170px !important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .prev {
+        cursor: pointer;
+        background-color: #0a78bebf !important;
+        color: #fff !important;
+        padding: 1px 18px;
+        border-radius: 100%;
+        position: absolute;
+        top: 96%;
+        left: 6.5em;
+        font-weight: 600;
+        font-size: 1.5em;
+    }
+
+    .next {
+        cursor: pointer;
+        background-color: #0a78bebf !important;
+        color: #fff !important;
+        padding: 1px 18px;
+        border-radius: 100%;
+        position: absolute;
+        top: 96%;
+        right: 6.5em;
+        font-weight: 600;
+        font-size: 1.5em;
+    }
+
+    .slick-slide {
+        width: 180px !important;
+    }
+
+    .usa_states_telemed h3,
+    .other_countries_telemed h3 {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+
+    .usa_states_telemed h5 {
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+
+}
