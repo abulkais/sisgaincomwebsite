@@ -1,5 +1,6 @@
 # Ignore specific file
 mail.php
+.htaccess
 
 # Node modules
 node_modules/
