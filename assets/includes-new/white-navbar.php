@@ -65,7 +65,7 @@
             </button>
         </li>
         <li class="nav-item"><a href="https://sisgain.com/portfolio/" class="nav-btn">Portfolio</a></li>
-        <li class="nav-item"><a href="https://sisgain.com//about-us/" class="nav-btn">About</a></li>
+        <li class="nav-item"><a href="https://sisgain.com/about-us/" class="nav-btn">About</a></li>
         <li class="nav-item"><a href="https://sisgain.com/blogs/" class="nav-btn">Blog</a></li>
     </ul>
 
