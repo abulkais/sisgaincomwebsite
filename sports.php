@@ -227,13 +227,13 @@
 	<div class="row androidTop-health">
 			<div class="col-sm-12 androidTopBgimg1" id="sports-responsivebg">
 				<div class="col-sm-5 androidTopBanimg-health androidTopBanimg1">
-					<img src="image1/sportscoverimg.png" alt="Mobile App Development Company - Custom App development Company india" class="sports-set img-responsive">
+					<img src="https://sisgain.com/image1/sportscoverimg.png" alt="Mobile App Development Company - Custom App development Company india" class="sports-set img-responsive">
 				</div>
 				<div class="col-sm-5 androidTopbanText-health ">
 						<h1 class="headtitle-health ">Sports Application Software Custom Development Company</h1>
 						<div itemscope="" itemtype="http://schema.org/Review-aggregate" class="itemclass">
 				                <span itemprop="rating" itemscope="" itemtype="http://schema.org/Rating">
-				                   <img src="image1/star.png" alt="Sports Application Software Custom Development Services"><span>4.8</span> out of <span>5</span>
+				                   <img src="https://sisgain.com/image1/star.png" alt="Sports Application Software Custom Development Services"><span>4.8</span> out of <span>5</span>
 			                    </span>
 			                      based on <span>5378</span> ratings.
 			            </div>
@@ -288,7 +288,7 @@
 									</div>
 									<div class="cl"></div></div><div class="CTwrap33 fl">
 									<div class="responsiveImage stxt-center margin-top-30">
-									<img src="image1/mobileimgsports.png" title=""></div></div>
+									<img src="https://sisgain.com/image1/mobileimgsports.png" title=""></div></div>
 									<div class="CTwrap33 fl"><div class="techworkinglist">
 									<ul class="sind-list Verticle">
 										<li><a href="training.php"><div class="sind-block">		
@@ -336,7 +336,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 				<hr class="hr-style" style="border-top: 5px solid #84CDF2;">
 			</div>
 			<div class="col-sm-12" align="center">
-				<img src="image1/andro-step.png" alt="Mobile Application Development Company & Services Provider Agency" class="img-responsive" style="margin-bottom:50px;">
+				<img src="https://sisgain.com/image1/andro-step.png" alt="Mobile Application Development Company & Services Provider Agency" class="img-responsive" style="margin-bottom:50px;">
 			</div>
 		</div>
 	
@@ -385,7 +385,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 			<div class="col-sm-12 androidHireDiv-health" style="margin-left:95px;">
 				<div class="col-sm-3 androidHireBox-health" align="center">
 					
-					<img src="image1/hire-support.png" alt="Mobile Application Development Company in India and USA" style="margin-top:-50px;">
+					<img src="https://sisgain.com/image1/hire-support.png" alt="Mobile Application Development Company in India and USA" style="margin-top:-50px;">
 					<p class="androidHirePara-health">
 						24/7 Technical Support
 					</p>
@@ -393,7 +393,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 				
 				<div class="col-sm-3 androidHireBox-health" align="center">
 					
-					<img src="image1/hire-confi.png" alt="Mobile App Development Company with Expert Android developers" style="margin-top:-50px;">
+					<img src="https://sisgain.com/image1/hire-confi.png" alt="Mobile App Development Company with Expert Android developers" style="margin-top:-50px;">
 					<p class="androidHirePara-health">
 						100% Confidentiality Assured
 					</p>
@@ -401,7 +401,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 				
 				<div class="col-sm-3 androidHireBox-health" align="center">
 					
-					<img src="image1/hire-cust.png" alt="Top Mobile Application Development Company - Best Android App Development Agency" style="margin-top:-50px;">
+					<img src="https://sisgain.com/image1/hire-cust.png" alt="Top Mobile Application Development Company - Best Android App Development Agency" style="margin-top:-50px;">
 					<p class="androidHirePara-health">
 						100% Satisfaction Guaranteed
 					</p>
@@ -446,7 +446,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 			
 			<div class="col-sm-12 androidScreenDiv-health" style="margin-left:95px;">
 				<div class="col-sm-3 androidScreenbox-health" align="center">
-					<img src="image1/saught.jpg" alt="Best Mobile Development Company for Android Apps " class="androidScreenBoxImg">
+					<img src="https://sisgain.com/image1/saught.jpg" alt="Best Mobile Development Company for Android Apps " class="androidScreenBoxImg">
 					<h3 class="androidBoxh-health">Best Rated Portfolio</h3>
 					<p class="varietybox-health">
 						Bundle of apps that we have created with innovative style and performance.
@@ -454,7 +454,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 				</div>
 				
 				<div class="col-sm-3 androidScreenbox-health" align="center">
-					<img src="image1/bug.jpg" alt="Expert Mobile App Development Company for Android Apps" class="androidScreenBoxImg">
+					<img src="https://sisgain.com/image1/bug.jpg" alt="Expert Mobile App Development Company for Android Apps" class="androidScreenBoxImg">
 					
 					<h3 class="androidBoxh">Bug Free Apps</h3>
 					<p class="varietybox">
@@ -463,7 +463,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 				</div>
 				
 				<div class="col-sm-3 androidScreenbox" align="center">
-					<img src="image1/latest.jpg" alt="Top Mobile App development companies" class="androidScreenBoxImg">
+					<img src="https://sisgain.com/image1/latest.jpg" alt="Top Mobile App development companies" class="androidScreenBoxImg">
 					<h3 class="androidBoxh">Latest Development Tools</h3>
 					<p class="varietybox">
 						We use agile programming, service-oriented architecture which helps in increasing performance of the development.
@@ -472,7 +472,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 				
 			
 				<div class="col-sm-3 androidScreenbox androidScreenbox1" align="center">
-					<img src="image1/build.jpg" alt="Mobile App development Company - Custom Mobile App development Company" class="androidScreenBoxImg">
+					<img src="https://sisgain.com/image1/build.jpg" alt="Mobile App development Company - Custom Mobile App development Company" class="androidScreenBoxImg">
 					
 					
 					
@@ -483,7 +483,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 				</div>
 				
 				<div class="col-sm-3 androidScreenbox androidScreenbox1" align="center">
-					<img src="image1/budget.jpg" alt="Location Based Mobile App for Discounts, Deals & Offers" class="androidScreenBoxImg">
+					<img src="https://sisgain.com/image1/budget.jpg" alt="Location Based Mobile App for Discounts, Deals & Offers" class="androidScreenBoxImg">
 					
 					<h3 class="androidBoxh">Budgeted Pricing</h3>
 					<p class="varietybox">
@@ -492,7 +492,7 @@ Insurance Portability and Accountability Act (HIPAA), and Health Level 7 Interna
 				</div>
 				
 				<div class="col-sm-3 androidScreenbox" align="center">
-					<img src="image1/dadicated.jpg" alt="Develop Mobile App for Digital Document Storage Mobile Solution" class="androidScreenBoxImg">
+					<img src="https://sisgain.com/image1/dadicated.jpg" alt="Develop Mobile App for Digital Document Storage Mobile Solution" class="androidScreenBoxImg">
 					
 					<h3 class="androidBoxh">Dedicated Developers</h3>
 					<p class="varietybox">
