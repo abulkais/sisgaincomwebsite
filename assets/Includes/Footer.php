@@ -73,7 +73,7 @@ window.addEventListener('resize', function () {
                 <div class="col-lg-6">
 
                     <h1 class="cta-title">
-                        Ready to Build Your<br>
+                       <strong style="color:#fff">Ready to Build Your</strong><br>
                         <span>Next Mobile App?</span>
                     </h1>
 
