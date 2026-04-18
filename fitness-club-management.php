@@ -262,13 +262,13 @@
          </div>
          <div class="col-sm-5 androidTopbanText-health" style="margin-top:160px !important">
             <h2 class="headtitle-health">Fitness Club Management Application Software Development Services</h2>
-            <div itemscope="" itemtype="http://schema.org/Review-aggregate" class="itemclass">
-               <span itemprop="rating" itemscope="" itemtype="http://schema.org/Rating">
-                  <img src="image1/star.png" alt="Fitness Club Management Application Software Development Services"><span>4.8</span> out of <span>5</span>
-               </span>
-               based on <span>5300</span> ratings.
-            </div>
-            <br />
+			<div itemscope="" itemtype="http://schema.org/Review-aggregate" class="itemclass">
+				                <span itemprop="rating" itemscope="" itemtype="http://schema.org/Rating">
+				                   <img src="https://sisgain.com/image1/star.png" alt="Fitness Club Management Application Software Development Services"><span>4.8</span> out of <span>5</span>
+			                    </span>
+			                      based on <span>5300</span> ratings.
+			</div>
+			<br/>
             <p class="androidToppara-health" style="text-align:justify;">
                Fitness Club Management Application software termed as the Application Software which allows clubs and associations sell their services & products and also support them to improve their services which they provide to the customers. SISGAIN, fitness center management software development company helps Fitness Clubs leverage cloud and digital technology paradigms to stay nimble and adapt to changing customer trends.
             </p>
@@ -368,7 +368,7 @@
             </div>
             <div class="CTwrap33 fl">
                <div class="responsiveImage stxt-center margin-top-30">
-                  <img src="image1/mobileimgsports.png" title="">
+                  <img src="https://sisgain.com/image1/mobileimgsports.png" title="">
                </div>
             </div>
             <div class="CTwrap33 fl">
@@ -422,11 +422,15 @@
          	
          	
          </div>-->
-   <!-- Session two-->
-   <div class="row" style="background-color:f4f7f9">
-      <div class="col-sm-12 hed1-health" style="color:#246192">
-         EASY STEPS TO BEGIN WITH
-         <hr class="hr-style" style="border-top: 5px solid #84CDF2;">
+      <!-- Session two-->
+      <div class="row" style="background-color:f4f7f9">
+         <div class="col-sm-12 hed1-health" style="color:#246192">
+            EASY STEPS TO BEGIN WITH
+            <hr class="hr-style" style="border-top: 5px solid #84CDF2;">
+         </div>
+         <div class="col-sm-12" align="center">
+            <img src="https://sisgain.com/image1/andro-step.png" alt="Mobile Application Development Company & Services Provider Agency" class="img-responsive" style="margin-bottom:50px;">
+         </div>
       </div>
       <div class="col-sm-12" align="center">
          <img src="image1/andro-step.png" alt="Mobile Application Development Company & Services Provider Agency" class="img-responsive" style="margin-bottom:50px;">
@@ -436,7 +440,7 @@
       <div class="col-sm-12" style="color:black;margin-bottom:50px;">
          <div class="row hidden-lg hidden-mg hidden-xl">
             <h4 class="hed1-health">SISGAIN STRENGTHS</h4>
-            <hr class="hr-style" style="border-top: 5px solid #silver">
+            <hr class="hr-style" style="border-top: 5px solid #84CDF2;">
          </div>
          <div class="col-sm-5">
             <p class="androidSisgainPara-health">
@@ -447,13 +451,45 @@
                <i class="fa fa-arrow-circle-right androidSisgainText"></i>Team of 100+ developers to deliver high quality application.<br><br>
             </p>
          </div>
-         <div class="col-sm-4">
-            <p class="androidSisgainPara-health">
-               <i class="fa fa-arrow-circle-right androidSisgainText"></i>On-site and off-site application development.<br><br>
-               <i class="fa fa-arrow-circle-right androidSisgainText"></i>More than 500 + projects delivered successfully.<br><br>
-               <i class="fa fa-arrow-circle-right androidSisgainText"></i>Dedicated Team of fitness club management software developers along with Project manager to handle projects.<br><br>
-               <i class="fa fa-arrow-circle-right androidSisgainText"></i>Creative, unique concepts to handle complex projects.<br><br>
-               <i class="fa fa-arrow-circle-right androidSisgainText"></i>Skilled and talented developers working at multiple locations to provide best results.<br><br>
+         <div class="col-sm-12 androidHireDiv-health" style="margin-left:95px;">
+            <div class="col-sm-3 androidHireBox-health" align="center">
+               <img src="https://sisgain.com/image1/hire-support.png" alt="Mobile Application Development Company in India and USA" style="margin-top:-50px;">
+               <p class="androidHirePara-health">
+                  24/7 Technical Support
+               </p>
+            </div>
+            <div class="col-sm-3 androidHireBox-health" align="center">
+               <img src="https://sisgain.com/image1/hire-confi.png" alt="Mobile App Development Company with Expert Android developers" style="margin-top:-50px;">
+               <p class="androidHirePara-health">
+                  100% Confidentiality Assured
+               </p>
+            </div>
+            <div class="col-sm-3 androidHireBox-health" align="center">
+               <img src="https://sisgain.com/image1/hire-cust.png" alt="Top Mobile Application Development Company - Best Android App Development Agency" style="margin-top:-50px;">
+               <p class="androidHirePara-health">
+                  100% Satisfaction Guaranteed
+               </p>
+            </div>
+         </div>
+         <div class="col-sm-12" align="center">
+            <a href="https://sisgain.com/hire-android-developer">
+            <button class="androidHireButton-health" type="button">
+            KNOW MORE
+            </button>
+            </a>
+         </div>
+      </div>
+      <div class="row androidHireRankedbg1-health" style="border:0px solid red;">
+         <div class="col-sm-12 androidHireRankDiv-health" align="center">
+            <span class="androidhirespan1-health">
+            Ranked among top Fitness Club Management app development companies
+            </span><br>
+            <span  class="androidhirespan2-health" align="center">
+            EVERYTHING YOU NEED TO BUILD, DEPLOY AND LAUNCH AN AMAZING Fitness Club Management APP
+            </span>
+            <p class="androidRankedpara-health">
+               There are several interesting factors making the <strong>Fitness Club Management app </strong> important so you must be sure that you are choosing one of 
+               the <strong>best <br>Fitness Club Management Application development company.</strong> Call us today to find out more about our<strong> Fitness Club Management App Development services.</strong>
             </p>
          </div>
       </div>
@@ -534,33 +570,49 @@
                We built – we test & handover error free apps which will be scalable, robust & efficient for longer use.
             </p>
          </div>
-         <div class="col-sm-3 androidScreenbox-health" align="center">
-            <img src="image1/latest.jpg" alt="Top Mobile App development companies" class="androidScreenBoxImg">
-            <h3 class="androidBoxh-health">Latest Development Tools</h3>
-            <p class="varietybox-health">
-               We use agile programming, service-oriented architecture which helps in increasing performance of the development.
-            </p>
-         </div>
-         <div class="col-sm-3 androidScreenbox-health" align="center">
-            <img src="image1/build.jpg" alt="Mobile App development Company - Custom Mobile App development Company" class="androidScreenBoxImg">
-            <h3 class="androidBoxh-health">Build Faster</h3>
-            <p class="varietybox-health">
-               We build apps with in stipulated timeframe by setting a hard date & releasing the final release with in given turn-around time.
-            </p>
-         </div>
-         <div class="col-sm-3 androidScreenbox-health" align="center">
-            <img src="image1/budget.jpg" alt="Location Based Mobile App for Discounts, Deals & Offers" class="androidScreenBoxImg">
-            <h3 class="androidBoxh-health">Budgeted Pricing</h3>
-            <p class="varietybox-health">
-               With us, you can be assured of best prices in the market without compromising for quality in any way.
-            </p>
-         </div>
-         <div class="col-sm-3 androidScreenbox-health" align="center">
-            <img src="image1/dadicated.jpg" alt="Develop Mobile App for Digital Document Storage Mobile Solution" class="androidScreenBoxImg">
-            <h3 class="androidBoxh-health">Dedicated Developers</h3>
-            <p class="varietybox-health">
-               One can opt for dedicated team and we provide dedicated developers and project managers individually for any type of projects.
-            </p>
+         <div class="col-sm-12 androidScreenDiv-health" style="margin-left:95px;background-color:#f2f2f2;">
+            <div class="col-sm-3 androidScreenbox-health" align="center">
+               <img src="https://sisgain.com/image1/saught.jpg" alt="Best Mobile Development Company for Android Apps " class="androidScreenBoxImg">
+               <h3 class="androidBoxh-health">Best Rated Portfolio</h3>
+               <p class="varietybox-health">
+                  Bundle of apps that we have created with innovative style and performance.
+               </p>
+            </div>
+            <div class="col-sm-3 androidScreenbox-health" align="center">
+               <img src="https://sisgain.com/image1/bug.jpg" alt="Expert Mobile App Development Company for Android Apps" class="androidScreenBoxImg">
+               <h3 class="androidBoxh-health">Bug Free Apps</h3>
+               <p class="varietybox-health">
+                  We built – we test & handover error free apps which will be scalable, robust & efficient for longer use.
+               </p>
+            </div>
+            <div class="col-sm-3 androidScreenbox-health" align="center">
+               <img src="https://sisgain.com/image1/latest.jpg" alt="Top Mobile App development companies" class="androidScreenBoxImg">
+               <h3 class="androidBoxh-health">Latest Development Tools</h3>
+               <p class="varietybox-health">
+                  We use agile programming, service-oriented architecture which helps in increasing performance of the development.
+               </p>
+            </div>
+            <div class="col-sm-3 androidScreenbox-health" align="center">
+               <img src="https://sisgain.com/image1/build.jpg" alt="Mobile App development Company - Custom Mobile App development Company" class="androidScreenBoxImg">
+               <h3 class="androidBoxh-health">Build Faster</h3>
+               <p class="varietybox-health">
+                  We build apps with in stipulated timeframe by setting a hard date & releasing the final release with in given turn-around time.
+               </p>
+            </div>
+            <div class="col-sm-3 androidScreenbox-health" align="center">
+               <img src="https://sisgain.com/image1/budget.jpg" alt="Location Based Mobile App for Discounts, Deals & Offers" class="androidScreenBoxImg">
+               <h3 class="androidBoxh-health">Budgeted Pricing</h3>
+               <p class="varietybox-health">
+                  With us, you can be assured of best prices in the market without compromising for quality in any way.
+               </p>
+            </div>
+            <div class="col-sm-3 androidScreenbox-health" align="center">
+               <img src="https://sisgain.com/image1/dadicated.jpg" alt="Develop Mobile App for Digital Document Storage Mobile Solution" class="androidScreenBoxImg">
+               <h3 class="androidBoxh-health">Dedicated Developers</h3>
+               <p class="varietybox-health">
+                  One can opt for dedicated team and we provide dedicated developers and project managers individually for any type of projects.
+               </p>
+            </div>
          </div>
       </div>
    </div>
