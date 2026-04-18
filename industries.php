@@ -148,7 +148,7 @@
               </a>
             </div>
             <div class="col-lg-6 col-md-6 mx-auto">
-              <img src="assets/images/industries/industries-banner-img.webp" data-aos="fade-up" data-aos-duration="3000">
+              <img src="https://sisgain.com/assets/images/industries/industries-banner-img.webp" data-aos="fade-up" data-aos-duration="3000">
             </div>
           </div>
         </div>
@@ -158,12 +158,12 @@
         <div class="container">
           <ul>
             <li class="trustedtxt hidden-xs" style="font-size:x-large;color:#000">Trusted by</li>
-            <li><img src="assets/images/company_logo/tcs.webp" alt="TCS"></li>
-            <li><img src="assets/images/company_logo/toyota.webp" alt="Toyota"></li>
-            <li><img src="assets/images/company_logo/gt_bank.webp" alt="GT Bank"></li>
-            <li><img src="assets/images/company_logo/akos.webp" alt="Akos"></li>
-            <li><img src="assets/images/company_logo/mcarft.webp" alt="Mcraft"></li>
-            <li><img src="assets/images/company_logo/united-healthcare-insurance.webp" alt="United Healthcare"></li>
+            <li><img src="https://sisgain.com/assets/images/company_logo/tcs.webp" alt="TCS"></li>
+            <li><img src="https://sisgain.com/assets/images/company_logo/toyota.webp" alt="Toyota"></li>
+            <li><img src="https://sisgain.com/assets/images/company_logo/gt_bank.webp" alt="GT Bank"></li>
+            <li><img src="https://sisgain.com/assets/images/company_logo/akos.webp" alt="Akos"></li>
+            <li><img src="https://sisgain.com/assets/images/company_logo/mcarft.webp" alt="Mcraft"></li>
+            <li><img src="https://sisgain.com/assets/images/company_logo/united-healthcare-insurance.webp" alt="United Healthcare"></li>
           </ul>
         </div>
       </article>
@@ -180,7 +180,7 @@
 
             <!-- Healthcare -->
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/healthcare-industries.webp" alt="Healthcare Industry" data-aos="fade-up" data-aos-duration="1000">
+              <img src="https://sisgain.com/assets/images/industries/healthcare-industries.webp" alt="Healthcare Industry" data-aos="fade-up" data-aos-duration="1000">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
               <div class="industries_sol_head" data-aos="fade-up" data-aos-duration="1500">
@@ -209,12 +209,12 @@
               </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/real-estate-industries.webp" alt="Real Estate Industry" data-aos="fade-up" data-aos-duration="1500">
+              <img src="https://sisgain.com/assets/images/industries/real-estate-industries.webp" alt="Real Estate Industry" data-aos="fade-up" data-aos-duration="1500">
             </div>
 
             <!-- Education -->
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/education-industries.webp" alt="Education Industry" data-aos="fade-up" data-aos-duration="1000">
+              <img src="https://sisgain.com/assets/images/industries/education-industries.webp" alt="Education Industry" data-aos="fade-up" data-aos-duration="1000">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
               <div class="industries_sol_head" data-aos="fade-up" data-aos-duration="1500">
@@ -242,12 +242,12 @@
               </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/automobile-industries.webp" alt="Automobile Industry" data-aos="fade-up" data-aos-duration="1500">
+              <img src="https://sisgain.com/assets/images/industries/automobile-industries.webp" alt="Automobile Industry" data-aos="fade-up" data-aos-duration="1500">
             </div>
 
             <!-- E-Learning -->
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/e-learning-solutions-industries.webp" alt="E-Learning Solutions" data-aos="fade-up" data-aos-duration="1000">
+              <img src="https://sisgain.com/assets/images/industries/e-learning-solutions-industries.webp" alt="E-Learning Solutions" data-aos="fade-up" data-aos-duration="1000">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
               <div class="industries_sol_head" data-aos="fade-up" data-aos-duration="1500">
@@ -276,12 +276,12 @@
               </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/restaurant-industries.webp" alt="Restaurant Industry" data-aos="fade-up" data-aos-duration="1500">
+              <img src="https://sisgain.com/assets/images/industries/restaurant-industries.webp" alt="Restaurant Industry" data-aos="fade-up" data-aos-duration="1500">
             </div>
 
             <!-- Travel -->
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/travel-industries.webp" alt="Travel Industry" data-aos="fade-up" data-aos-duration="1000">
+              <img src="https://sisgain.com/assets/images/industries/travel-industries.webp" alt="Travel Industry" data-aos="fade-up" data-aos-duration="1000">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
               <div class="industries_sol_head" data-aos="fade-up" data-aos-duration="1500">
@@ -310,12 +310,12 @@
               </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/finance-industries.webp" alt="Finance Industry" data-aos="fade-up" data-aos-duration="1500">
+              <img src="https://sisgain.com/assets/images/industries/finance-industries.webp" alt="Finance Industry" data-aos="fade-up" data-aos-duration="1500">
             </div>
 
             <!-- Telecommunication -->
             <div class="col-lg-6 col-md-6 col-sm-6 industries_sol_img">
-              <img src="assets/images/industries/telecommunication-industries.webp" alt="Telecommunication Industry" data-aos="fade-up" data-aos-duration="1000">
+              <img src="https://sisgain.com/assets/images/industries/telecommunication-industries.webp" alt="Telecommunication Industry" data-aos="fade-up" data-aos-duration="1000">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
               <div class="industries_sol_head" data-aos="fade-up" data-aos-duration="1500">
@@ -344,7 +344,7 @@
             <!-- Healthcare App Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/healthcare.webp" class="card-img-top" alt="Healthcare App Development">
+                <img src="https://sisgain.com/assets/images/industries/healthcare.webp" class="card-img-top" alt="Healthcare App Development">
 
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Healthcare App Development</h3>
@@ -358,7 +358,7 @@
             <!-- Telemedicine App Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/telemedicine.webp" class="card-img-top" alt="telemedicine App Development">
+                <img src="https://sisgain.com/assets/images/industries/telemedicine.webp" class="card-img-top" alt="telemedicine App Development">
 
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Telemedicine App Development</h3>
@@ -372,7 +372,7 @@
             <!-- Remote Patient Software Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/rpm.webp" class="card-img-top" alt="Remote Patient Software Development">
+                <img src="https://sisgain.com/assets/images/industries/rpm.webp" class="card-img-top" alt="Remote Patient Software Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Remote Patient Software Development</h3>
                   <p class="mb-0">
@@ -385,7 +385,7 @@
             <!-- CRM Software Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/crm.webp" class="card-img-top" alt="CRM Software Development">
+                <img src="https://sisgain.com/assets/images/industries/crm.webp" class="card-img-top" alt="CRM Software Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">CRM Software Development</h3>
                   <p class="mb-0">
@@ -398,7 +398,7 @@
             <!-- ERP Software Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/erp.webp" class="card-img-top" alt="ERP Software Development">
+                <img src="https://sisgain.com/assets/images/industries/erp.webp" class="card-img-top" alt="ERP Software Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">ERP Software Development</h3>
                   <p class="mb-0">
@@ -411,7 +411,7 @@
             <!-- Restaurant POS Software Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/pos.webp" class="card-img-top" alt="Restaurant POS Software Development">
+                <img src="https://sisgain.com/assets/images/industries/pos.webp" class="card-img-top" alt="Restaurant POS Software Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Restaurant POS Software Development</h3>
                   <p class="mb-0">
@@ -424,7 +424,7 @@
             <!-- OTT Video Streaming App Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/ott.webp" class="card-img-top" alt="OTT Video Streaming App Development">
+                <img src="https://sisgain.com/assets/images/industries/ott.webp" class="card-img-top" alt="OTT Video Streaming App Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">OTT Video Streaming App Development</h3>
                   <p class="mb-0">
@@ -437,7 +437,7 @@
             <!-- Blockchain App Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/blockchain.webp" class="card-img-top" alt="Blockchain App Development">
+                <img src="https://sisgain.com/assets/images/industries/blockchain.webp" class="card-img-top" alt="Blockchain App Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Blockchain App Development</h3>
                   <p class="mb-0">
@@ -450,7 +450,7 @@
             <!-- Hospital Management System Software Development -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/hms.webp" class="card-img-top" alt="Hospital Management System Software Development">
+                <img src="https://sisgain.com/assets/images/industries/hms.webp" class="card-img-top" alt="Hospital Management System Software Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Hospital Management System Software Development</h3>
                   <p class="mb-0">
@@ -463,7 +463,7 @@
             <!-- Website Development (For All Industries) -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/website.webp" class="card-img-top" alt="Website Development">
+                <img src="https://sisgain.com/assets/images/industries/website.webp" class="card-img-top" alt="Website Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Website Development (For All Industries)</h3>
                   <p class="mb-0">
@@ -476,7 +476,7 @@
             <!-- Android & iOS App Development (For All Industries) -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/android-ios.webp" class="card-img-top" alt="Android and iOS App Development">
+                <img src="https://sisgain.com/assets/images/industries/android-ios.webp" class="card-img-top" alt="Android and iOS App Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Android & iOS App Development (For All Industries)</h3>
                   <p class="mb-0">
@@ -489,7 +489,7 @@
             <!-- Software Development (For All Industries) -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card h-100 service-card  shadow">
-                <img src="assets/images/industries/software.webp" class="card-img-top" alt="Software Development">
+                <img src="https://sisgain.com/assets/images/industries/software.webp" class="card-img-top" alt="Software Development">
                 <div class="card-body">
                   <h3 class="h5 font-weight-bold mb-2">Software Development (For All Industries)</h3>
                   <p class="mb-0">
@@ -568,35 +568,35 @@
             <div class="row">
               <div class="col-lg-2">
                 <a href="https://sisgain.ae/healthcare">
-                  <img loading="lazy" src="assets/images/healthcare/uae.png" alt="UAE flag">
+                  <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/uae.png" alt="UAE flag">
                   <h5>UAE</h5>
                 </a>
               </div>
 
               <div class="col-lg-2">
                 <a href="https://sisgain.com/healthcare-app-development-company-in-saudi-arabia">
-                  <img loading="lazy" src="assets/images/healthcare/SaudiArabia.png" alt="Saudi Arabia flag">
+                  <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/SaudiArabia.png" alt="Saudi Arabia flag">
                   <h5>Saudi Arabia</h5>
                 </a>
               </div>
 
               <div class="col-lg-2">
                 <a href="https://sisgain.com/healthcare-app-development-company-in-oman">
-                  <img loading="lazy" src="assets/images/healthcare/Oman.png" alt="Oman flag">
+                  <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/Oman.png" alt="Oman flag">
                   <h5>Oman</h5>
                 </a>
               </div>
 
               <div class="col-lg-2">
                 <a href="https://sisgain.com/healthcare-app-development-company-in-qatar">
-                  <img loading="lazy" src="assets/images/healthcare/Qatar.png" alt="Qatar flag">
+                  <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/Qatar.png" alt="Qatar flag">
                   <h5>Qatar</h5>
                 </a>
               </div>
 
               <div class="col-lg-2">
                 <a href="https://sisgain.com/healthcare-app-development-company-in-jordan">
-                  <img loading="lazy" src="assets/images/healthcare/Jordan.png" alt="Jordan flag">
+                  <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/Jordan.png" alt="Jordan flag">
                   <h5>Jordan</h5>
                 </a>
               </div>
@@ -604,22 +604,22 @@
 
               </div>
               <div class="col-lg-2">
-                <img loading="lazy" src="assets/images/healthcare/Kuwait.png" alt="Kuwait flag">
+                <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/Kuwait.png" alt="Kuwait flag">
                 <h5>Kuwait</h5>
               </div>
 
               <div class="col-lg-2">
-                <img loading="lazy" src="assets/images/healthcare/usa.png" alt="USA flag">
+                <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/usa.png" alt="USA flag">
                 <h5>USA</h5>
               </div>
 
               <div class="col-lg-2">
-                <img loading="lazy" src="assets/images/healthcare/canada.png" alt="Canada flag">
+                <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/canada.png" alt="Canada flag">
                 <h5>Canada</h5>
               </div>
 
               <div class="col-lg-2">
-                <img loading="lazy" src="assets/images/healthcare/India.png" alt="India flag">
+                <img loading="lazy" src="https://sisgain.com/assets/images/healthcare/India.png" alt="India flag">
                 <h5>India</h5>
               </div>
               <div class="col-lg-1">
@@ -628,7 +628,7 @@
             </div>
           </div>
 
-          <img loading="lazy" data-src="assets/images/healthcare/world-map.webp" src="assets/images/healthcare/world-map.webp" width="1210" height="504" class="world_map" alt="world map">
+          <img loading="lazy" data-src="https://sisgain.com/assets/images/healthcare/world-map.webp" src="https://sisgain.com/assets/images/healthcare/world-map.webp" width="1210" height="504" class="world_map" alt="world map">
         </div>
       </section>
 
