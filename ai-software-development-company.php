@@ -190,7 +190,7 @@
                             <div class="cta-row">
                                 <a data-toggle="modal" data-target="#myModal" class="btn-primary-hero">
                                     <img loading="lazy" style="width: 30px; height:auto;"
-                                        src="assets/images/home/robot.gif" alt="Talk to an AI Specialist">
+                                        src="https://sisgain.com/assets/images/home/robot.gif" alt="Talk to an AI Specialist">
                                     Talk to an AI Specialist
                                 </a>
 
@@ -203,7 +203,7 @@
                         <!-- Right image -->
                         <div class="hero-visual">
                             <img class="hero-rotatable" loading="lazy"
-                                src="assets/images/ai/ai-brain.webp" alt="ai-brain">
+                                src="https://sisgain.com/assets/images/ai/ai-brain.webp" alt="ai-brain">
                         </div>
 
                     </div>
@@ -315,7 +315,7 @@
                     <div class="col-lg-6">
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/generative-ai-model-development.svg" alt="AI Development">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/generative-ai-model-development.svg" alt="AI Development">
                             </figure>
                             <h3><span>01</span> AI Development</h3>
                             <p>We deliver advanced AI development solutions that modernize business operations through intelligent automation and data-driven insights. Our approach focuses on improving efficiency, strengthening decision-making, and optimizing complex workflows across industries. By leveraging cutting-edge AI technologies, we enable enterprises to achieve measurable growth and long-term scalability. From predictive analytics to smart automation, our custom AI software development services are designed to create high-impact, future-ready AI systems tailored to your business goals.
@@ -325,7 +325,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/ai-counsalting.png" alt="AI Consulting">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-counsalting.png" alt="AI Consulting">
                             </figure>
                             <h3><span>02</span> AI Consulting</h3>
                             <p>As a trusted AI consulting company, we help businesses define the right AI strategy, roadmap, and implementation plan. Our experts assess industry challenges, identify opportunities, and guide organizations toward impactful AI-driven transformation. We combine strong technical expertise with deep business understanding to ensure every solution aligns with your objectives. Along with advanced artificial intelligence consulting services, our gen AI consulting capabilities empower enterprises to innovate faster, enhance decision-making, and gain a sustainable competitive edge in a rapidly evolving market.
@@ -334,7 +334,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/ai-chat-bot.png" alt="AI Chatbot Development">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-chat-bot.png" alt="AI Chatbot Development">
                             </figure>
                             <h3><span>03</span> AI Chatbot Development</h3>
                             <p>Our AI chatbot development services empower businesses with intelligent, conversational bots that deliver reliable 24/7 customer support. These chatbots are built to understand natural language, provide instant and accurate responses, and significantly enhance customer engagement across digital channels. From e-commerce to healthcare, we design and deploy bots tailored to industry-specific workflows and user needs. As a custom AI development service company, we help organizations automate customer interactions, reduce operational costs, save valuable time, and improve overall user satisfaction through secure AI-driven solutions.
@@ -343,7 +343,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/ai-generative.png" alt="Generative AI Development">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-generative.png" alt="Generative AI Development">
                             </figure>
                             <h3><span>04</span> Generative AI Development</h3>
                             <p>We specialize in Generative AI development that enables businesses to automate creative processes, generate high-quality content, and unlock innovative solutions across use cases. From text and image generation to personalized recommendations and intelligent assistants, our systems are built to deliver reliable, high-performance results. Generative AI is transforming industries through smarter automation and enhanced productivity. With our custom gen ai development approach, we help organizations harness this powerful technology through scalable, secure, and enterprise-ready solutions.
@@ -352,7 +352,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/ai-generative.png" alt="Generative AI Consulting">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-generative.png" alt="Generative AI Consulting">
                             </figure>
                             <h3><span>05</span> Generative AI Consulting</h3>
                             <p>Our Generative AI consulting services empower organizations to leverage next-generation AI models for transformative business outcomes. We assist in identifying key use cases, integrating advanced generative AI solutions, and optimizing ROI across operations. From enhancing automation to driving innovation and improving customer experiences, we craft strategies tailored to your goals. As a leading <a href="https://sisgain.com/">AI-Powered software development company</a>, we combine technical expertise with strategic insights to provide scalable, practical solutions that enable enterprises to harness the full potential of generative AI and stay ahead in a rapidly evolving market.</p>
@@ -360,7 +360,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/ai-agent.png" alt="AI Agent Development">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-agent.png" alt="AI Agent Development">
                             </figure>
                             <h3><span>06</span> AI Agent Development</h3>
                             <p>We build smart AI agents that make work easier by handling repetitive tasks, assisting with decisions, and streamlining everyday workflows. Acting like digital teammates, they help teams save time, reduce errors, and focus on what really matters. Whether it’s improving customer support or automating business processes, our AI agents are designed to work seamlessly and reliably. As a trusted custom AI development company, we combine machine learning, natural language processing, and advanced AI technologies to create solutions that are intuitive, adaptive, and tailored to your business needs.
@@ -369,7 +369,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/ai-integration.png" alt="AI Integration">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-integration.png" alt="AI Integration">
                             </figure>
                             <h3><span>07</span> AI Integration</h3>
                             <p>Our AI integration connects artificial intelligence with your existing business systems, applications, and platforms. Whether it’s CRM, ERP, or custom software, we ensure a smooth, scalable, and disruption-free implementation. By embedding AI directly into your workflows, we help you unlock automation, enhance operational efficiency, and enable real-time, data-driven decision-making. Our approach makes adopting AI simple and effective, empowering your enterprise to grow smarter, faster, and without technical hurdles.
@@ -378,7 +378,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/machine-learning.png" alt="ML Development">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/machine-learning.png" alt="ML Development">
                             </figure>
                             <h3><span>08</span> ML Development</h3>
                             <p>We provide comprehensive machine learning development services that transform raw data into meaningful insights for smarter business decisions. Our experts design and deploy predictive models, recommendation engines, and advanced algorithms customized to your specific needs. From detecting fraud and optimizing operations to forecasting demand and personalizing customer experiences, our ML solutions address a wide range of real-world challenges. With scalable models and continuous optimization, you stay ahead in a data-driven economy.
@@ -387,7 +387,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/concept.png" alt="PoC & MVP Development">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/concept.png" alt="PoC & MVP Development">
                             </figure>
                             <h3><span>09</span> PoC & MVP Development</h3>
                             <p>With our PoC and MVP development services, businesses can validate AI ideas before making large-scale investments. We help you design quick prototypes and test real-world feasibility with minimal risk. This approach ensures your AI solution is practical, scalable, and market-ready. By reducing time-to-market and development costs, we help you innovate faster and smarter.
@@ -396,7 +396,7 @@
 
                         <div class="right_section">
                             <figure>
-                                <img loading="lazy" src="assets/images/ai/ai-app.png" alt="Custom AI App Development">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-app.png" alt="Custom AI App Development">
                             </figure>
                             <h3><span>10</span> Custom AI App Development</h3>
                             <p>As a leading AI app development company, we create tailored, AI-powered applications designed to meet your unique business needs. From mobile apps to enterprise-grade platforms, our solutions are secure, scalable, and intuitive. By integrating machine learning, natural language processing, and predictive analytics, we deliver intelligent applications that drive efficiency and innovation. Through our artificial intelligence development services, businesses gain cutting-edge tools to enhance operations, boost customer engagement, and accelerate growth with smart, data-driven solutions.
@@ -424,7 +424,7 @@
                         <article>
                             <figure>
                                 <img loading="lazy" alt="App Like Character AI"
-                                    src="assets/images/ai/character-ai.png">
+                                    src="https://sisgain.com/assets/images/ai/character-ai.png">
                             </figure>
                             <figcaption>
                                 <h3>App Like Character AI</h3>
@@ -437,7 +437,7 @@
                     <div class="col-md-4">
                         <article>
                             <figure>
-                                <img loading="lazy" alt="App Like Grok" src="assets/images/ai/grok.png">
+                                <img loading="lazy" alt="App Like Grok" src="https://sisgain.com/assets/images/ai/grok.png">
                             </figure>
                             <figcaption>
                                 <h3>App Like Grok</h3>
@@ -451,7 +451,7 @@
                         <article>
                             <figure>
                                 <img loading="lazy" alt="App Like Replika"
-                                    src="assets/images/ai/replika.jpeg">
+                                    src="https://sisgain.com/assets/images/ai/replika.jpeg">
                             </figure>
                             <figcaption>
                                 <h3>App Like Replika</h3>
@@ -465,7 +465,7 @@
                         <article>
                             <figure>
                                 <img loading="lazy" alt="App Like Ask AI"
-                                    src="assets/images/ai/askai.jfif">
+                                    src="https://sisgain.com/assets/images/ai/askai.jfif">
                             </figure>
                             <figcaption>
                                 <h3>App Like Ask AI</h3>
@@ -479,7 +479,7 @@
                         <article>
                             <figure>
                                 <img loading="lazy" alt="App Like Chai"
-                                    src="assets/images/ai/chai-ai.png">
+                                    src="https://sisgain.com/assets/images/ai/chai-ai.png">
                             </figure>
                             <figcaption>
                                 <h3>App Like Chai</h3>
@@ -493,7 +493,7 @@
                         <article>
                             <figure>
                                 <img loading="lazy" alt="App Like Claude AI"
-                                    src="assets/images/ai/claud-ai.png">
+                                    src="https://sisgain.com/assets/images/ai/claud-ai.png">
                             </figure>
                             <figcaption>
                                 <h3>App Like Claude AI</h3>
@@ -522,7 +522,7 @@
                     <div class="col-lg-5">
 
                         <img loading="lazy"
-                            src="assets/images/ai/ai-readiness-assessment-banner.webp"
+                            src="https://sisgain.com/assets/images/ai/ai-readiness-assessment-banner.webp"
                             alt="ai-readiness-assessment-banner">
 
                     </div>
@@ -579,7 +579,7 @@
                                         Today</button>
                                 </div>
                                 <div class="testimonial-image col-md-6">
-                                    <img loading="lazy" src="assets/images/ai/cs-1.webp" alt="Testimonial 1" />
+                                    <img loading="lazy" src="https://sisgain.com/assets/images/ai/cs-1.webp" alt="Testimonial 1" />
                                 </div>
                             </div>
                         </div>
@@ -609,7 +609,7 @@
                                         Today</button>
                                 </div>
                                 <div class="testimonial-image col-md-6">
-                                    <img loading="lazy" src="assets/images/ai/cs-2.webp" alt="Testimonial 2" />
+                                    <img loading="lazy" src="https://sisgain.com/assets/images/ai/cs-2.webp" alt="Testimonial 2" />
                                 </div>
                             </div>
                         </div>
@@ -639,7 +639,7 @@
                                         Today</button>
                                 </div>
                                 <div class="testimonial-image col-md-6">
-                                    <img loading="lazy" src="assets/images/ai/cs-3.webp" alt="Testimonial 3" />
+                                    <img loading="lazy" src="https://sisgain.com/assets/images/ai/cs-3.webp" alt="Testimonial 3" />
                                 </div>
                             </div>
                         </div>
@@ -727,7 +727,7 @@
                     <div class="dotted-liner"></div>
                     <div class="dotted-round after mob"></div>
                     <span class="icon">
-                        <img loading="lazy" decoding="async" src="assets/images/ai/Strategy.svg" alt="Analyze"></span>
+                        <img loading="lazy" decoding="async" src="https://sisgain.com/assets/images/ai/Strategy.svg" alt="Analyze"></span>
                     <div class="title">Discovery & Strategy</div>
                     <p>
 
@@ -740,7 +740,7 @@
                     <div class="dotted-liner" style="width: 55%"></div>
                     <div class="dotted-round after lg"></div>
                     <div class="dotted-round before mob"></div>
-                    <span class="icon"><img loading="lazy" decoding="async" src="assets/images/ai/Design.svg"
+                    <span class="icon"><img loading="lazy" decoding="async" src="https://sisgain.com/assets/images/ai/Design.svg"
                             alt="Design"></span>
                     <div class="title">Architecture & Design</div>
                     <p>
@@ -755,7 +755,7 @@
                     <div class="dotted-round before lg"></div>
                     <div class="dotted-round after mob"></div>
                     <span class="icon">
-                        <img loading="lazy" decoding="async" src="assets/images/ai/Development.svg" alt="Deploy"></span>
+                        <img loading="lazy" decoding="async" src="https://sisgain.com/assets/images/ai/Development.svg" alt="Deploy"></span>
                     <div class="title">Development & Engineering</div>
                     <p>
 
@@ -769,7 +769,7 @@
                     <div class="dotted-liner" style="width: 55%"></div>
                     <div class="dotted-round before mob"></div>
 
-                    <span class="icon"><img loading="lazy" decoding="async" src="assets/images/ai/Testing.svg"
+                    <span class="icon"><img loading="lazy" decoding="async" src="https://sisgain.com/assets/images/ai/Testing.svg"
                             alt="Develop"></span>
                     <div class="title">Testing & Deployment</div>
                     <p>
@@ -783,7 +783,7 @@
                     <div class="dotted-liner before lg"></div>
                     <div class="dotted-round after mob"></div>
                     <span class="icon">
-                        <img loading="lazy" decoding="async" src="assets/images/ai/Performance.png"
+                        <img loading="lazy" decoding="async" src="https://sisgain.com/assets/images/ai/Performance.png"
                             alt="Monitoring"></span>
                     <div class="title"> Performance Monitoring</div>
                     <p>
@@ -797,7 +797,7 @@
                     <div class="dotted-liner"></div>
 
                     <span class="icon">
-                        <img loading="lazy" decoding="async" src="assets/images/ai/Optimization.png"
+                        <img loading="lazy" decoding="async" src="https://sisgain.com/assets/images/ai/Optimization.png"
                             alt="Analyze"></span>
 
                     <div class="title">Continuous Optimization</div>
@@ -860,7 +860,7 @@
                     <div class="col-lg-3">
                         <a target="blank" href="https://sisgain.com/healthcare">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/healthcare-indus.svg" alt="Healthcare">
+                                <img src="https://sisgain.com/assets/images/ai/healthcare-indus.svg" alt="Healthcare">
                                 <p>Healthcare</p>
                             </div>
                         </a>
@@ -870,7 +870,7 @@
                     <div class="col-lg-3">
                         <a target="blank" href="https://sisgain.com/real-estate-software-solutions">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/realstate.svg" alt="Real Estate">
+                                <img src="https://sisgain.com/assets/images/ai/realstate.svg" alt="Real Estate">
                                 <p>Real Estate</p>
                             </div>
                         </a>
@@ -880,7 +880,7 @@
                     <div class="col-lg-3">
                         <a target="blank" href="https://sisgain.com/education-app-development">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/education-icon.webp" alt="Education">
+                                <img src="https://sisgain.com/assets/images/ai/education-icon.webp" alt="Education">
                                 <p>Education</p>
                             </div>
                         </a>
@@ -890,7 +890,7 @@
                     <div class="col-lg-3">
                         <a target="blank" href="https://sisgain.com/ecommerce-app-development">
                             <div class="ai_industires_box">
-                                <img src="assets/images/chat-bot/ecommerce-sales-chatbots.png" alt="E-commerce">
+                                <img src="https://sisgain.com/assets/images/chat-bot/ecommerce-sales-chatbots.png" alt="E-commerce">
                                 <p>E-commerce</p>
                             </div>
                         </a>
@@ -900,7 +900,7 @@
                     <div class="col-lg-3">
                         <a target="blank" href="https://sisgain.com/fintech-app-development">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/finance-indus.svg" alt="Fintech">
+                                <img src="https://sisgain.com/assets/images/ai/finance-indus.svg" alt="Fintech">
                                 <p>Fintech</p>
                             </div>
                         </a>
@@ -909,7 +909,7 @@
                     <!-- 6 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/insurance-icon.png" alt="Insurance">
+                            <img src="https://sisgain.com/assets/images/chat-bot/insurance-icon.png" alt="Insurance">
                             <p>Insurance</p>
                         </div>
                     </div>
@@ -918,7 +918,7 @@
                     <div class="col-lg-3">
                         <a target="blank" href="https://sisgain.com/travel-app-development-services">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/travel-indus.svg" alt="Travel & Hospitality">
+                                <img src="https://sisgain.com/assets/images/ai/travel-indus.svg" alt="Travel & Hospitality">
                                 <p>Travel & Hospitality</p>
                             </div>
                         </a>
@@ -928,7 +928,7 @@
                     <div class="col-lg-3">
                         <a target="blank" href="https://sisgain.com/logistic-software-development-company">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/e-learning.png" alt="Logistics">
+                                <img src="https://sisgain.com/assets/images/ai/e-learning.png" alt="Logistics">
                                 <p>Logistics & Supply Chain</p>
                             </div>
                         </a>
@@ -938,7 +938,7 @@
                     <div class="col-lg-3">
                         <a target="blank" href="https://sisgain.com/pos">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/pos-res.webp" alt="Restaurant">
+                                <img src="https://sisgain.com/assets/images/ai/pos-res.webp" alt="Restaurant">
                                 <p>Restaurant & Food Delivery</p>
                             </div>
                         </a>
@@ -948,7 +948,7 @@
                     <div class="col-lg-3">
                         <a href="https://sisgain.com/ott-app-development-company">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/entertainment.png" alt="Entertainment">
+                                <img src="https://sisgain.com/assets/images/ai/entertainment.png" alt="Entertainment">
                                 <p>Entertainment & Media</p>
                             </div>
                         </a>
@@ -958,7 +958,7 @@
                     <div class="col-lg-3">
                         <a href="https://sisgain.com/saas-development-company">
                             <div class="ai_industires_box">
-                                <img src="assets/images/chat-bot/saas-and-technology-icon.png" alt="SaaS">
+                                <img src="https://sisgain.com/assets/images/chat-bot/saas-and-technology-icon.png" alt="SaaS">
                                 <p>SaaS & Technology</p>
                             </div>
                         </a>
@@ -967,7 +967,7 @@
                     <!-- 12 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/human-resources-and-enterprise-Operations-icon.png" alt="HR">
+                            <img src="https://sisgain.com/assets/images/chat-bot/human-resources-and-enterprise-Operations-icon.png" alt="HR">
                             <p>Human Resources & Enterprise Operations</p>
                         </div>
                     </div>
@@ -975,7 +975,7 @@
                     <!-- 13 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/telecommunications-icon.png" alt="Telecommunications">
+                            <img src="https://sisgain.com/assets/images/chat-bot/telecommunications-icon.png" alt="Telecommunications">
                             <p>Telecommunications</p>
                         </div>
                     </div>
@@ -983,7 +983,7 @@
                     <!-- 14 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/manufacturing-icon.png" alt="Manufacturing">
+                            <img src="https://sisgain.com/assets/images/chat-bot/manufacturing-icon.png" alt="Manufacturing">
                             <p>Manufacturing</p>
                         </div>
                     </div>
@@ -991,7 +991,7 @@
                     <!-- 15 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/automotive-icon.png" alt="Automotive">
+                            <img src="https://sisgain.com/assets/images/chat-bot/automotive-icon.png" alt="Automotive">
                             <p>Automotive</p>
                         </div>
                     </div>
@@ -999,7 +999,7 @@
                     <!-- 16 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/energy-and-utilities-icon.png" alt="Energy">
+                            <img src="https://sisgain.com/assets/images/chat-bot/energy-and-utilities-icon.png" alt="Energy">
                             <p>Energy & Utilities</p>
                         </div>
                     </div>
@@ -1007,7 +1007,7 @@
                     <!-- 17 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/legal-services-icon.png" alt="Legal">
+                            <img src="https://sisgain.com/assets/images/chat-bot/legal-services-icon.png" alt="Legal">
                             <p>Legal Services</p>
                         </div>
                     </div>
@@ -1016,7 +1016,7 @@
                     <div class="col-lg-3">
                         <a href="https://sisgain.com/pharmacy">
                             <div class="ai_industires_box">
-                                <img src="assets/images/chat-bot/pharmaceuticals-icon.png" alt="Pharma">
+                                <img src="https://sisgain.com/assets/images/chat-bot/pharmaceuticals-icon.png" alt="Pharma">
                                 <p>Pharmaceuticals</p>
                             </div>
                         </a>
@@ -1026,7 +1026,7 @@
                     <div class="col-lg-3">
                         <a href="https://sisgain.com/fitness-club-management">
                             <div class="ai_industires_box">
-                                <img src="assets/images/chat-bot/fitness-and-wellness-icon.png" alt="Fitness">
+                                <img src="https://sisgain.com/assets/images/chat-bot/fitness-and-wellness-icon.png" alt="Fitness">
                                 <p>Fitness & Wellness</p>
                             </div>
                         </a>
@@ -1035,7 +1035,7 @@
                     <!-- 20 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/gaming-icon.png" alt="Gaming">
+                            <img src="https://sisgain.com/assets/images/chat-bot/gaming-icon.png" alt="Gaming">
                             <p>Gaming</p>
                         </div>
                     </div>
@@ -1043,7 +1043,7 @@
                     <!-- 21 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/non-profit-organizations-icon.png" alt="Non Profit">
+                            <img src="https://sisgain.com/assets/images/chat-bot/non-profit-organizations-icon.png" alt="Non Profit">
                             <p>Non-Profit Organizations</p>
                         </div>
                     </div>
@@ -1052,7 +1052,7 @@
                     <div class="col-lg-3">
                         <a href="https://sisgain.com/government-app-development-company">
                             <div class="ai_industires_box">
-                                <img src="assets/images/chat-bot/government-and-Public-Sector-icon.png" alt="Government">
+                                <img src="https://sisgain.com/assets/images/chat-bot/government-and-Public-Sector-icon.png" alt="Government">
                                 <p>Government & Public Sector</p>
                             </div>
                         </a>
@@ -1061,7 +1061,7 @@
                     <!-- 23 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/agriculture-icon.png" alt="Agriculture">
+                            <img src="https://sisgain.com/assets/images/chat-bot/agriculture-icon.png" alt="Agriculture">
                             <p>Agriculture</p>
                         </div>
                     </div>
@@ -1069,7 +1069,7 @@
                     <!-- 24 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/aviation-icon.png" alt="Aviation">
+                            <img src="https://sisgain.com/assets/images/chat-bot/aviation-icon.png" alt="Aviation">
                             <p>Aviation</p>
                         </div>
                     </div>
@@ -1077,7 +1077,7 @@
                     <!-- 25 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/events-and-ticketing-icon.png" alt="Events">
+                            <img src="https://sisgain.com/assets/images/chat-bot/events-and-ticketing-icon.png" alt="Events">
                             <p>Events & Ticketing</p>
                         </div>
                     </div>
@@ -1085,7 +1085,7 @@
                     <!-- 26 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/beauty-and-cosmetics-icon.png" alt="Beauty">
+                            <img src="https://sisgain.com/assets/images/chat-bot/beauty-and-cosmetics-icon.png" alt="Beauty">
                             <p>Beauty & Cosmetics</p>
                         </div>
                     </div>
@@ -1093,7 +1093,7 @@
                     <!-- 27 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/home-services-icon.png" alt="Home Services">
+                            <img src="https://sisgain.com/assets/images/chat-bot/home-services-icon.png" alt="Home Services">
                             <p>Home Services</p>
                         </div>
                     </div>
@@ -1101,7 +1101,7 @@
                     <!-- 28 -->
                     <div class="col-lg-3">
                         <div class="ai_industires_box">
-                            <img src="assets/images/chat-bot/recruitment-and-staffing-icon.png" alt="Recruitment">
+                            <img src="https://sisgain.com/assets/images/chat-bot/recruitment-and-staffing-icon.png" alt="Recruitment">
                             <p>Recruitment & Staffing</p>
                         </div>
                     </div>
@@ -1110,7 +1110,7 @@
                     <!-- <div class="col-lg-3">
                         <a href="https://sisgain.com/education-app-development">
                             <div class="ai_industires_box">
-                                <img src="assets/images/ai/education-icon.webp" alt="EdTech">
+                                <img src="https://sisgain.com/assets/images/ai/education-icon.webp" alt="EdTech">
                                 <p>EdTech</p>
                             </div>
                         </a>
@@ -1135,7 +1135,7 @@
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="ai_related_sec_box">
                             <picture>
-                                <img loading="lazy" src="assets/images/ai/ai-health.png"
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-health.png"
                                     alt="AI in Healthcare">
                             </picture>
                             <h3> <a href="https://sisgain.com/blogs/ai-in-healthcare">AI in Healthcare</a></h3>
@@ -1150,7 +1150,7 @@
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="ai_related_sec_box">
                             <picture>
-                                <img loading="lazy" src="assets/images/ai/ai-food.png" alt="AI in Food & Restaurants">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-food.png" alt="AI in Food & Restaurants">
                             </picture>
                             <h3>AI in Food &amp; Restaurants</h3>
                             <p>
@@ -1164,7 +1164,7 @@
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="ai_related_sec_box">
                             <picture>
-                                <img loading="lazy" src="assets/images/ai/ai-entertainment.png"
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-entertainment.png"
                                     alt="AI in Entertainment">
                             </picture>
                             <h3>AI in Entertainment</h3>
@@ -1179,7 +1179,7 @@
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="ai_related_sec_box">
                             <picture>
-                                <img loading="lazy" src="assets/images/ai/a-finance.png" alt="AI in Finance">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/a-finance.png" alt="AI in Finance">
                             </picture>
                             <h3>AI for BFSI </h3>
                             <p>
@@ -1194,7 +1194,7 @@
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="ai_related_sec_box">
                             <picture>
-                                <img loading="lazy" src="assets/images/ai/ai-travel.png" alt="AI in Travel">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-travel.png" alt="AI in Travel">
                             </picture>
                             <h3>AI in Travel</h3>
                             <p>
@@ -1208,7 +1208,7 @@
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="ai_related_sec_box">
                             <picture>
-                                <img loading="lazy" src="assets/images/ai/ai-ecommerce.png" alt="AI in Ecommerce">
+                                <img loading="lazy" src="https://sisgain.com/assets/images/ai/ai-ecommerce.png" alt="AI in Ecommerce">
                             </picture>
                             <h3><a href="https://sisgain.com/blogs/ai-in-education">AI in Education</a></h3>
                             <p>
@@ -1236,34 +1236,34 @@
                         id="technologyOpen">
                         <span class="desktop-text">Machine Learning & Deep Learning Frameworks</span>
                         <span class="mobile-text"><img loading="lazy"
-                                src="assets/images/ai/ml.png" height="40" width="40"
+                                src="https://sisgain.com/assets/images/ai/ml.png" height="40" width="40"
                                 alt="Machine Learning & Deep Learning Frameworks"></span>
 
                     </div>
                     <div class="technology_tablinks " onclick="openTechnology(event, 'backend')">
                         <span class="desktop-text">Programming Languages & Mobile Frameworks</span>
                         <span class="mobile-text"><img loading="lazy"
-                                src="assets/images/ai/mobile.png" height="40" width="40" alt="Programming Languages & Mobile Frameworks"></span>
+                                src="https://sisgain.com/assets/images/ai/mobile.png" height="40" width="40" alt="Programming Languages & Mobile Frameworks"></span>
                     </div>
                     <div class="technology_tablinks " onclick="openTechnology(event, 'mobile')">
                         <span class="desktop-text">Data Processing, Analysis & Visualization</span>
                         <span class="mobile-text"><img loading="lazy"
-                                src="assets/images/ai/data-analysis.png" height="40" width="40" alt="Data Processing, Analysis & Visualization"></span>
+                                src="https://sisgain.com/assets/images/ai/data-analysis.png" height="40" width="40" alt="Data Processing, Analysis & Visualization"></span>
                     </div>
                     <div class="technology_tablinks " onclick="openTechnology(event, 'Database')">
                         <span class="desktop-text">Specialized AI Capabilities</span>
                         <span class="mobile-text"><img loading="lazy"
-                                src="assets/images/ai/ai-capabilities.png" height="40" width="40" alt="Specialized AI Capabilities"></span>
+                                src="https://sisgain.com/assets/images/ai/ai-capabilities.png" height="40" width="40" alt="Specialized AI Capabilities"></span>
                     </div>
                     <div class="technology_tablinks " onclick="openTechnology(event, 'QualityEngineering')">
                         <span class="desktop-text">Deployment, Containerization & MLOps</span>
                         <span class="mobile-text"><img loading="lazy"
-                                src="assets/images/ai/deployment.png" height="40" width="40" alt="Deployment, Containerization & MLOps"></span>
+                                src="https://sisgain.com/assets/images/ai/deployment.png" height="40" width="40" alt="Deployment, Containerization & MLOps"></span>
                     </div>
                     <div class="technology_tablinks " onclick="openTechnology(event, 'aiml')">
                         <span class="desktop-text">Cloud Platforms, APIs & Monitoring</span>
                         <span class="mobile-text"><img loading="lazy"
-                                src="assets/images/ai/cloud-api.png" height="40" width="40" alt="Cloud Platforms, APIs & Monitoring"></span>
+                                src="https://sisgain.com/assets/images/ai/cloud-api.png" height="40" width="40" alt="Cloud Platforms, APIs & Monitoring"></span>
                     </div>
 
                 </div>
@@ -1274,40 +1274,40 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/TENSORFLOW.svg"
-                                        src="assets/images/ai/tensorflow.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/TENSORFLOW.svg"
+                                        src="https://sisgain.com/assets/images/ai/tensorflow.png" width="50" height="50"
                                         alt="html-tech-icon">
                                     <p>TensorFlow</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/pyTorch.png"
-                                        src="assets/images/ai/pyTorch.png" width="50" height="50" alt="css-tech-icon">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/pyTorch.png"
+                                        src="https://sisgain.com/assets/images/ai/pyTorch.png" width="50" height="50" alt="css-tech-icon">
                                     <p>PyTorch</p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/Keras.png"
-                                        src="assets/images/ai/Keras.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/Keras.png"
+                                        src="https://sisgain.com/assets/images/ai/Keras.png" width="50" height="50"
                                         alt="java-script-tech-icon">
                                     <p>keras</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/Scikit_learn_logo.png"
-                                        src="assets/images/ai/scikit-learn.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/Scikit_learn_logo.png"
+                                        src="https://sisgain.com/assets/images/ai/scikit-learn.png" width="50" height="50"
                                         alt="bootstrap-tech-icon">
                                     <p>Scikit-learn</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/Xgboost.png"
-                                        src="assets/images/ai/Xgboost.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/Xgboost.png"
+                                        src="https://sisgain.com/assets/images/ai/Xgboost.png" width="50" height="50"
                                         alt="angularjs-tech-icon">
 
                                     <p>Xgboost</p>
@@ -1315,8 +1315,8 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/LightGBM.png"
-                                        src="assets/images/ai/LightGBM.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/LightGBM.png"
+                                        src="https://sisgain.com/assets/images/ai/LightGBM.png" width="50" height="50"
                                         alt="react-js-tech-icon">
 
                                     <p>LightGBM</p>
@@ -1326,16 +1326,16 @@
                             <div class="col-lg-3">
                                 <div class="hitech_box">
                                     <img loading="lazy"
-                                        data-src="assets/images/ai/next-js-tech-icon.webp"
-                                        src="assets/images/ai/CatBoost.png" width="50" height="50"
+                                        data-src="https://sisgain.com/assets/images/ai/next-js-tech-icon.webp"
+                                        src="https://sisgain.com/assets/images/ai/CatBoost.png" width="50" height="50"
                                         alt="next-js-tech-icon">
                                     <p> CatBoost</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/MxNet.png"
-                                        src="assets/images/ai/MxNet.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/MxNet.png"
+                                        src="https://sisgain.com/assets/images/ai/MxNet.png" width="50" height="50"
                                         alt="Typescript logo 2020">
 
                                     <p>MxNet </p>
@@ -1343,16 +1343,16 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/figma-tech-icon.svg"
-                                        src="assets/images/ai/caffe.png" width="50" height="50" alt="figma-tech-icon">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/figma-tech-icon.svg"
+                                        src="https://sisgain.com/assets/images/ai/caffe.png" width="50" height="50" alt="figma-tech-icon">
                                     <p>Caffe</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
                                     <img loading="lazy"
-                                        data-src="assets/images/ai/tailwind-css-tech-icon.webp"
-                                        src="assets/images/ai/Theano.png" width="50" height="50"
+                                        data-src="https://sisgain.com/assets/images/ai/tailwind-css-tech-icon.webp"
+                                        src="https://sisgain.com/assets/images/ai/Theano.png" width="50" height="50"
                                         alt="tailwind-css-tech-icon">
 
                                     <p>Theano</p>
@@ -1361,8 +1361,8 @@
                             <div class="col-lg-3">
                                 <div class="hitech_box">
                                     <img loading="lazy"
-                                        data-src="assets/images/ai/material-ui-tech-icon.webp"
-                                        src="assets/images/ai/cntk.png" width="50" height="50"
+                                        data-src="https://sisgain.com/assets/images/ai/material-ui-tech-icon.webp"
+                                        src="https://sisgain.com/assets/images/ai/cntk.png" width="50" height="50"
                                         alt="material-ui-tech-icon">
                                     <p>CNTK</p>
                                 </div>
@@ -1371,32 +1371,32 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jquery.webp"
-                                        src="assets/images/ai/fast-ai.png" width="50" height="50" alt="FastAI">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jquery.webp"
+                                        src="https://sisgain.com/assets/images/ai/fast-ai.png" width="50" height="50" alt="FastAI">
                                     <p>FastAI</p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/Deeplearning4j.png"
-                                        src="assets/images/ai/Deeplearning4j.png" width="50" height="50" alt="FastAI">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/Deeplearning4j.png"
+                                        src="https://sisgain.com/assets/images/ai/Deeplearning4j.png" width="50" height="50" alt="FastAI">
                                     <p>Deeplearning4j</p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jquery.webp"
-                                        src="assets/images/ai/Chainer.png" width="50" height="50" alt="FastAI">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jquery.webp"
+                                        src="https://sisgain.com/assets/images/ai/Chainer.png" width="50" height="50" alt="FastAI">
                                     <p>Chainer</p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jquery.webp"
-                                        src="assets/images/ai/Hugging-Face-Transformers.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jquery.webp"
+                                        src="https://sisgain.com/assets/images/ai/Hugging-Face-Transformers.png" width="50" height="50"
                                         alt="FastAI">
                                     <p>Hugging Face Transformers</p>
                                 </div>
@@ -1413,8 +1413,8 @@
 
                                 <div class="hitech_box">
                                     <img loading="lazy"
-                                        data-src="assets/images/ai/java-script-tech-icon.webp"
-                                        src="assets/images/ai/java.jpg" width="50" height="50"
+                                        data-src="https://sisgain.com/assets/images/ai/java-script-tech-icon.webp"
+                                        src="https://sisgain.com/assets/images/ai/java.jpg" width="50" height="50"
                                         alt="java-script-tech-icon">
                                     <p>java</p>
                                 </div>
@@ -1422,67 +1422,67 @@
                             <div class="col-lg-3">
                                 <div class="hitech_box">
                                     <img loading="lazy"
-                                        data-src="assets/images/ai/java-script-tech-icon.webp"
-                                        src="assets/images/ai/javascript.jpg" width="50" height="50"
+                                        data-src="https://sisgain.com/assets/images/ai/java-script-tech-icon.webp"
+                                        src="https://sisgain.com/assets/images/ai/javascript.jpg" width="50" height="50"
                                         alt="java-script-tech-icon">
                                     <p>Javascript</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/c-plus.svg"
-                                        src="assets/images/ai/c-plus.svg" style="width:50px; height:50px;" width="50" height="50" alt="c-plus">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/c-plus.svg"
+                                        src="https://sisgain.com/assets/images/ai/c-plus.svg" style="width:50px; height:50px;" width="50" height="50" alt="c-plus">
                                     <p>C++</p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/larvel-tech-icon.webp"
-                                        src="assets/images/ai/julia.jpg" width="50" height="50" alt="larvel-tech-icon">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/larvel-tech-icon.webp"
+                                        src="https://sisgain.com/assets/images/ai/julia.jpg" width="50" height="50" alt="larvel-tech-icon">
                                     <p>Julia</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/pytho.webp"
-                                        src="assets/images/ai/scalalogo.jpg" width="50" height="50" alt="python">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/pytho.webp"
+                                        src="https://sisgain.com/assets/images/ai/scalalogo.jpg" width="50" height="50" alt="python">
                                     <p>Scala</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/java.webp"
-                                        src="assets/images/ai/react-native.jpg" width="50" height="50" alt="java">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/java.webp"
+                                        src="https://sisgain.com/assets/images/ai/react-native.jpg" width="50" height="50" alt="java">
                                     <p>React Native</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/php.webp"
-                                        src="assets/images/ai/flutter.jpg" width="50" height="50" alt="php">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/php.webp"
+                                        src="https://sisgain.com/assets/images/ai/flutter.jpg" width="50" height="50" alt="php">
                                     <p>Flutter</p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/django.webp"
-                                        src="assets/images/ai/core-ml.jpg" width="50" height="50" alt="django">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/django.webp"
+                                        src="https://sisgain.com/assets/images/ai/core-ml.jpg" width="50" height="50" alt="django">
                                     <p> Core ML </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sprinboot.webp"
-                                        src="assets/images/ai/ml-kit.jpg" width="50" height="50" alt="sprinboot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sprinboot.webp"
+                                        src="https://sisgain.com/assets/images/ai/ml-kit.jpg" width="50" height="50" alt="sprinboot">
                                     <p>ML kit </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sprinboot.webp"
-                                        src="assets/images/ai/tensorflow.png" width="50" height="50" alt="sprinboot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sprinboot.webp"
+                                        src="https://sisgain.com/assets/images/ai/tensorflow.png" width="50" height="50" alt="sprinboot">
                                     <p>TensorFlow </p>
                                 </div>
                             </div>
@@ -1494,106 +1494,106 @@
                         <div class="row">
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/ios.webp"
-                                        src="assets/images/ai/pandas.jpg" width="50" height="50" alt="ios">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/ios.webp"
+                                        src="https://sisgain.com/assets/images/ai/pandas.jpg" width="50" height="50" alt="ios">
                                     <p>Pandas</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/android.webp"
-                                        src="assets/images/ai/numpy.jpg" width="50" height="50" alt="android">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/android.webp"
+                                        src="https://sisgain.com/assets/images/ai/numpy.jpg" width="50" height="50" alt="android">
                                     <p>Numpy </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/reactnative.webp"
-                                        src="assets/images/ai/polars.jpg" width="50" height="50" alt="reactnative">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/reactnative.webp"
+                                        src="https://sisgain.com/assets/images/ai/polars.jpg" width="50" height="50" alt="reactnative">
                                     <p>Polars</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/flutter.webp"
-                                        src="assets/images/ai/matplotlib.jpg" width="50" height="50" alt="flutter">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/flutter.webp"
+                                        src="https://sisgain.com/assets/images/ai/matplotlib.jpg" width="50" height="50" alt="flutter">
                                     <p>Matplotlib </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/xamarine.webp"
-                                        src="assets/images/ai/seaborn.jpg" width="50" height="50" alt="xamarine">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/xamarine.webp"
+                                        src="https://sisgain.com/assets/images/ai/seaborn.jpg" width="50" height="50" alt="xamarine">
                                     <p>Seaborn </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/kotlin.webp"
-                                        src="assets/images/ai/plotly.jpg" width="50" height="50" alt="kotlin">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/kotlin.webp"
+                                        src="https://sisgain.com/assets/images/ai/plotly.jpg" width="50" height="50" alt="kotlin">
                                     <p>Plotly</p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/swift.webp"
-                                        src="assets/images/ai/d3-js.jpg" width="50" height="50" alt="swift">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/swift.webp"
+                                        src="https://sisgain.com/assets/images/ai/d3-js.jpg" width="50" height="50" alt="swift">
                                     <p> d3 JS </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/unity.webp"
-                                        src="assets/images/ai/apache-spark.jpg" width="50" height="50" alt="unity">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/unity.webp"
+                                        src="https://sisgain.com/assets/images/ai/apache-spark.jpg" width="50" height="50" alt="unity">
                                     <p>Apache Spark </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/unity.webp"
-                                        src="assets/images/ai/apache-hadoop.jpg" width="50" height="50" alt="unity">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/unity.webp"
+                                        src="https://sisgain.com/assets/images/ai/apache-hadoop.jpg" width="50" height="50" alt="unity">
                                     <p>Apache Hadoop </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/unity.webp"
-                                        src="assets/images/ai/apache-airflow.jpg" width="50" height="50" alt="unity">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/unity.webp"
+                                        src="https://sisgain.com/assets/images/ai/apache-airflow.jpg" width="50" height="50" alt="unity">
                                     <p>Apache Airflow </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/unity.webp"
-                                        src="assets/images/ai/luigi.jpg" width="50" height="50" alt="unity">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/unity.webp"
+                                        src="https://sisgain.com/assets/images/ai/luigi.jpg" width="50" height="50" alt="unity">
                                     <p>Luigi </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/unity.webp"
-                                        src="assets/images/ai/apache-beam.jpg" width="50" height="50" alt="unity">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/unity.webp"
+                                        src="https://sisgain.com/assets/images/ai/apache-beam.jpg" width="50" height="50" alt="unity">
                                     <p>Apache Beam </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/unity.webp"
-                                        src="assets/images/ai/kubeflow-logo.jpg" width="50" height="50" alt="unity">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/unity.webp"
+                                        src="https://sisgain.com/assets/images/ai/kubeflow-logo.jpg" width="50" height="50" alt="unity">
                                     <p>Kubeflow </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/unity.webp"
-                                        src="assets/images/ai/flyte.jpg" width="50" height="50" alt="unity">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/unity.webp"
+                                        src="https://sisgain.com/assets/images/ai/flyte.jpg" width="50" height="50" alt="unity">
                                     <p>Flyte </p>
                                 </div>
                             </div>
@@ -1604,45 +1604,45 @@
                         <div class="row">
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/mysql.svg"
-                                        src="assets/images/ai/spacy.png" width="50" height="50" alt="mysql">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/mysql.svg"
+                                        src="https://sisgain.com/assets/images/ai/spacy.png" width="50" height="50" alt="mysql">
                                     <p>spacy</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/mongodb.webp"
-                                        src="assets/images/ai/nltk.png" width="50" height="50" alt="mongodb">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/mongodb.webp"
+                                        src="https://sisgain.com/assets/images/ai/nltk.png" width="50" height="50" alt="mongodb">
                                     <p>nltk </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/oracle.webp"
-                                        src="assets/images/ai/gensim.png" width="50" height="50" alt="oracle">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/oracle.webp"
+                                        src="https://sisgain.com/assets/images/ai/gensim.png" width="50" height="50" alt="oracle">
                                     <p>Gensim</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sql.webp"
-                                        src="assets/images/ai/Hugging-Face-Transformers.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sql.webp"
+                                        src="https://sisgain.com/assets/images/ai/Hugging-Face-Transformers.png" width="50" height="50"
                                         alt="sql">
                                     <p>Hugging Face Transformers </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/postgresql.webp"
-                                        src="assets/images/ai/allennlp.png" width="50" height="50" alt="postgresql">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/postgresql.webp"
+                                        src="https://sisgain.com/assets/images/ai/allennlp.png" width="50" height="50" alt="postgresql">
                                     <p>Allennlp </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/mariaDB.webp"
-                                        src="assets/images/ai/stanford-corenlp.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/mariaDB.webp"
+                                        src="https://sisgain.com/assets/images/ai/stanford-corenlp.png" width="50" height="50"
                                         alt="mariaDB">
                                     <p>Stanford Corenlp</p>
                                 </div>
@@ -1650,55 +1650,55 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/mssql.webp"
-                                        src="assets/images/ai/open-cv.png" width="50" height="50" alt="mssql">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/mssql.webp"
+                                        src="https://sisgain.com/assets/images/ai/open-cv.png" width="50" height="50" alt="mssql">
                                     <p> Open CV </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sqllite.webp"
-                                        src="assets/images/ai/detectron2.png" width="50" height="50" alt="sqllite">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sqllite.webp"
+                                        src="https://sisgain.com/assets/images/ai/detectron2.png" width="50" height="50" alt="sqllite">
                                     <p>Detectron2 </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sqllite.webp"
-                                        src="assets/images/ai/yolo.png" width="50" height="50" alt="sqllite">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sqllite.webp"
+                                        src="https://sisgain.com/assets/images/ai/yolo.png" width="50" height="50" alt="sqllite">
                                     <p>Yolo </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sqllite.webp"
-                                        src="assets/images/ai/mm-detection.png" width="50" height="50" alt="sqllite">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sqllite.webp"
+                                        src="https://sisgain.com/assets/images/ai/mm-detection.png" width="50" height="50" alt="sqllite">
                                     <p>MMDetection </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sqllite.webp"
-                                        src="assets/images/ai/open-ai-gym.png" width="50" height="50" alt="sqllite">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sqllite.webp"
+                                        src="https://sisgain.com/assets/images/ai/open-ai-gym.png" width="50" height="50" alt="sqllite">
                                     <p>OpenAI Gym </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sqllite.webp"
-                                        src="assets/images/ai/ray-rlib.png" width="50" height="50" alt="sqllite">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sqllite.webp"
+                                        src="https://sisgain.com/assets/images/ai/ray-rlib.png" width="50" height="50" alt="sqllite">
                                     <p>Ray RLlib </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/sqllite.webp"
-                                        src="assets/images/ai/stable-baselines.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/sqllite.webp"
+                                        src="https://sisgain.com/assets/images/ai/stable-baselines.png" width="50" height="50"
                                         alt="sqllite">
                                     <p>Stable Baselines </p>
                                 </div>
@@ -1711,69 +1711,69 @@
                         <div class="row">
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/selenium.webp"
-                                        src="assets/images/ai/docker.png" width="50" height="50" alt="selenium">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/selenium.webp"
+                                        src="https://sisgain.com/assets/images/ai/docker.png" width="50" height="50" alt="selenium">
                                     <p>Docker </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/maven.webp"
-                                        src="assets/images/ai/kubernetes.png" width="50" height="50" alt="maven">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/maven.webp"
+                                        src="https://sisgain.com/assets/images/ai/kubernetes.png" width="50" height="50" alt="maven">
                                     <p>kubernetes </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/cucumber.webp"
-                                        src="assets/images/ai/tensorflow.png" width="50" height="50" alt="cucumber">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/cucumber.webp"
+                                        src="https://sisgain.com/assets/images/ai/tensorflow.png" width="50" height="50" alt="cucumber">
                                     <p>Tensorflow </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/gradle.webp"
-                                        src="assets/images/ai/torchserve.png" width="50" height="50" alt="gradle">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/gradle.webp"
+                                        src="https://sisgain.com/assets/images/ai/torchserve.png" width="50" height="50" alt="gradle">
                                     <p>Torchserve </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/onnx.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/onnx.png" width="50" height="50" alt="jira">
                                     <p>Onnx </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/seldon.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/seldon.png" width="50" height="50" alt="jira">
                                     <p>Seldon </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/triton.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/triton.png" width="50" height="50" alt="jira">
                                     <p>Triton </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/bentoml.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/bentoml.png" width="50" height="50" alt="jira">
                                     <p>Bentoml </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/mlflow.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/mlflow.png" width="50" height="50" alt="jira">
                                     <p>mlflow </p>
                                 </div>
                             </div>
@@ -1781,40 +1781,40 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/dvc.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/dvc.png" width="50" height="50" alt="jira">
                                     <p>DVC </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/weights-biases.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/weights-biases.png" width="50" height="50" alt="jira">
                                     <p>Weights & Biases </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/neptune.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/neptune.png" width="50" height="50" alt="jira">
                                     <p>Neptune </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/clear-ml.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/clear-ml.png" width="50" height="50" alt="jira">
                                     <p>ClearML </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/jira.webp"
-                                        src="assets/images/ai/comet.png" width="50" height="50" alt="jira">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/jira.webp"
+                                        src="https://sisgain.com/assets/images/ai/comet.png" width="50" height="50" alt="jira">
                                     <p>Comet </p>
                                 </div>
                             </div>
@@ -1826,15 +1826,15 @@
                         <div class="row">
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/nlp.webp"
-                                        src="assets/images/ai/aws-sagemaker.png" width="50" height="50" alt="nlp">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/nlp.webp"
+                                        src="https://sisgain.com/assets/images/ai/aws-sagemaker.png" width="50" height="50" alt="nlp">
                                     <p>AWS SageMaker </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/deeplearning.webp"
-                                        src="assets/images/ai/google-ai-platform.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/deeplearning.webp"
+                                        src="https://sisgain.com/assets/images/ai/google-ai-platform.png" width="50" height="50"
                                         alt="deeplearning">
                                     <p>Google AI Platform </p>
                                 </div>
@@ -1842,46 +1842,46 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/genrateai.webp"
-                                        src="assets/images/ai/azure-ml.png" width="50" height="50" alt="genrateai">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/genrateai.webp"
+                                        src="https://sisgain.com/assets/images/ai/azure-ml.png" width="50" height="50" alt="genrateai">
                                     <p>Azure ML </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatgpt.webp"
-                                        src="assets/images/ai/ibm-watson.png" width="50" height="50" alt="chatgpt">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatgpt.webp"
+                                        src="https://sisgain.com/assets/images/ai/ibm-watson.png" width="50" height="50" alt="chatgpt">
                                     <p>IBM Watson </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/oracle.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/oracle.png" width="50" height="50" alt="chatbot">
                                     <p>Oracle </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/rest-api.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/rest-api.png" width="50" height="50" alt="chatbot">
                                     <p>REST API </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/graphql.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/graphql.png" width="50" height="50" alt="chatbot">
                                     <p>GraphQL </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/postgresql.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/postgresql.png" width="50" height="50" alt="chatbot">
                                     <p>PostgreSQL </p>
                                 </div>
                             </div>
@@ -1889,8 +1889,8 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/mongo-db.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/mongo-db.png" width="50" height="50" alt="chatbot">
                                     <p>MongoDB </p>
                                 </div>
                             </div>
@@ -1898,8 +1898,8 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/my-sql.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/my-sql.png" width="50" height="50" alt="chatbot">
                                     <p>MySQL </p>
                                 </div>
                             </div>
@@ -1907,8 +1907,8 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/redis.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/redis.png" width="50" height="50" alt="chatbot">
                                     <p>Redis </p>
                                 </div>
                             </div>
@@ -1916,8 +1916,8 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/google-cloud-storage.png" width="50" height="50"
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/google-cloud-storage.png" width="50" height="50"
                                         alt="chatbot">
                                     <p>Google Cloud Storage </p>
                                 </div>
@@ -1926,16 +1926,16 @@
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/h2o-ai.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/h2o-ai.png" width="50" height="50" alt="chatbot">
                                     <p>h2O </p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3">
                                 <div class="hitech_box">
-                                    <img loading="lazy" data-src="assets/images/ai/chatbot.webp"
-                                        src="assets/images/ai/amazon-s3.png" width="50" height="50" alt="chatbot">
+                                    <img loading="lazy" data-src="https://sisgain.com/assets/images/ai/chatbot.webp"
+                                        src="https://sisgain.com/assets/images/ai/amazon-s3.png" width="50" height="50" alt="chatbot">
                                     <p>Amazon S3 </p>
                                 </div>
                             </div>
@@ -2158,7 +2158,7 @@
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="ai_fa_box">
-                            <img loading="lazy" src="assets/images/ai/faqicon.webp" alt="faqicon">
+                            <img loading="lazy" src="https://sisgain.com/assets/images/ai/faqicon.webp" alt="faqicon">
                             <h4>Have A Query Specific To Your Business?</h4>
                             <button data-toggle="modal" data-target="#myModal">Consult Our AI Experts</button>
                         </div>
@@ -2326,7 +2326,7 @@
                     <div class="col-lg-2 px-2 mb-3 d-flex flex-column ">
                         <!-- a1 tall image -->
                         <article class="tcard tcard-avatar mb-3">
-                            <img class="avatar" src="assets/images/ai/emily.jpg" alt="Dr. Emily Carter">
+                            <img class="avatar" src="https://sisgain.com/assets/images/ai/emily.jpg" alt="Dr. Emily Carter">
 
                             <h5>Dr. Emily Carter</h5>
                             <span>Healthcare Director, USA</span>
@@ -2338,7 +2338,7 @@
 
                         <!-- a6 avatar -->
                         <article class="tcard tcard-avatar">
-                            <img class="avatar" src="assets/images/ai/rajiv.jpg" alt="Rajiv Malhotra">
+                            <img class="avatar" src="https://sisgain.com/assets/images/ai/rajiv.jpg" alt="Rajiv Malhotra">
                             <h5> Rajiv Malhotra,</h5>
                             <span>Restaurant Owner, India</span>
                             <hr class="soft">
@@ -2352,7 +2352,7 @@
                     <div class="col-lg-2 px-2 mb-3 d-flex flex-column">
                         <!-- a2 avatar -->
                         <article class="tcard tcard-avatar mb-3">
-                            <img class="avatar" src="assets/images/ai/sofia.jpg" alt="Sofia Martinez">
+                            <img class="avatar" src="https://sisgain.com/assets/images/ai/sofia.jpg" alt="Sofia Martinez">
                             <h5>Sofia Martinez</h5>
                             <span>Media Startup Founder, Spain</span>
                             <hr class="soft">
@@ -2363,7 +2363,7 @@
 
                         <!-- a7 avatar -->
                         <article class="tcard tcard-avatar">
-                            <img class="avatar" src="assets/images/ai/liam.jfif" alt="Liam O’Connor">
+                            <img class="avatar" src="https://sisgain.com/assets/images/ai/liam.jfif" alt="Liam O’Connor">
                             <h5> Liam O’Connor</h5>
                             <span>Tech Lead, Finance Firm, Ireland</span>
                             <hr class="soft">
@@ -2385,7 +2385,7 @@
                     <div class="col-lg-2 px-2 mb-3 d-flex flex-column">
                         <!-- a4 avatar -->
                         <article class="tcard tcard-avatar mb-3">
-                            <img class="avatar" src="assets/images/ai/chen.jfif" alt="Chen Wei">
+                            <img class="avatar" src="https://sisgain.com/assets/images/ai/chen.jfif" alt="Chen Wei">
                             <h5>Chen Wei</h5>
                             <span>CTO, E-Learning Company, Singapore</span>
                             <hr class="soft">
@@ -2396,7 +2396,7 @@
 
                         <!-- a8 avatar -->
                         <article class="tcard tcard-avatar">
-                            <img class="avatar" src="assets/images/ai/hannah.jfif" alt="Hannah Müller">
+                            <img class="avatar" src="https://sisgain.com/assets/images/ai/hannah.jfif" alt="Hannah Müller">
                             <h5>Hannah Müller</h5>
                             <span>Operations Manager, Travel Agency, Germany</span>
                             <hr class="soft">
@@ -2410,7 +2410,7 @@
                     <div class="col-lg-2 px-2 mb-3 d-flex flex-column">
                         <!-- a5 image -->
                         <article class="tcard tcard-avatar mb-3">
-                            <img class="avatar" src="assets/images/ai/ahmad.jpg" alt="Ahmed Al Mansoori">
+                            <img class="avatar" src="https://sisgain.com/assets/images/ai/ahmad.jpg" alt="Ahmed Al Mansoori">
 
                             <h5>Ahmed Al Mansoori</h5>
                             <span>CEO, Healthcare Startup, UAE</span>
@@ -2421,7 +2421,7 @@
 
                         <!-- a9 avatar -->
                         <article class="tcard tcard-avatar">
-                            <img class="avatar" src="assets/images/ai/james.jfif" alt="James Thompson">
+                            <img class="avatar" src="https://sisgain.com/assets/images/ai/james.jfif" alt="James Thompson">
                             <h5> James Thompson</h5>
                             <span>Entrepreneur, Entertainment Industry, UK</span>
                             <hr class="soft">

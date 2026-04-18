@@ -26,14 +26,14 @@
         include("assets/Includes/Header.php");
         include("assets/Includes/Navbar.php");
         ?>
-     <div class="container mt-5 pb-5 pt-3 mb-3">
-     <h3 class="mt-5 pt-5 text-center font-weight-bold" style="line-height: normal;">
-            Thank you for contacting us! <br>
-            We have received your message and will be in touch with you soon! <br>
-            If you require immediate assistance, please call us at +91-9212-080-630.
-        </h3>
-      <center>  <a href="https://sisgain.com/" class="btn bg_default_blue mt-3"> Home </a></center>
-     </div>
+        <div class="container mt-5 pb-5 pt-3 mb-3">
+            <h3 class=" text-center font-weight-bold" style="line-height: normal;">
+                Thank you for contacting us! <br>
+                We have received your message and will be in touch with you soon! <br>
+                If you require immediate assistance, please call us at +91-9212-080-630.
+            </h3>
+            <center> <a href="https://sisgain.com/" class="btn bg_default_blue mt-3"> Home </a></center>
+        </div>
 
     </div>
 
