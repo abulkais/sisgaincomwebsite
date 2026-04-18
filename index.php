@@ -243,27 +243,27 @@
             <div class="container">
                 <ul>
 
-                    <li><img loading="lazy" data-src="assets/images/company_logo/tcs.webp"
-                            src="assets/images/company_logo/tcs.webp" width="118" height="59" fetchpriority="high"
+                    <li><img loading="lazy" data-src="https://sisgain.com/assets/images/company_logo/tcs.webp"
+                            src="https://sisgain.com/assets/images/company_logo/tcs.webp" width="118" height="59" fetchpriority="high"
                             alt="TCS"></li>
-                    <li><img loading="lazy" data-src="assets/images/company_logo/toyota.webp"
-                            src="assets/images/company_logo/toyota.webp" width="118" height="59" fetchpriority="high"
+                    <li><img loading="lazy" data-src="https://sisgain.com/assets/images/company_logo/toyota.webp"
+                            src="https://sisgain.com/assets/images/company_logo/toyota.webp" width="118" height="59" fetchpriority="high"
                             alt="Toyota"></li>
-                    <li><img loading="lazy" data-src="assets/images/company_logo/gt_bank.webp"
-                            src="assets/images/company_logo/gt_bank.webp" width="118" height="59" fetchpriority="high"
+                    <li><img loading="lazy" data-src="https://sisgain.com/assets/images/company_logo/gt_bank.webp"
+                            src="https://sisgain.com/assets/images/company_logo/gt_bank.webp" width="118" height="59" fetchpriority="high"
                             alt="GT Bank"></li>
-                    <li><img loading="lazy" data-src="assets/images/company_logo/akos.webp"
-                            src="assets/images/company_logo/akos.webp" width="118" height="59" fetchpriority="high"
+                    <li><img loading="lazy" data-src="https://sisgain.com/assets/images/company_logo/akos.webp"
+                            src="https://sisgain.com/assets/images/company_logo/akos.webp" width="118" height="59" fetchpriority="high"
                             alt="Akos"></li>
 
-                    <li><img loading="lazy" data-src="assets/images/home/Tawuniya-Logo.webp"
-                            src="assets/images/home/Tawuniya-Logo.webp" width="118" height="59" fetchpriority="high"
+                    <li><img loading="lazy" data-src="https://sisgain.com/assets/images/home/Tawuniya-Logo.webp"
+                            src="https://sisgain.com/assets/images/home/Tawuniya-Logo.webp" width="118" height="59" fetchpriority="high"
                             alt="Tawuniya"></li>
-                    <li><img loading="lazy" data-src="assets/images/company_logo/mcarft.webp"
-                            src="assets/images/company_logo/mcarft.webp" width="118" height="59" fetchpriority="high"
+                    <li><img loading="lazy" data-src="https://sisgain.com/assets/images/company_logo/mcarft.webp"
+                            src="https://sisgain.com/assets/images/company_logo/mcarft.webp" width="118" height="59" fetchpriority="high"
                             alt="Mcraft"></li>
-                    <li><img loading="lazy" data-src="assets/images/company_logo/united-healthcare-insurance.webp"
-                            src="assets/images/company_logo/united-healthcare-insurance.webp" width="118" height="59"
+                    <li><img loading="lazy" data-src="https://sisgain.com/assets/images/company_logo/united-healthcare-insurance.webp"
+                            src="https://sisgain.com/assets/images/company_logo/united-healthcare-insurance.webp" width="118" height="59"
                             fetchpriority="high" alt="United Healthcare"></li>
                 </ul>
             </div>
@@ -815,7 +815,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/hms.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/hms.webp" width="351" height="210"
                                             alt="Hospital Management Software">
                                         <span class="trip-card__badge">HMS</span>
                                     </div>
@@ -835,7 +835,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/telemedicine.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/telemedicine.webp" width="351" height="210"
                                             alt="Telemedicine App Development">
                                         <span class="trip-card__badge">Telemedicine</span>
                                     </div>
@@ -855,7 +855,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/rpm.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/rpm.webp" width="351" height="210"
                                             alt="Remote Patient Monitoring Software">
                                         <span class="trip-card__badge">RPM</span>
                                     </div>
@@ -875,7 +875,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/crm.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/crm.webp" width="351" height="210"
                                             alt="CRM Software">
                                         <span class="trip-card__badge">CRM</span>
                                     </div>
@@ -895,7 +895,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/erp.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/erp.webp" width="351" height="210"
                                             alt="ERP Software">
                                         <span class="trip-card__badge">ERP</span>
                                     </div>
@@ -915,7 +915,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/healthcare.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/healthcare.webp" width="351" height="210"
                                             alt="Healthcare App Development">
                                         <span class="trip-card__badge">Healthcare</span>
                                     </div>
@@ -956,7 +956,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/pos.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/pos.webp" width="351" height="210"
                                             alt="POS Software">
                                         <span class="trip-card__badge">POS</span>
                                     </div>
@@ -975,7 +975,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/ott.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/ott.webp" width="351" height="210"
                                             alt="OTT App Development">
                                         <span class="trip-card__badge">OTT</span>
                                     </div>
@@ -994,7 +994,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/blockchain.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/blockchain.webp" width="351" height="210"
                                             alt="Blockchain Development">
                                         <span class="trip-card__badge">Blockchain</span>
                                     </div>
@@ -1013,7 +1013,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/realestate.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/realestate.webp" width="351" height="210"
                                             alt="Real Estate Web Development">
                                         <span class="trip-card__badge">Real Estate</span>
                                     </div>
@@ -1033,7 +1033,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/fintech.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/fintech.webp" width="351" height="210"
                                             alt="Fintech">
                                         <span class="trip-card__badge">Fintech</span>
                                     </div>
@@ -1053,7 +1053,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/education.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/education.webp" width="351" height="210"
                                             alt="Education">
                                         <span class="trip-card__badge">Education</span>
                                     </div>
@@ -1073,7 +1073,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/tour.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/tour.webp" width="351" height="210"
                                             alt="Travel">
                                         <span class="trip-card__badge">Travel</span>
                                     </div>
@@ -1093,7 +1093,7 @@
                             <div class="trip-carousel__slide">
                                 <article class="trip-card">
                                     <div class="trip-card__media">
-                                        <img loading="lazy" src="assets/images/home/game.webp" width="351" height="210"
+                                        <img loading="lazy" src="https://sisgain.com/assets/images/home/game.webp" width="351" height="210"
                                             alt="Game App Development">
                                         <span class="trip-card__badge">Gaming</span>
                                     </div>
@@ -1152,8 +1152,8 @@
                     <!-- Right (image area) -->
                     <div class="strip-cta__media">
                         <!-- Replace with your image -->
-                        <img loading="lazy" data-src="assets/images/home/ai-cta.webp"
-                            src="assets/images/home/ai-cta.webp" width="301" height="300" alt="CTA Visual"
+                        <img loading="lazy" data-src="https://sisgain.com/assets/images/home/ai-cta.webp"
+                            src="https://sisgain.com/assets/images/home/ai-cta.webp" width="301" height="300" alt="CTA Visual"
                             class="strip-cta__img" />
 
 
@@ -1334,8 +1334,8 @@
                         <article class="ct-card" data-id="1">
                             <div class="ct-header">
                                 <img class="ct-avatar" loading="lazy"
-                                    data-src="assets/images/testimonials/denny-ricksham.webp"
-                                    src="assets/images/testimonials/denny-ricksham.webp" width="56" height="56"
+                                    data-src="https://sisgain.com/assets/images/testimonials/denny-ricksham.webp"
+                                    src="https://sisgain.com/assets/images/testimonials/denny-ricksham.webp" width="56" height="56"
                                     alt="John Smith">
                                 <div>
                                     <div class="ct-name">John Smith</div>
@@ -1360,8 +1360,8 @@
                         <article class="ct-card" data-id="2">
                             <div class="ct-header">
                                 <img class="ct-avatar" loading="lazy"
-                                    data-src="assets/images/testimonials/john-smith.webp"
-                                    src="assets/images/testimonials/john-smith.webp" width="56" height="56"
+                                    data-src="https://sisgain.com/assets/images/testimonials/john-smith.webp"
+                                    src="https://sisgain.com/assets/images/testimonials/john-smith.webp" width="56" height="56"
                                     alt="Clark Davis">
                                 <div>
                                     <div class="ct-name">Clark Davis</div>
@@ -1387,8 +1387,8 @@
                         <article class="ct-card" data-id="3">
                             <div class="ct-header">
                                 <img class="ct-avatar" loading="lazy"
-                                    data-src="assets/images/testimonials/clark-davis.webp"
-                                    src="assets/images/testimonials/clark-davis.webp" width="56" height="56"
+                                    data-src="https://sisgain.com/assets/images/testimonials/clark-davis.webp"
+                                    src="https://sisgain.com/assets/images/testimonials/clark-davis.webp" width="56" height="56"
                                     alt="Michael Roberts">
                                 <div>
                                     <div class="ct-name">Michael Roberts</div>
@@ -1412,8 +1412,8 @@
                         <article class="ct-card" data-id="4">
                             <div class="ct-header">
                                 <img class="ct-avatar" loading="lazy"
-                                    data-src="assets/images/testimonials/michael-roberts.webp"
-                                    src="assets/images/testimonials/michael-roberts.webp" width="56" height="56"
+                                    data-src="https://sisgain.com/assets/images/testimonials/michael-roberts.webp"
+                                    src="https://sisgain.com/assets/images/testimonials/michael-roberts.webp" width="56" height="56"
                                     alt="DENNY">
                                 <div>
                                     <div class="ct-name">Denny Ricksham</div>
@@ -1453,8 +1453,8 @@
                     <div class="case-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img loading="lazy" data-src="assets/images/tawuniya.webp"
-                                    src="assets/images/tawuniya.webp" width="318" height="300" class="img" alt="
+                                <img loading="lazy" data-src="https://sisgain.com/assets/images/tawuniya.webp"
+                                    src="https://sisgain.com/assets/images/tawuniya.webp" width="318" height="300" class="img" alt="
                                     img">
                                 <div class="overlay-box">
                                     <a href="https://tawuniya.com/en/" class="search-icon"
@@ -1473,7 +1473,7 @@
                     <div class="case-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img loading="lazy" data-src="assets/images/toyota.webp" src="assets/images/toyota.webp"
+                                <img loading="lazy" data-src="https://sisgain.com/assets/images/toyota.webp" src="https://sisgain.com/assets/images/toyota.webp"
                                     width="318" height="300" class="img   " alt="img">
                                 <div class="overlay-box">
                                     <a href="https://global.toyota/en/" class="search-icon"
@@ -1492,7 +1492,7 @@
 
                         <div class="inner-box">
                             <div class="image">
-                                <img loading="lazy" data-src="assets/images/nestle.webp" src="assets/images/nestle.webp"
+                                <img loading="lazy" data-src="https://sisgain.com/assets/images/nestle.webp" src="https://sisgain.com/assets/images/nestle.webp"
                                     width="318" height="300" class="img   " alt="img">
                                 <div class="overlay-box">
                                     <a href="https://www.nestle.com/" class="search-icon"
@@ -1512,7 +1512,7 @@
                     <div class="case-block col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img loading="lazy" data-src="assets/images/akosmd.webp" src="assets/images/akosmd.webp"
+                                <img loading="lazy" data-src="https://sisgain.com/assets/images/akosmd.webp" src="https://sisgain.com/assets/images/akosmd.webp"
                                     width="350" height="429" class="img   " alt="img">
                                 <div class="overlay-box">
                                     <a href=https://akosmd.com/" class="search-icon"
@@ -1530,7 +1530,7 @@
                     <div class="case-block col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img loading="lazy" data-src="assets/images/bk.webp" src="assets/images/bk.webp"
+                                <img loading="lazy" data-src="https://sisgain.com/assets/images/bk.webp" src="https://sisgain.com/assets/images/bk.webp"
                                     width="350" height="429" class="img   " alt="img">
                                 <div class="overlay-box">
                                     <a href="https://www.bk.com/" class="search-icon"
@@ -1548,8 +1548,8 @@
                     <div class="case-block col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img loading="lazy" data-src="assets/images/ibilliedme.png"
-                                    src="assets/images/ibilliedme.png" width="350" height="429" class="img   "
+                                <img loading="lazy" data-src="https://sisgain.com/assets/images/ibilliedme.png"
+                                    src="https://sisgain.com/assets/images/ibilliedme.png" width="350" height="429" class="img   "
                                     alt="img">
                                 <div class="overlay-box">
                                     <a href="https://ibilled.me/" class="search-icon"
@@ -1567,8 +1567,8 @@
                     <div class="case-block col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-box">
                             <div class="image">
-                                <img loading="lazy" data-src="assets/images/hitachi.webp"
-                                    src="assets/images/hitachi.webp" width="350" height="429" class="img   " alt="img">
+                                <img loading="lazy" data-src="https://sisgain.com/assets/images/hitachi.webp"
+                                    src="https://sisgain.com/assets/images/hitachi.webp" width="350" height="429" class="img   " alt="img">
                                 <div class="overlay-box">
                                     <a href="https://www.hitachi.com/" class="search-icon"
                                         aria-label="Visit Hitachi website"><span class="fa fa-search"></span></a>
