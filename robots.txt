@@ -9,4 +9,13 @@ Disallow: /index-new*
 Disallow: /web_enquires*
 Disallow: /thankyou*
 
+User-agent: CCBot
+Allow: /
+ 
+User-agent: CloudflareBrowserRenderingCrawler
+Allow:  /
+ 
+User-agent: GPTBot
+Allow: /
+
 Sitemap: https://sisgain.com/sitemap.xml

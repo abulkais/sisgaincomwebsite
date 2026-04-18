@@ -1,0 +1,1555 @@
+.container {
+    max-width: 1300px;
+}
+
+.service_banner_sec {
+  
+    height: auto;
+    margin-top: -90px;
+    background: #022a5e;
+    color: #fff;
+    padding: 150px 0 100px;
+    position: relative;
+}
+
+
+.service_banner_sec:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: url('../images/telemedicine/overlay-pattern.webp') rgba(4,12,23,.7) !important;
+}
+
+.service_banner_sec_con {
+    width: 70%;
+}
+
+.service_banner_sec h1 {
+    margin-bottom: 1.5rem;
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.service_banner_sec p {
+    margin-bottom: 2rem;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    font-weight: 500;
+    line-height: 2rem;
+}
+
+.service_banner_btn {
+    box-shadow: 0px 7px 14px rgba(14, 43, 92, 0.25);
+    color: #fff;
+    background-color: #0e2b5c;
+    padding: 10px 1.6rem;
+    font-weight: 600;
+    border-radius: 30px;
+    border: 1px solid #0e2b5c;
+    transition: .8s ease-in-out;
+    animation-iteration-count: infinite;
+    animation-name: service_banner_btn;
+    animation-duration: 2.5s;
+    animation-fill-mode: both;
+    animation-delay: 0;
+    animation-play-state: running;
+
+}
+
+
+@keyframes service_banner_btn {
+    0% {
+        transform: scaleX(1)
+    }
+
+    2.5%,
+    5% {
+        transform: scale3d(.9, .9, .9) rotate(-3deg)
+    }
+
+    12.5%,
+    17.5%,
+    22.5%,
+    7.5% {
+        transform: scale3d(1.1, 1.1, 1.1) rotate(3deg)
+    }
+
+    10%,
+    15%,
+    20% {
+        transform: scale3d(1.1, 1.1, 1.1) rotate(-3deg)
+    }
+
+    25%,
+    to {
+        transform: scaleX(1)
+    }
+}
+
+.service_banner_btn img {
+    width: 25px;
+    margin-left: 5px;
+    height: auto;
+}
+
+
+
+
+.btn-fix {
+    background: transparent linear-gradient(270deg, #33b4ff 0%, #00649e 100%) 0% 0% no-repeat padding-box;
+    color: #fff;
+    border-radius: 50px;
+    border: unset;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 2px 36px rgba(0, 0, 0, .06);
+    font-size: 1.3rem;
+    font-weight: normal;
+    position: relative;
+    white-space: nowrap;
+    transition: .8s;
+    height: 55px;
+    padding: 5px 60px 5px 25px;
+    width: fit-content;
+    cursor: pointer;
+}
+
+
+
+.btn-fix_wht {
+    background: #fff;
+    color: #000;
+}
+
+.btn-fix.btn-fix_wht svg {
+    background: transparent linear-gradient(270deg, #33b4ff 0%, #00649e 100%) 0% 0% no-repeat padding-box;
+}
+
+.btn-fix.btn-fix_wht svg path {
+    fill: #fff;
+}
+
+.btn-fix svg path {
+    fill: #000;
+}
+
+.btn-fix svg {
+    background: #fff;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding: 10px;
+    position: absolute;
+    transition: .5s;
+    right: 10px;
+    animation: wobble 1s ease infinite;
+}
+
+@keyframes wobble {
+    0% {
+        transform: translateX(0%);
+    }
+
+    15% {
+        transform: translateX(-12%) rotate(-5deg);
+    }
+
+    30% {
+        transform: translateX(10%) rotate(3deg);
+    }
+
+    45% {
+        transform: translateX(-8%) rotate(-3deg);
+    }
+
+    60% {
+        transform: translateX(6%) rotate(2deg);
+    }
+
+    75% {
+        transform: translateX(-3%) rotate(-1deg);
+    }
+
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+.header_cnt:before {
+    content: "" !important;
+    top: 0;
+    transform: translateX(100%);
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    z-index: -1;
+    animation: slide 2s infinite;
+    background: linear-gradient(to right, rgba(64, 235, 241, 0) 0%, rgba(255, 254, 253, 56%) 50%, rgba(255, 254, 253, 28%) 99%, rgba(64, 235, 241, 0) 100%);
+    overflow: hidden;
+}
+
+.btn-fix:hover {
+    background: #fff;
+    color: #000;
+    padding: 5px 25px 5px 60px;
+}
+
+.btn-fix:hover svg {
+    background: transparent linear-gradient(270deg, #33b4ff 0%, #00649e 100%) 0% 0% no-repeat padding-box;
+    right: calc(100% - 50px);
+}
+
+.btn-fix:hover svg path {
+    fill: #fff;
+}
+
+/*  */
+
+
+
+/* brands section start */
+.bg-blue {
+    background: #000;
+    height: auto;
+    padding: 35px 0px 50px;
+}
+
+.bg-blue .section-title {
+    text-align: center;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 auto -10px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
+    color: white;
+    opacity: .9;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.bg-blue .section-title span {
+    background-color: #000;
+    position: relative;
+    padding: 0px 45px;
+}
+
+.bg-blue .section-title:before {
+    position: absolute;
+    content: "";
+    top: 20px;
+    width: 380px;
+    height: 1px;
+    background-color: white;
+    opacity: .25;
+    width: 88%;
+    z-index: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.bg-blue img {
+    width: 100%;
+    height: auto;
+    filter: invert();
+    margin-top: 2rem;
+}
+
+/* brands section end */
+
+
+.serviceAboutSec {
+    margin: 4rem 0;
+}
+
+.serviceAboutSec h2 {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.serviceAboutSec p {
+    color: #000;
+    font-size: 1.1rem;
+    text-align: start;
+}
+
+.serviceAboutSec img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.serviceAboutSec .row {
+    align-items: center;
+}
+
+/*  */
+.service_services_sec {
+    background-color: #f9f9ff;
+    padding: 4rem 0;
+    margin: 4rem 0;
+}
+
+.service_services_sec .row {
+    align-items: center;
+}
+
+.service_services_sec h2 {
+    font-weight: 600;
+    line-height: normal;
+    font-size: 2.8rem;
+}
+
+.service_services_sec p {
+    font-size: 1.2rem;
+}
+
+.services_box {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+
+.services_box_head {
+    display: flex;
+    align-items: center;
+    text-align: start;
+}
+
+.services_box_head img {
+    width: 40px;
+    margin-right: 10px;
+    height: auto;
+}
+
+.services_box_head h3 {
+    font-size: 1.2rem;
+    color: #000;
+    margin-bottom: 0;
+    line-height: normal;
+    font-weight: 500;
+}
+
+.services_box p {
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+/*  */
+
+.service_form_sec {
+    visibility: visible;
+    position: relative;
+    margin: 11rem 0 6rem 0;
+    padding: 2.5rem 0;
+    background: transparent linear-gradient(270deg, #33b4ff 0%, #00649e 100%) 0% 0% no-repeat padding-box;
+
+
+}
+
+.service_form_sec .row {
+    align-items: center;
+}
+
+.service_form_sec h3 {
+    color: #fff;
+    font-size: 3rem;
+    line-height: normal;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+
+
+.service_form_sec img {
+    position: absolute;
+    top: -285px;
+    width: 100%;
+    height: auto;
+}
+
+/*  */
+.telemed_features {
+    background-color: #000;
+    padding: 4rem 0;
+}
+
+.telemed_features h3 {
+    color: #fff;
+    font-size: 3rem;
+    line-height: normal;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+/* .telemed_features .row{
+    align-items: center;
+} */
+
+
+/* Style the tab */
+.telemedtab {
+    align-items: center;
+    padding: 1rem 1.5rem;
+    overflow: hidden;
+    display: inline-block;
+    border: 3px solid #ccc;
+    border-radius: 100px;
+    background-color: #fff;
+}
+
+/* Style the buttons inside the tab */
+.telemedtab .telemedtablinks {
+    background-color: inherit;
+    float: left;
+    background-color: #fff;
+    padding: 10px 1.5rem;
+    margin: 0 10px;
+    font-weight: 500;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+/* Change background color of buttons on hover */
+.telemedtab .telemedtablinks:hover {
+    color: #fff;
+    background: transparent linear-gradient(270deg, #33b4ff 0%, #00649e 100%) 0% 0% no-repeat padding-box;
+}
+
+/* Create an active/current tablink class */
+.telemedtab .telemedtablinks.active {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    color: #fff;
+    background: transparent linear-gradient(270deg, #33b4ff 0%, #00649e 100%) 0% 0% no-repeat padding-box;
+}
+
+/* Style the tab content */
+.telemedtabcontent {
+    display: none;
+    margin-top: 3rem;
+    border: none;
+
+}
+
+.telemed_features p {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+}
+
+.telemedtabcontent img {
+    width: 100%;
+    height: auto;
+}
+
+.info_card {
+    padding: 2rem 1rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    background-color: #f9f9ff;
+    margin-bottom: 2rem;
+}
+
+.info_card:hover {
+    background: #0e2b5c;
+}
+
+.info_card:hover h4 {
+    color: #fff;
+}
+
+.info_card svg {
+    display: block;
+    width: 50px;
+    height: 40px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.info_card h4 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 1rem;
+    color: #000;
+    text-align: center;
+}
+
+
+/* view case studies */
+.casestudies_sec {
+    margin: 4rem 0 0
+}
+
+.viewCaseStudies {
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px 1.5rem;
+}
+
+.casestudies_sec h4 {
+    text-align: center;
+    line-height: normal;
+    font-size: 2.7rem;
+    color: #132948;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.casestudies_slider {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    overflow: hidden
+}
+
+.slider-casestudies {
+    display: flex;
+    transition: transform .4s ease-in-out
+}
+
+.caseStudiesSliderBox {
+    min-width: 50%;
+    box-sizing: border-box;
+    padding: 60px 20px 20px 20px;
+    background: 0 0;
+}
+
+.caseStudiesLeftArrow,
+.caseStudieRightArrow {
+    height: auto;
+    width: 48px;
+    border-radius: 50px;
+    position: absolute;
+    top: 5%;
+    transform: translateY(-50%);
+    border: none;
+    padding: 10px;
+    transition: .8s ease-in-out;
+    background-color: #0b79be;
+    color: #fff;
+}
+
+.caseStudiesLeftArrow:hover,
+.caseStudieRightArrow:hover {
+    background-color: transparent;
+    color: #0b79be;
+    border: 1px solid #0b79be;
+}
+
+.caseStudiesLeftArrow {
+    left: 90%
+}
+
+.caseStudieRightArrow {
+    right: 30px
+}
+
+.caseStudiesLeftArrow i,
+.caseStudieRightArrow i {
+    text-align: center;
+    font-size: 1.5rem
+}
+
+
+
+.case_box {
+
+    padding: 40px;
+    border-radius: 20px;
+
+}
+
+.case_box p {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    /* Limit to 4 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: start;
+    color: #fff;
+}
+
+
+.case_logo img {
+    margin-bottom: 1rem;
+    height: auto;
+    width: 100px;
+}
+
+.case_img img {
+    float: right;
+    max-height: 350px;
+    text-align: center;
+}
+
+.case-available {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 3rem;
+    align-items: center;
+}
+
+.case-available p {
+    /* marg */
+    margin-bottom: 0;
+}
+
+.case-available img {
+    filter: invert(1);
+    width: 40px;
+    height: 40px;
+}
+
+/* case studies section end */
+
+
+
+/* Industry section start */
+.indistry_serve {
+    margin: 4rem 0;
+
+}
+
+.indistry_serve_box {
+    cursor: pointer;
+    position: relative;
+    margin-bottom: 1.6rem;
+    width: 100%;
+    height: 230px;
+}
+
+.indistry_serve_box_img {
+
+    position: relative;
+    height: 100%;
+}
+
+.indistry_serve_box_img::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    /* background-color: rgba(0, 0, 0, 0.20); */
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0)), to(rgba(0, 0, 0, 0.8)));
+    background-image: -o-linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.8));
+    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.8));
+}
+
+.indistry_serve_box_img img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.indistry_serve_box_body {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: start;
+    width: 100%;
+    padding: 10px;
+}
+
+.indistry_serve_box_title {
+    color: #FFF;
+    text-align: start;
+    text-shadow: 0px 2.52px 9.47px rgba(0, 0, 0, 0.50);
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 24px;
+}
+
+.indistry_serve_box_icon {
+    width: 68px;
+    height: 68px;
+    line-height: 72px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.indistry_serve_box_icon img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+
+.industries_des span {
+    color: #0a78be;
+    position: relative;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.industries_des h3 {
+    line-height: normal;
+    font-size: 2.5rem;
+    color: #132948;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.industries_des p {
+    text-align: justify;
+    color: #000;
+}
+
+.at-border {
+    position: relative;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.at-border::before {
+    width: 25px;
+    margin-bottom: 7px;
+}
+
+.at-border::after {
+    width: 50px;
+}
+
+.at-border::before,
+.at-border::after {
+    content: "";
+    height: 2px;
+    margin-left: auto;
+    background: #cc2171;
+    display: block;
+}
+
+/* Industry section end */
+
+/* bussiness section start */
+
+.bussiness_sec {
+    background-image: url('../images/home/cta-img.webp');
+    padding: 4rem 0;
+    margin: 4rem 0;
+    background-position: center center;
+    background-size: cover;
+}
+
+.bussiness_sec h4 {
+    text-align: start;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.bussiness_sec_box {
+    border-radius: 100px;
+    background-color: #fff;
+    padding: 8px 20px;
+    font-weight: 500;
+    /* margin-bottom: 2rem; */
+}
+
+
+
+.bussiness_sec_inner {
+    width: 60%;
+}
+
+
+
+.a-btn-txt {
+    font-size: 18px;
+    color: #191919;
+    padding: 8px 10px 9px 0
+}
+
+.a-btn {
+
+    text-decoration: none;
+    font-size: 18px;
+    color: #191919;
+    padding: 8px 0 9px 25px;
+    position: relative
+}
+
+.a-btn:before {
+    content: '';
+    position: absolute;
+    border: 2px solid #191919;
+    min-width: 42px;
+    height: 42px;
+    left: 0;
+    border-radius: 100px;
+    transition: ease-in-out .5s
+}
+
+.a-btn:hover:before {
+    transition: ease-in-out .5s;
+    min-width: 200px
+}
+
+.a-btn.a-btn-nxt:hover:before {
+    transition: ease-in-out .5s;
+    min-width: 145px
+}
+
+.a-btn.a-btn-nxt-lg:hover:before {
+    transition: ease-in-out .5s;
+    min-width: 250px !important
+}
+
+.a-btn-white {
+
+    color: #fff !important
+}
+
+.a-btn-white:hover {
+    text-decoration: none;
+}
+
+.a-btn-white:before {
+    border: 2px solid #fff
+}
+
+/* bussiness section end */
+
+/* technology start */
+
+.technology_sec {
+
+    margin: 4rem 0;
+
+}
+
+
+
+.technology_sec .technology_desp {
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 2rem;
+}
+
+.technology_desp h4 {
+    text-align: center;
+    line-height: normal;
+    font-size: 2.5rem;
+    color: #132948;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+/* Style the tab */
+.technology_tab {
+    overflow-x: hidden;
+    border-radius: 5px 0px 0px 5px;
+    padding: 1rem 0;
+    float: left;
+    background-color: #fff;
+    width: 20%;
+    height: 400px;
+    overflow-y: auto;
+}
+
+/* Style the buttons inside the tab */
+.technology_tab .technology_tablinks {
+    display: block;
+    background-color: inherit;
+    color: #000;
+    padding: 10px 0 10px 1rem;
+    width: 100%;
+    outline: none;
+    text-align: left;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 1.1rem;
+}
+
+/* Change background color of buttons on hover */
+.technology_tab .technology_tablinks:hover {}
+
+/* Create an active/current "tab button" class */
+.technology_tab .technology_tablinks.active {
+    border-left: 5px solid #006FB5;
+    color: #006FB5;
+}
+
+/* Style the tab content */
+.technology_tabcontent {
+    border-radius: 0 5px 5px 0;
+    padding: 1rem;
+    /* padding: 0px 12px; */
+    width: 80%;
+    height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: #fff;
+}
+
+.hitech_box {
+    cursor: pointer;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+    /* background-color: #e9f2fe94; */
+    width: 100%;
+    height: auto;
+    /* border-radius: 5px; */
+    /* border-bottom: 5px solid #e9f2fe94; */
+    /* padding: 15px; */
+    margin-bottom: 3rem;
+    /* Smooth transition when hover ends */
+
+}
+
+.hitech_box img {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: 50px;
+}
+
+@keyframes shake_notification {
+    0% {
+        transform: scaleX(1)
+    }
+
+    2.5%,
+    5% {
+        transform: scale3d(.9, .9, .9) rotate(-3deg)
+    }
+
+    12.5%,
+    17.5%,
+    22.5%,
+    7.5% {
+        transform: scale3d(1.1, 1.1, 1.1) rotate(3deg)
+    }
+
+    10%,
+    15%,
+    20% {
+        transform: scale3d(1.1, 1.1, 1.1) rotate(-3deg)
+    }
+
+    25%,
+    to {
+        transform: scaleX(1)
+    }
+}
+
+
+.hitech_box:hover {
+    animation-iteration-count: infinite;
+    animation-name: shake_notification;
+    animation-duration: 2.5s;
+    animation-fill-mode: both;
+    animation-delay: 0;
+    animation-play-state: running
+}
+
+/* 
+.hitech_box:hover {
+    border-bottom: 5px solid #006FB5;
+} */
+
+.hitech_box h5 {
+    margin-bottom: 0;
+    margin-top: 1rem;
+    text-align: center;
+    color: #000;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.technology_tab::-webkit-scrollbar,
+.technology_tabcontent::-webkit-scrollbar {
+    width: 4px;
+}
+
+/* Track */
+.technology_tab::-webkit-scrollbar-track,
+.technology_tabcontent::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+}
+
+/* Handle */
+.technology_tab::-webkit-scrollbar-thumb,
+.technology_tabcontent::-webkit-scrollbar-thumb {
+    background: #f5f5f5;
+    border-radius: 10px;
+}
+
+/* technology section end */
+
+
+/* why choose section start */
+.whyChoose_sec {
+    margin: 4rem 0rem;
+}
+
+
+
+.whyChoose_sec h4 {
+    text-align: start;
+    line-height: normal;
+    font-size: 2.5rem;
+    color: #132948;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.whyChoose_sec p {
+    text-align: justify;
+}
+
+.whyChoose_sec_box {
+    background-color: #fff;
+    box-shadow: 0px 10px 60px 0px rgba(71, 74, 182, .12);
+    width: 100%;
+    height: auto;
+}
+
+.whyChoose_inner_box {
+    padding: 1.9rem;
+}
+
+.img_content {
+    display: flex;
+    align-items: start;
+}
+
+.img_content img {
+    margin-right: 1rem;
+    width: 40px;
+    height: auto;
+}
+
+.whyChooseContent h5 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.whyChooseContent p {
+    margin-bottom: 0;
+    text-align: start;
+}
+
+.whyChoose_sec_box .col-lg-6:nth-child(1) {
+    border-right: 2px solid #f3f4fa;
+    border-bottom: 2px solid #f3f4fa;
+}
+
+.whyChoose_sec_box .col-lg-6:nth-child(2) {
+    border-bottom: 2px solid #f3f4fa;
+}
+
+.whyChoose_sec_box .col-lg-6:nth-child(3) {
+    border-right: 2px solid #f3f4fa;
+    border-bottom: 2px solid #f3f4fa;
+}
+
+.whyChoose_sec_box .col-lg-6:nth-child(4) {
+    border-bottom: 2px solid #f3f4fa;
+}
+
+.whyChoose_sec_box .col-lg-6:nth-child(5) {
+    border-right: 2px solid #f3f4fa;
+    border-bottom: 2px solid #f3f4fa;
+}
+
+.whyChoose_sec_box .col-lg-6:nth-child(6) {
+    border-bottom: 2px solid #f3f4fa;
+}
+
+/* why choose section end */
+
+
+/* awards section start */
+
+.awards_sec {
+    margin: 4rem 0;
+}
+
+.awards-and-recognition {
+    background-image: url(../images/home/awards-and-recognition.webp);
+    background-size: cover;
+    background-position: center center;
+    border-radius: 20px;
+}
+
+
+
+
+
+span.bottom-line.bottom-line-big {
+    width: 100px;
+}
+
+span.bottom-line {
+    width: 50px;
+    display: inline-block;
+    border: 1px solid #191919;
+    margin-bottom: 20px;
+}
+
+
+
+
+.awards_sec_des p {
+    font-size: 16px;
+    line-height: 32px;
+    color: #fff;
+}
+
+.awards_sec_des {
+    margin: 0px 0pc 0px 3rem;
+}
+
+.awards_sec_des h4 {
+    line-height: normal;
+    font-size: 2.7rem;
+    margin-bottom: 0;
+    color: #fff;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.awards-and-recognition .border-start {
+    border-color: rgba(255, 255, 255, .2) !important;
+}
+
+.border-start,
+.border-bottom,
+.border-end {
+    border-color: #ececec !important;
+}
+
+.border-start {
+    border-left: 1px solid rgba(255, 255, 255, .2);
+}
+
+
+
+.cust-border-end {
+    border-right: 1px solid rgba(255, 255, 255, .2);
+}
+
+.cust-border-top {
+    border-top: 1px solid rgba(255, 255, 255, .2);
+}
+
+.awards_content h4 {
+    font-size: 1.8rem;
+    color: #fff;
+}
+
+.awards_content p {
+    color: #fff;
+}
+
+/* awards section end */
+
+.mobile-text {
+    display: none;
+}
+
+
+.mobile_btn {
+    display: none;
+}
+
+.telemedtablinks img {
+    display: none;
+}
+
+
+@media only screen and (max-width: 500px) {
+
+    .case_img img {
+        margin: 0 auto;
+        display: block;
+        float: none;
+    }
+
+    .indistry_serve_box {
+        margin: 0 auto;
+        width: 90%;
+        margin-top: 1.5rem;
+    }
+
+    .indistry_serve_box_body {
+        padding-left: 30px;
+    }
+
+    .indistry_serve_box_title {
+        font-size: 1.5rem;
+        margin-left: .5rem;
+    }
+
+    .indistry_serve_box_icon {
+        width: 80px;
+        height: 80px;
+    }
+
+    .indistry_serve_box_icon img {
+        width: 45px;
+        height: 45px;
+    }
+
+
+    .mobile_btn {
+        background-color: #006FB5 !important;
+        display: inline;
+    }
+
+    .hero-section {
+        align-items: start !important;
+        height: 100%;
+        padding: 80px 0 30px;
+    }
+
+    .hero-section-content {
+        width: 100%;
+    }
+
+    .hero-section h1 {
+        line-height: normal;
+        text-transform: uppercase;
+        margin-top: 2rem;
+        font-size: 3rem;
+    }
+
+
+    .hero-section p {
+        font-size: 1.2rem;
+        font-weight: 600;
+    }
+
+    .hero_section_button {
+        font-weight: 600;
+        border-radius: 40px;
+    }
+
+    .bg-blue .section-title span {
+        padding: 0 18px;
+    }
+
+
+
+
+    /*  */
+    .indistry_serve {
+        margin: 2rem 0;
+    }
+
+    .industries_des h3 {
+        font-size: 2rem;
+    }
+
+    .industries_des p {
+        display: none;
+    }
+
+    .bussiness_sec {
+        margin: 2rem 0;
+        padding: 2rem 0;
+    }
+
+    .bussiness_sec_inner {
+        width: 100%;
+    }
+
+    .bussiness_sec h4 {
+        font-size: 2rem;
+    }
+
+    /*  */
+    .technology_sec {
+        margin: 2rem 0;
+    }
+
+    .technology_desp h4 {
+        font-size: 2rem;
+    }
+
+    .technology_sec .technology_desp {
+        width: 100%;
+    }
+
+    .technology_tab .technology_tablinks.active {
+        border-radius: 10px;
+        background-color: #0a78be;
+        /* color: #fff; */
+    }
+
+    .technology_tab .technology_tablinks.active img {
+        width: auto;
+        height: 40px;
+        filter: invert();
+    }
+
+    .technology_tab {
+        width: 25%;
+        height: 500px !important;
+    }
+
+    .technology_tabcontent {
+        width: 75%;
+        height: 500px !important;
+    }
+
+    .hitech_box {
+        cursor: pointer;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+        border-radius: 5px;
+        border-bottom: 5px solid #0a78be;
+        padding: 10px;
+        margin-bottom: 3rem;
+    }
+
+    .desktop-text {
+        display: none;
+    }
+
+    .mobile-text {
+        display: inline;
+    }
+
+    /*  */
+    .casestudies_sec h4 {
+        font-size: 2rem;
+    }
+
+    .casestudies_slider {
+        padding-bottom: 3rem;
+    }
+
+    .caseStudiesSliderBox {
+        min-width: 100%;
+    }
+
+    .caseStudiesLeftArrow,
+    .caseStudieRightArrow {
+        /* z-index: 1000 !important; */
+        top: 95% !important;
+    }
+
+    .caseStudieRightArrow {
+        right: 125px;
+    }
+
+    .caseStudiesLeftArrow {
+        left: 125px;
+    }
+
+    .caseStudiesSliderBox {
+        padding: 20px;
+    }
+
+    .case_box p {
+        display: none;
+    }
+
+    .case-available p {
+        display: inline;
+    }
+
+    /*  */
+    .whyChoose_sec {
+        margin: 2rem 0;
+    }
+
+    .whyChoose_sec h4 {
+        font-size: 2rem;
+    }
+
+    .whyChoose_inner_box {
+        padding: 1rem;
+    }
+
+    /*  */
+    .awards_sec {
+        margin: 2rem 0;
+    }
+
+    .awards_sec_des h4 {
+        font-size: 2rem;
+    }
+
+    .awards_sec_des {
+        margin: 0;
+    }
+
+    .awards-and-recognition {
+        padding: 2rem;
+    }
+
+    .awards_sec_des p {
+        display: none;
+    }
+
+    .cust-border-top img,
+    .cust-border-mob-right img {
+        width: 70px;
+        height: auto;
+    }
+
+    .awards_content p {
+        display: none;
+    }
+
+    .service_banner_sec_con {
+        width: 100%;
+    }
+
+    .service_banner_sec_con h1 {
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
+
+    .service_banner_sec {
+
+        color: #fff;
+        padding: 130px 0 50px;
+    }
+
+    .serviceAboutSec h2 {
+        font-size: 2rem;
+        line-height: normal;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    .serviceAboutSec p {
+        font-size: 1rem;
+        text-align: justify;
+    }
+
+    .serviceAboutSec img {
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
+        margin-top: 1rem;
+        display: block;
+    }
+
+    .service_services_sec {
+        padding: 2rem 0;
+    }
+
+    .service_services_sec h2 {
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    .service_services_sec p {
+        text-align: justify;
+    }
+
+    .services_box p {
+        text-align: start;
+    }
+
+
+
+    /*  */
+    .service_form_sec img {
+        display: none;
+    }
+
+    .service_form_sec h3 {
+        font-size: 2rem;
+        text-align: start;
+    }
+
+    .service_form_sec {
+        margin: 2rem 0;
+    }
+
+    .telemed_features h3 {
+        font-size: 2rem;
+    }
+
+    .telemedtab {
+        display: flex;
+        /* color: #fff; */
+        background-color: #434354;
+        width: 100%;
+        padding: 10px;
+        white-space: nowrap;
+        border-radius: 100px;
+        scroll-behavior: smooth;
+        user-select: none;
+        overflow-x: auto;
+
+        border: none;
+
+    }
+
+    .telemedtablinks img {
+        width: 40px;
+        height: auto;
+        display: inline-block !important;
+    }
+
+    .telemedtablinks span {
+        display: none;
+    }
+
+    .mobile_desktop_res .col-lg-4 {
+        width: 50%;
+    }
+
+    .telemedtabcontent{
+        margin-top: 1rem;
+    }
+    .info_card {
+
+        margin-top: 1.5rem;
+        margin-bottom: 0;
+        padding: 1rem;
+    }
+
+    .info_card h4 {
+        font-size: 1.2rem;
+    }
+    .telemedtabcontent img{
+        display: none;
+    }
+    #form_modal2 .col-lg-5{
+        display: none;
+    }
+    .modal_form2{
+        padding: 1rem 0;
+    }
+}
