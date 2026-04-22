@@ -850,7 +850,7 @@ body.menu-open .navbar::after {
 }
 
 .ind-link {
-  display: flex;
+  display: flex!important;
   align-items: center;
   gap: 11px;
   padding: 10px 14px;

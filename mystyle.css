@@ -243,7 +243,7 @@ body {
 }
 
 .text-font {
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     font-size: 80px;
     line-height: 140px
 }
@@ -361,7 +361,7 @@ body {
 .navbar {
     background: 0 0 !important;
     border: 0 !important;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     width: 100%;
     position: absolute;
     margin-left: 0
@@ -1060,7 +1060,7 @@ a:before {
     color: #27333d;
     padding: 5px 60px 0 0;
     line-height: 30px;
-    font-family: Raleway, regular;
+    font-family: 'Poppins', sans-serif;
     list-style: none;
     font-weight: 700
 }
@@ -1257,7 +1257,7 @@ a:before {
     .navbar-nav>li>a {
         padding-bottom: 15px;
         line-height: 0;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         width: 150px
     }
     .achive-head2,
@@ -1468,7 +1468,7 @@ a:before {
     .navbar-nav>li>a {
         padding-bottom: 15px;
         line-height: 0;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         width: 320px;
         margin-right: 20px
     }
@@ -1629,7 +1629,7 @@ a:before {
     .navbar-nav>li>a {
         padding-bottom: 15px;
         line-height: 0;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         width: 375px;
         margin-right: 20px
     }
@@ -1914,7 +1914,7 @@ a:before {
     .navbar-nav>li>a {
         padding-bottom: 15px;
         line-height: 0;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         width: 375px;
         margin-right: 20px
     }
@@ -2168,7 +2168,7 @@ a:before {
     }
     .boxpara2 {
         color: #5d6573;
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px;
         margin: 20px 0 10px
     }
@@ -2183,12 +2183,12 @@ a:before {
     .helloText {
         font-size: 15px;
         margin-right: 10px;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         margin-bottom: 20px
     }
     .captchaLabel {
         font-size: 22px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: transprent
     }
     .hed3,
@@ -2209,7 +2209,7 @@ a:before {
     .boxpara3,
     .boxpara31 {
         color: #FDFEFE;
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px;
         text-align: justify
     }
@@ -2282,7 +2282,7 @@ a:before {
         font-size: 40px
     }
     .whyhedalph {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 18px
     }
     .background7 {
@@ -2380,7 +2380,7 @@ a:before {
         margin-top: -85px;
         text-align: left;
         position: reletive;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .testimo {
@@ -2474,7 +2474,8 @@ a:before {
         margin-bottom: 30px
     }
     .addspan {
-        font-family: raleway, regular;
+        
+        font-family: 'Poppins', sans-serif;
         font-size: 30px
     }
     .spanheader {
@@ -2488,12 +2489,12 @@ a:before {
     }
     .addressFooter {
         font-size: 15px;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         margin-left: 35px
     }
     .footer-link,
     .getintouchbutton {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .skypebutton {
@@ -2667,7 +2668,7 @@ a:before {
         margin-top: -85px;
         text-align: left;
         position: reletive;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .footerDevClass1 {
@@ -2815,7 +2816,7 @@ a:before {
             font-size: 15px
         }
         .androidtiop2para {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             color: #5d6573;
             text-align: center;
@@ -2978,7 +2979,7 @@ a:before {
             height: 180px
         }
         .androidBoxh {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 19px;
             color: #27333d;
             font-weight: 700
@@ -3031,7 +3032,7 @@ a:before {
             font-size: 15px
         }
         .androidtiop2para {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             color: #5d6573;
             text-align: center;
@@ -3194,7 +3195,7 @@ a:before {
             height: 180px
         }
         .androidBoxh {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 19px;
             color: #27333d;
             font-weight: 700
@@ -3256,7 +3257,7 @@ a:before {
             padding-top: 30px
         }
         .para1 {
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-right: 0
         }
         .imgfullwidth {
@@ -3394,7 +3395,7 @@ a:before {
         }
         .captchaLabel {
             font-size: 22px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             color: transprent
         }
         .imgvision {
@@ -3481,7 +3482,7 @@ a:before {
         .footer-bottom,
         .footerdiv {
             color: #fff;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             text-align: center
         }
         .locationIcon {
@@ -3667,7 +3668,7 @@ a:before {
             margin-top: -85px;
             text-align: left;
             position: reletive;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px
         }
         .labelName1 {
@@ -3786,7 +3787,7 @@ a:before {
             padding-top: 30px
         }
         .para1 {
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 14px;
             margin-right: 0
         }
@@ -3873,7 +3874,7 @@ a:before {
         }
         .captchaLabel {
             font-size: 24px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             text-align: right
         }
         .box2,
@@ -3893,7 +3894,7 @@ a:before {
             width: 250px;
             margin-left: 50px;
             font-size: 15px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-top: 40px;
             margin-bottom: 30px
         }
@@ -4075,7 +4076,7 @@ a:before {
             margin-top: -85px;
             text-align: left;
             position: reletive;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px
         }
         .labelName1 {
@@ -4187,7 +4188,7 @@ a:before {
             padding-top: 30px
         }
         .para1 {
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 14px;
             margin-right: 0
         }
@@ -4271,7 +4272,7 @@ a:before {
         }
         .captchaLabel {
             font-size: 24px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             text-align: right
         }
         .box2,
@@ -4291,7 +4292,7 @@ a:before {
             width: 336px;
             margin-left: 20px;
             font-size: 15px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-top: 40px;
             margin-bottom: 30px
         }
@@ -4448,7 +4449,7 @@ a:before {
             margin: 0 20px 21px
         }
         .footerFooInline {
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             color: #fff;
             margin-top: 10px;
             margin-bottom: 0
@@ -4624,7 +4625,7 @@ a:before {
             padding-top: 30px
         }
         .para1 {
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 16px
         }
         .box1,
@@ -4752,7 +4753,7 @@ a:before {
         }
         .boxpara {
             color: #FDFEFE;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             padding: 0;
             margin: 30px 0
@@ -4826,7 +4827,7 @@ a:before {
             font-family: Raleway, regular
         }
         .whyhedalph {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 13px
         }
         .proudRelesaes {
@@ -4883,7 +4884,7 @@ a:before {
         }
         .footerdiv {
             color: #fff;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 14px;
             text-align: left;
             margin-top: 18px !important;
@@ -4929,7 +4930,7 @@ a:before {
         .footer-bottom,
         .footer-bottom-div1,
         .footer-link {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px
         }
         .footer-bottom-div1 {
@@ -4964,13 +4965,13 @@ a:before {
         }
         .captchaLabel {
             font-size: 24px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             text-align: right
         }
         .helloText {
             font-size: 20px;
             margin-right: 10px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-bottom: 20px
         }
         .background9 {
@@ -4981,7 +4982,7 @@ a:before {
             margin-left: 5px;
             margin-right: 5px;
             font-size: 14px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             line-height: 30px;
             color: #dded1
         }
@@ -5036,7 +5037,7 @@ a:before {
         }
         .boxpara31 {
             color: #FDFEFE;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             text-align: justify;
             margin: -15px 25px 10px
@@ -5108,7 +5109,7 @@ a:before {
             padding-top: 30px
         }
         .para1 {
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 16px;
             width: 100%
         }
@@ -5236,7 +5237,7 @@ a:before {
         }
         .boxpara {
             color: #FDFEFE;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             padding: 0;
             margin: 30px 0
@@ -5309,7 +5310,7 @@ a:before {
             font-family: Raleway, regular
         }
         .whyhedalph {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 17px
         }
         .proudRelesaes {
@@ -5367,7 +5368,7 @@ a:before {
         }
         .footerdiv {
             color: #fff;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 16px;
             text-align: left
         }
@@ -5414,7 +5415,7 @@ a:before {
         .footer-bottom,
         .footer-bottom-div1,
         .footer-link {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px
         }
         .footer-bottom-div1 {
@@ -5448,13 +5449,13 @@ a:before {
         }
         .captchaLabel {
             font-size: 20px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             text-align: right
         }
         .helloText {
             font-size: 20px;
             margin-right: 10px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-bottom: 20px
         }
         .background9 {
@@ -5465,7 +5466,7 @@ a:before {
             margin-left: 5px;
             margin-right: 5px;
             font-size: 14px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             line-height: 30px;
             color: #dded1
         }
@@ -5523,7 +5524,7 @@ a:before {
         }
         .boxpara31 {
             color: #FDFEFE;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             text-align: justify;
             margin: -15px 25px 10px
@@ -5674,7 +5675,7 @@ a:before {
         }
         .boxpara2 {
             color: #5d6573;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             margin: 20px 0 10px
         }
@@ -5689,12 +5690,12 @@ a:before {
         .helloText {
             font-size: 15px;
             margin-right: 10px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-bottom: 20px
         }
         .captchaLabel {
             font-size: 22px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             color: transprent
         }
         .hed3,
@@ -5715,7 +5716,7 @@ a:before {
         .boxpara3,
         .boxpara31 {
             color: #FDFEFE;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             text-align: justify
         }
@@ -5874,7 +5875,7 @@ a:before {
             color: #000;
             margin-top: -85px;
             position: reletive;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             text-align: left
         }
@@ -5972,7 +5973,7 @@ a:before {
             margin-bottom: 30px
         }
         .addspan {
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 30px
         }
         .spanheader {
@@ -5986,7 +5987,7 @@ a:before {
         }
         .addressFooter {
             font-size: 15px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-left: 35px
         }
         .skypebutton {
@@ -6086,7 +6087,7 @@ a:before {
         }
         .footer-link {
             color: #5d6573;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             margin: 20px
         }
@@ -6268,7 +6269,7 @@ a:before {
         }
         .boxpara2 {
             color: #5d6573;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             margin: 20px 0 10px
         }
@@ -6283,13 +6284,13 @@ a:before {
         .helloText {
             font-size: 16px;
             margin-right: 10px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-bottom: 20px;
             font-weight: 700
         }
         .captchaLabel {
             font-size: 22px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             color: transprent
         }
         .hed3,
@@ -6310,7 +6311,7 @@ a:before {
         .boxpara3,
         .boxpara31 {
             color: #FDFEFE;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             text-align: justify
         }
@@ -6488,7 +6489,7 @@ a:before {
         color: #000;
         margin-top: -85px;
         position: reletive;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px;
         text-align: left
     }
@@ -6585,7 +6586,7 @@ a:before {
         margin-bottom: 30px
     }
     .addspan {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 30px
     }
     .spanheader {
@@ -6599,7 +6600,7 @@ a:before {
     }
     .addressFooter {
         font-size: 15px;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         margin-left: 35px
     }
     .skypebutton {
@@ -6697,7 +6698,7 @@ a:before {
     }
     .footer-link {
         color: #5d6573;
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px;
         margin: 20px
     }
@@ -6894,7 +6895,7 @@ a:before {
         }
         .boxpara2 {
             color: #5d6573;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             margin: 20px 0 10px
         }
@@ -6909,12 +6910,12 @@ a:before {
         .helloText {
             font-size: 15px;
             margin-right: 10px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-bottom: 20px
         }
         .captchaLabel {
             font-size: 22px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             color: transprent
         }
         .hed3,
@@ -6935,7 +6936,7 @@ a:before {
         .boxpara3,
         .boxpara31 {
             color: #FDFEFE;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             text-align: justify
         }
@@ -7112,7 +7113,7 @@ a:before {
         color: #000;
         margin-top: -85px;
         position: reletive;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px;
         text-align: left
     }
@@ -7213,7 +7214,7 @@ a:before {
         margin-bottom: 30px
     }
     .addspan {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 30px
     }
     .spanheader {
@@ -7227,7 +7228,7 @@ a:before {
     }
     .addressFooter {
         font-size: 15px;
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         margin-left: 35px
     }
     .skypebutton {
@@ -7326,7 +7327,7 @@ a:before {
     }
     .footer-link {
         color: #5d6573;
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px;
         margin: 20px
     }
@@ -7403,7 +7404,7 @@ a:before {
         .getintouchbutton {
             border: 1px solid #39c4e3;
             font-size: 15px;
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             outline-width: 0
         }
         .aboutbutton,
@@ -7451,7 +7452,7 @@ a:before {
             margin-top: -85px;
             text-align: left;
             position: reletive;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px
         }
         .labelName1 {
@@ -7572,7 +7573,7 @@ a:before {
             padding-top: 30px
         }
         .para1 {
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 14px;
             margin-right: 0
         }
@@ -7657,7 +7658,7 @@ a:before {
         }
         .captchaLabel {
             font-size: 24px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             text-align: right
         }
         .box2,
@@ -7677,7 +7678,7 @@ a:before {
             width: 283px;
             margin-left: 20px;
             font-size: 15px;
-            font-family: Raleway, regular;
+            font-family: 'Poppins', sans-serif;
             margin-top: 40px;
             margin-bottom: 30px
         }
@@ -8101,7 +8102,7 @@ a:before {
         background-color: #fff
     }
     .androidtiop2para {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 18px;
         color: #5d6573;
         text-align: center;
@@ -8223,7 +8224,7 @@ a:before {
         margin-left: -15px
     }
     .androidBoxh {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 19px;
         color: #27333d
     }
@@ -8358,7 +8359,7 @@ a:before {
             margin-top: 15%
         }
         .androidtiop2para {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 98%;
             color: #5d6573;
             text-align: center;
@@ -8538,7 +8539,7 @@ a:before {
             height: 180px
         }
         .androidBoxh {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 16px;
             color: #27333d;
             font-weight: 700
@@ -8587,7 +8588,7 @@ a:before {
         }
         .captchaLabel {
             font-size: 20px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             text-align: right
         }
         .androidToppara {
@@ -8604,7 +8605,7 @@ a:before {
             font-size: 15px
         }
         .androidtiop2para {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             color: #5d6573;
             text-align: center;
@@ -8767,7 +8768,7 @@ a:before {
             height: 180px
         }
         .androidBoxh {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 19px;
             color: #27333d;
             font-weight: 700
@@ -8798,7 +8799,7 @@ a:before {
         }
         .androidToppara {
             margin-bottom: 20px;
-            font-family: raleway, regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 13px;
             text-align: center;
             margin-left: -7%;
@@ -8820,7 +8821,7 @@ a:before {
             margin-top: 15%
         }
         .androidtiop2para {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 98%;
             color: #5d6573;
             text-align: center;
@@ -8997,7 +8998,7 @@ a:before {
             height: 180px
         }
         .androidBoxh {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 16px;
             color: #27333d;
             font-weight: 700
@@ -9055,7 +9056,7 @@ a:before {
             border: 10px
         }
         .androidtiop2para {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 15px;
             color: #5d6573;
             margin-right: 0;
@@ -9240,7 +9241,7 @@ a:before {
             height: 180px
         }
         .androidBoxh {
-            font-family: Raleway, Regular;
+            font-family: 'Poppins', sans-serif;
             font-size: 17px;
             color: #27333d;
             font-weight: 700
@@ -9275,7 +9276,7 @@ a:before {
         margin-left: 78px
     }
     .androidtiop2para {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 18px;
         color: #5d6573;
         text-align: center;
@@ -9283,7 +9284,7 @@ a:before {
         margin-left: 100px
     }
     .para1 {
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 16px;
         width: 90% !important
     }
@@ -9331,7 +9332,7 @@ a:before {
         margin-left: 78px
     }
     .androidtiop2para {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 18px;
         color: #5d6573;
         text-align: center;
@@ -9339,7 +9340,7 @@ a:before {
         margin-left: 148px !important
     }
     .para1 {
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 16px;
         width: 90% !important
     }
@@ -9357,7 +9358,7 @@ a:before {
     .androidHireRankDiv {
         margin-top: 50px;
         margin-bottom: 110px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         margin-left: 37px
     }
     .androidHireDiv {
@@ -9431,12 +9432,12 @@ a:before {
         margin-left: 60px
     }
     .para1 {
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 16px;
         width: 90% !important
     }
     .androidtiop2para {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 18px;
         color: #5d6573;
         margin-right: 100px;
@@ -9560,7 +9561,7 @@ a:before {
         height: 180px
     }
     .androidBoxh {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 20px;
         color: #27333d;
         font-weight: 700
@@ -9757,7 +9758,7 @@ a:before {
         font-size: 15px
     }
     .androidtiop2para {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px;
         color: #5d6573;
         text-align: center;
@@ -9921,7 +9922,7 @@ a:before {
         height: 180px
     }
     .androidBoxh {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 19px;
         color: #27333d;
         font-weight: 700
@@ -10059,7 +10060,7 @@ a:before {
 
 .hireAndroidExpertPara,
 .hireAndroidH3 {
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     color: #283d58
 }
 
@@ -10092,7 +10093,7 @@ a:before {
 }
 
 .hireAndroidhed1 {
-    font-family: Raleway, Regular;
+    font-family: 'Poppins', sans-serif;
     font-size: 36px;
     color: #27333d;
     text-align: center;
@@ -10118,7 +10119,7 @@ a:before {
 }
 
 .hireAndroidBenefitsCheck {
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px
 }
 
@@ -10207,7 +10208,7 @@ a:before {
         margin-top: 20px;
         margin-bottom: 20px;
         font-size: 36px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         color: #27333d
     }
@@ -10257,7 +10258,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -10286,7 +10287,7 @@ a:before {
         width: 103%
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 20px;
         color: #27333d;
         text-align: center;
@@ -10300,7 +10301,7 @@ a:before {
         margin-left: 50px
     }
     .hireAndroidBenefitsCheck {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 14px;
         font-weight: 700
     }
@@ -10438,7 +10439,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -10467,7 +10468,7 @@ a:before {
         width: 103%
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 20px;
         color: #27333d;
         text-align: center;
@@ -10481,7 +10482,7 @@ a:before {
         margin-left: 50px
     }
     .hireAndroidBenefitsCheck {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 14px;
         font-weight: 700
     }
@@ -10620,7 +10621,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -10649,7 +10650,7 @@ a:before {
         width: 103%
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 20px;
         color: #27333d;
         text-align: center;
@@ -10663,7 +10664,7 @@ a:before {
         margin-left: 50px
     }
     .hireAndroidBenefitsCheck {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 13px;
         font-weight: 700
     }
@@ -10748,7 +10749,7 @@ a:before {
         margin-top: 20px;
         margin-bottom: 20px;
         font-size: 36px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         color: #27333d
     }
@@ -10798,7 +10799,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -10827,7 +10828,7 @@ a:before {
         width: 103%
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 20px;
         color: #27333d;
         text-align: center;
@@ -10841,7 +10842,7 @@ a:before {
         margin-left: 50px
     }
     .hireAndroidBenefitsCheck {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 16px;
         font-weight: 700
     }
@@ -10921,7 +10922,7 @@ a:before {
         margin-top: 20px;
         margin-bottom: 20px;
         font-size: 36px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         color: #27333d
     }
@@ -10971,7 +10972,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -11000,7 +11001,7 @@ a:before {
         margin-right: -13px
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #27333d;
         text-align: center;
@@ -11023,7 +11024,7 @@ a:before {
         width: 580px
     }
     .hireAndroidBenefitsCheck {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 11px;
         font-weight: 700
     }
@@ -11147,7 +11148,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -11174,7 +11175,7 @@ a:before {
         width: 103%
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 36px;
         hireandroidarowcolor: #27333d;
         text-align: center;
@@ -11195,7 +11196,7 @@ a:before {
         width: 650px
     }
     .hireAndroidBenefitsCheck {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 14px;
         font-weight: 700
     }
@@ -11319,7 +11320,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -11346,7 +11347,7 @@ a:before {
         width: 103%
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 36px;
         color: #27333d;
         text-align: center;
@@ -11486,7 +11487,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -11513,7 +11514,7 @@ a:before {
         width: 103%
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 36px;
         color: #27333d;
         text-align: center;
@@ -11650,7 +11651,7 @@ a:before {
     }
     .hireAndroidExpertPara,
     .hireAndroidH3 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #283d58
     }
     .hireAndroidBanTopMar {
@@ -11677,7 +11678,7 @@ a:before {
         width: 103%
     }
     .hireAndroidhed1 {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 36px;
         color: #27333d;
         text-align: center;
@@ -11699,7 +11700,7 @@ a:before {
 
 .hireAngulartoph,
 .hireNodetoph {
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     color: #fff
 }
 
@@ -11722,7 +11723,7 @@ a:before {
 .hireNodePara,
 .hireNodePara1 {
     text-align: left;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px
 }
 
@@ -11739,7 +11740,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireNodetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -11747,7 +11748,7 @@ a:before {
     }
     .hireNodePara,
     .hireNodePara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireNodePara {
@@ -11772,7 +11773,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireNodetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -11780,7 +11781,7 @@ a:before {
     }
     .hireNodePara,
     .hireNodePara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireNodePara {
@@ -11810,7 +11811,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireNodetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -11818,7 +11819,7 @@ a:before {
     }
     .hireNodePara,
     .hireNodePara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireNodePara {
@@ -11843,7 +11844,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireNodetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -11851,7 +11852,7 @@ a:before {
     }
     .hireNodePara,
     .hireNodePara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireNodePara {
@@ -11871,7 +11872,7 @@ a:before {
         margin-top: 73px
     }
     .hireNodetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 35px
@@ -11982,7 +11983,7 @@ a:before {
 .hireAngularPara,
 .hireAngularPara1 {
     text-align: justify;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px
 }
 
@@ -11998,7 +11999,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAngulartoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12006,7 +12007,7 @@ a:before {
     }
     .hireAngularPara,
     .hireAngularPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireAngularPara {
@@ -12031,7 +12032,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAngulartoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12039,7 +12040,7 @@ a:before {
     }
     .hireAngularPara,
     .hireAngularPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireAngularPara {
@@ -12081,7 +12082,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAngulartoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12089,7 +12090,7 @@ a:before {
     }
     .hireAngularPara,
     .hireAngularPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireAngularPara {
@@ -12114,7 +12115,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAngulartoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12122,7 +12123,7 @@ a:before {
     }
     .hireAngularPara,
     .hireAngularPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireAngularPara {
@@ -12142,7 +12143,7 @@ a:before {
         margin-top: 73px
     }
     .hireAngulartoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 35px;
@@ -12275,14 +12276,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireLaraveltoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireLaravelPara,
     .hireLaravelPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireLaravelPara1 {
@@ -12307,14 +12308,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireLaraveltoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireLaravelPara,
     .hireLaravelPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireLaravelPara1 {
@@ -12335,7 +12336,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireLaraveltoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12343,7 +12344,7 @@ a:before {
     }
     .hireLaravelPara,
     .hireLaravelPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireLaravelPara {
@@ -12368,7 +12369,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireLaraveltoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12376,7 +12377,7 @@ a:before {
     }
     .hireLaravelPara,
     .hireLaravelPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireLaravelPara {
@@ -12396,7 +12397,7 @@ a:before {
         margin-top: 73px
     }
     .hireLaraveltoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 35px;
@@ -12536,7 +12537,7 @@ a:before {
         padding-bottom: 0
     }
     .hireAndroidtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12643,7 +12644,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireCodeignitertoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12651,7 +12652,7 @@ a:before {
     }
     .hireCodeigniterPara,
     .hireCodeigniterPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireCodeigniterPara {
@@ -12676,7 +12677,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireCodeignitertoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12684,7 +12685,7 @@ a:before {
     }
     .hireCodeigniterPara,
     .hireCodeigniterPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireCodeigniterPara {
@@ -12709,7 +12710,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireCodeignitertoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12717,7 +12718,7 @@ a:before {
     }
     .hireCodeigniterPara,
     .hireCodeigniterPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireCodeigniterPara {
@@ -12742,7 +12743,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireCodeignitertoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12750,7 +12751,7 @@ a:before {
     }
     .hireCodeigniterPara,
     .hireCodeigniterPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireCodeigniterPara {
@@ -12770,7 +12771,7 @@ a:before {
         margin-top: 73px
     }
     .hireCodeignitertoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 35px
@@ -12792,7 +12793,7 @@ a:before {
         text-align: center
     }
     .hireCodeignitertoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 60px;
         color: #fff;
         margin-top: 62px
@@ -12800,7 +12801,7 @@ a:before {
     .hireCodeigniterPara,
     .hireCodeigniterPara1 {
         text-align: left;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
 }
@@ -12816,7 +12817,7 @@ a:before {
         text-align: center
     }
     .hireCodeignitertoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 60px !important;
         color: #fff;
         margin-top: 62px
@@ -12824,7 +12825,7 @@ a:before {
     .hireCodeigniterPara,
     .hireCodeigniterPara1 {
         text-align: left;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
 }
@@ -12840,7 +12841,7 @@ a:before {
         text-align: center
     }
     .hireCodeignitertoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 60px;
         color: #fff;
         margin-top: 62px
@@ -12848,7 +12849,7 @@ a:before {
     .hireCodeigniterPara,
     .hireCodeigniterPara1 {
         text-align: left;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
 }
@@ -12873,7 +12874,7 @@ a:before {
 .hireAspPara,
 .hireAspPara1 {
     text-align: left;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px
 }
 
@@ -12890,7 +12891,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAsptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12898,7 +12899,7 @@ a:before {
     }
     .hireAspPara,
     .hireAspPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireAspPara {
@@ -12923,7 +12924,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAsptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12931,7 +12932,7 @@ a:before {
     }
     .hireAspPara,
     .hireAspPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireAspPara {
@@ -12956,7 +12957,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAsptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12964,7 +12965,7 @@ a:before {
     }
     .hireAspPara,
     .hireAspPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireAspPara {
@@ -12989,7 +12990,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAsptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -12997,7 +12998,7 @@ a:before {
     }
     .hireAspPara,
     .hireAspPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireAspPara {
@@ -13017,7 +13018,7 @@ a:before {
         margin-top: 73px
     }
     .hireAsptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 60px
@@ -13144,7 +13145,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireWordpresstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13152,7 +13153,7 @@ a:before {
     }
     .hireWordpressPara,
     .hireWordpressPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireWordpressPara {
@@ -13177,7 +13178,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireWordpresstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13185,7 +13186,7 @@ a:before {
     }
     .hireWordpressPara,
     .hireWordpressPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireWordpressPara {
@@ -13209,7 +13210,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireWordpresstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13217,7 +13218,7 @@ a:before {
     }
     .hireWordpressPara,
     .hireWordpressPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireWordpressPara {
@@ -13242,7 +13243,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireWordpresstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13250,7 +13251,7 @@ a:before {
     }
     .hireWordpressPara,
     .hireWordpressPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireWordpressPara {
@@ -13270,7 +13271,7 @@ a:before {
         margin-top: 73px
     }
     .hireWordpresstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 35px
@@ -13292,7 +13293,7 @@ a:before {
         text-align: center
     }
     .hireWordpresstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 60px;
         color: #fff;
         margin-top: 62px
@@ -13300,7 +13301,7 @@ a:before {
     .hireWordpressPara,
     .hireWordpressPara1 {
         text-align: left;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
 }
@@ -13316,7 +13317,7 @@ a:before {
         text-align: center
     }
     .hireWordpresstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 60px !important;
         color: #fff;
         margin-top: 62px
@@ -13324,7 +13325,7 @@ a:before {
     .hireWordpressPara,
     .hireWordpressPara1 {
         text-align: left;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
 }
@@ -13340,7 +13341,7 @@ a:before {
         text-align: center
     }
     .hireWordpresstoph112px {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 60px;
         color: #fff;
         margin-top: 62px
@@ -13348,7 +13349,7 @@ a:before {
     .hireWordpressPara,
     .hireWordpressPara1 {
         text-align: left;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
 }
@@ -13389,7 +13390,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireHtmlCsstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13397,7 +13398,7 @@ a:before {
     }
     .hireHtmlCssPara,
     .hireHtmlCssPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireHtmlCssPara {
@@ -13422,7 +13423,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireHtmlCsstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13430,7 +13431,7 @@ a:before {
     }
     .hireHtmlCssPara,
     .hireHtmlCssPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireHtmlCssPara {
@@ -13455,7 +13456,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireHtmlCsstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13463,7 +13464,7 @@ a:before {
     }
     .hireHtmlCssPara,
     .hireHtmlCssPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireHtmlCssPara {
@@ -13488,7 +13489,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireHtmlCsstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13496,7 +13497,7 @@ a:before {
     }
     .hireHtmlCssPara,
     .hireHtmlCssPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireHtmlCssPara {
@@ -13516,7 +13517,7 @@ a:before {
         margin-top: 73px
     }
     .hireHtmlCsstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 35px
@@ -13628,7 +13629,7 @@ a:before {
 .hireMagentoPara,
 .hireMagentoPara1 {
     text-align: left;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px
 }
 
@@ -13652,14 +13653,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireMagentotoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireMagentoPara,
     .hireMagentoPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireMagentoPara1 {
@@ -13713,7 +13714,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireMagentotoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13765,7 +13766,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireMagentotoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13773,7 +13774,7 @@ a:before {
     }
     .hireMagentoPara,
     .hireMagentoPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireMagentoPara {
@@ -13793,7 +13794,7 @@ a:before {
         margin-top: 73px
     }
     .hireMagentotoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px !important;
         color: #fff;
         margin-top: 35px
@@ -13924,14 +13925,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireIostoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireIosPara,
     .hireIosPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIosPara1 {
@@ -13951,7 +13952,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireIostoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13959,7 +13960,7 @@ a:before {
     }
     .hireIosPara,
     .hireIosPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIosPara {
@@ -13984,7 +13985,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireIostoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -13992,7 +13993,7 @@ a:before {
     }
     .hireIosPara,
     .hireIosPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIosPara {
@@ -14006,7 +14007,7 @@ a:before {
 
 @media (min-width: 767px) and (max-width: 1024px) {
     .hireIostoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 28px;
         color: #fff;
         margin-top: 0
@@ -14174,14 +14175,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireHybirdtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireHybirdPara,
     .hireHybirdPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireHybirdPara1 {
@@ -14201,7 +14202,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireHybirdtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14209,7 +14210,7 @@ a:before {
     }
     .hireHybirdPara,
     .hireHybirdPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireHybirdPara {
@@ -14234,7 +14235,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireHybirdtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14242,7 +14243,7 @@ a:before {
     }
     .hireHybirdPara,
     .hireHybirdPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireHybirdPara {
@@ -14267,7 +14268,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireHybirdtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14275,7 +14276,7 @@ a:before {
     }
     .hireHybirdPara,
     .hireHybirdPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireHybirdPara {
@@ -14295,7 +14296,7 @@ a:before {
         margin-top: 70px
     }
     .hireHybirdtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 28px;
         color: #fff;
         margin-top: 24px
@@ -14427,7 +14428,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireIphonetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14435,7 +14436,7 @@ a:before {
     }
     .hireIphonePara,
     .hireIphonePara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIphonePara {
@@ -14460,7 +14461,7 @@ a:before {
         padding-bottom: 0
     }
     .hireIphonetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14468,7 +14469,7 @@ a:before {
     }
     .hireIphonePara,
     .hireIphonePara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIphonePara {
@@ -14493,7 +14494,7 @@ a:before {
         padding-bottom: 0
     }
     .hireIphonetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14501,7 +14502,7 @@ a:before {
     }
     .hireIphonePara,
     .hireIphonePara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIphonePara {
@@ -14526,7 +14527,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireIphonetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14534,7 +14535,7 @@ a:before {
     }
     .hireIphonePara,
     .hireIphonePara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIphonePara {
@@ -14554,7 +14555,7 @@ a:before {
         margin-top: 73px
     }
     .hireIphonetoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 35px;
@@ -14699,7 +14700,7 @@ a:before {
 .hirePhpPara,
 .hirePhpPara1 {
     text-align: left;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px
 }
 
@@ -14720,14 +14721,14 @@ a:before {
         padding-bottom: 10px
     }
     .hirePhptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hirePhpPara,
     .hirePhpPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hirePhpPara1 {
@@ -14748,7 +14749,7 @@ a:before {
         padding-bottom: 10px
     }
     .hirePhptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14756,7 +14757,7 @@ a:before {
     }
     .hirePhpPara,
     .hirePhpPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hirePhpPara {
@@ -14781,7 +14782,7 @@ a:before {
         padding-bottom: 10px
     }
     .hirePhptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14789,7 +14790,7 @@ a:before {
     }
     .hirePhpPara,
     .hirePhpPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hirePhpPara {
@@ -14809,7 +14810,7 @@ a:before {
         margin-top: 73px
     }
     .hirePhptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 35px
@@ -14914,7 +14915,7 @@ a:before {
         padding-bottom: 10px
     }
     .hirePhptoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -14922,7 +14923,7 @@ a:before {
     }
     .hirePhpPara,
     .hirePhpPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hirePhpPara {
@@ -14973,14 +14974,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireWindowstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireWindowsPara,
     .hireWindowsPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireWindowsPara1 {
@@ -15004,14 +15005,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireWindowstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireWindowsPara,
     .hireWindowsPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireWindowsPara1 {
@@ -15032,7 +15033,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireWindowstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -15040,7 +15041,7 @@ a:before {
     }
     .hireWindowsPara,
     .hireWindowsPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireWindowsPara {
@@ -15065,7 +15066,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireWindowstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -15073,7 +15074,7 @@ a:before {
     }
     .hireWindowsPara,
     .hireWindowsPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireWindowsPara {
@@ -15087,7 +15088,7 @@ a:before {
 
 @media (min-width: 767px) and (max-width: 1024px) {
     .hireWindowstoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 36px;
         color: #fff;
         margin-top: 62px
@@ -15253,14 +15254,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireUiUxtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireUiUxPara,
     .hireUiUxPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireUiUxPara1 {
@@ -15284,14 +15285,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireUiUxtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireUiUxPara,
     .hireUiUxPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireUiUxPara1 {
@@ -15315,14 +15316,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireUiUxtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireUiUxPara,
     .hireUiUxPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireUiUxPara1 {
@@ -15342,7 +15343,7 @@ a:before {
         text-align: center
     }
     .hireUiUxtoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 36px;
         color: #fff;
         margin-top: 55px
@@ -15504,14 +15505,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireAppletoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireApplePara1,
     .hireAppletoPara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireApplePara1 {
@@ -15535,14 +15536,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireAppletoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireApplePara1,
     .hireAppletoPara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireApplePara1 {
@@ -15567,7 +15568,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAppletoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
@@ -15595,7 +15596,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireAppletoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center;
@@ -15623,7 +15624,7 @@ a:before {
 
 @media (min-width: 767px) and (max-width: 1024px) {
     .hireAppletoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 28px !important;
         color: #fff;
         margin-top: 62px
@@ -15790,14 +15791,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireIonictoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireIonicPara,
     .hireIonicPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIonicPara1 {
@@ -15821,14 +15822,14 @@ a:before {
         padding-bottom: 10px
     }
     .hireIonictoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
     }
     .hireIonicPara,
     .hireIonicPara1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px
     }
     .hireIonicPara1 {
@@ -15849,7 +15850,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireIonictoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         text-align: center !important;
@@ -15885,7 +15886,7 @@ a:before {
         padding-bottom: 10px
     }
     .hireIonictoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 26px;
         color: #fff;
         margin-top: 25px
@@ -15902,7 +15903,7 @@ a:before {
 
 @media (min-width: 767px) and (max-width: 1024px) {
     .hireIonictoph {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 28px;
         color: #fff;
         margin-top: 100px
@@ -15975,7 +15976,7 @@ a:before {
     }
     .hireIonicPara {
         text-align: left;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 19px
     }
     .hireandroidTopDiv {
@@ -16446,7 +16447,7 @@ a:before {
 
 .ipadTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -16595,7 +16596,7 @@ a:before {
     }
     .ipadTopH1,
     .ipadToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .ipadTopBanimg {
@@ -16636,7 +16637,7 @@ a:before {
     }
     .ipadTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -16665,7 +16666,7 @@ a:before {
     }
     .ipadTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -16694,7 +16695,7 @@ a:before {
     }
     .ipadTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -16723,7 +16724,7 @@ a:before {
     }
     .ipadTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -16753,7 +16754,7 @@ a:before {
 
 .ionicTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -16902,7 +16903,7 @@ a:before {
     }
     .ionicTopH1,
     .ionicToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .ionicTopBanimg {
@@ -16943,7 +16944,7 @@ a:before {
     }
     .ionicTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -16972,7 +16973,7 @@ a:before {
     }
     .ionicTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -17001,7 +17002,7 @@ a:before {
     }
     .ionicTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -17030,7 +17031,7 @@ a:before {
     }
     .ionicTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -17061,7 +17062,7 @@ a:before {
 
 .iphoneTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center
 }
 
@@ -17129,7 +17130,7 @@ a:before {
 @media (min-width: 414px) and (max-width: 480px) {
     .androidhirespan2,
     .iphoneTopH1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700
     }
     .iphoneTopbanText {
@@ -17145,7 +17146,7 @@ a:before {
         margin-bottom: -100px
     }
     .iphoneToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 13px;
         text-align: center;
         margin-bottom: 1px
@@ -17170,7 +17171,7 @@ a:before {
         margin-top: 0
     }
     .androidhirespan1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #fff;
         font-size: 25px
     }
@@ -17247,7 +17248,7 @@ a:before {
         border: 10px
     }
     .iphonetiop2para {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 15px;
         color: #5d6573;
         text-align: center;
@@ -17329,13 +17330,13 @@ a:before {
         height: 180px
     }
     .androidBoxh {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 17px;
         color: #27333d;
         font-weight: 700
     }
     .androidhirespan1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #fff;
         font-size: 24px;
         line-height: 30px;
@@ -17367,12 +17368,12 @@ a:before {
         margin-left: 60px
     }
     .para1 {
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 16px;
         width: 90% !important
     }
     .iphonetiop2para {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 18px;
         color: #5d6573;
         margin-right: 100px;
@@ -17402,7 +17403,7 @@ a:before {
     }
     .androidTopH1 {
         font-size: 34px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700
     }
     .androidTopButton,
@@ -17449,7 +17450,7 @@ a:before {
     .androidhirehead {
         margin-top: -15px;
         font-size: 26px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700
     }
     .androidHireH2 {
@@ -17477,7 +17478,7 @@ a:before {
         margin-top: 0;
         margin-bottom: 50px;
         font-size: 15px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         color: #fff;
@@ -17486,7 +17487,7 @@ a:before {
     .androidHireRankDiv {
         margin-top: 10px;
         margin-bottom: 10px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         margin-left: 130px
     }
     .androidScreenBoxImg {
@@ -17494,7 +17495,7 @@ a:before {
         height: 180px
     }
     .androidBoxh {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 20px;
         color: #27333d;
         font-weight: 700
@@ -17547,12 +17548,12 @@ a:before {
         height: 450px
     }
     .androidhirespan1 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #fff;
         font-size: 36px
     }
     .androidhirespan2 {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         color: #f26a37;
         font-size: 22px;
         font-weight: 700
@@ -17618,7 +17619,7 @@ a:before {
         margin-left: 120px
     }
     .androidtiop2para {
-        font-family: Raleway, Regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 18px;
         color: #5d6573;
         text-align: center;
@@ -17626,7 +17627,7 @@ a:before {
         margin-left: 148px !important
     }
     .para1 {
-        font-family: Raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-size: 16px;
         width: 90% !important
     }
@@ -17644,7 +17645,7 @@ a:before {
     .androidHireRankDiv {
         margin-top: 50px;
         margin-bottom: 110px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         margin-left: 37px
     }
     .androidHireDiv {
@@ -17932,7 +17933,7 @@ a:before {
     }
     .crossTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18071,7 +18072,7 @@ a:before {
 
 .nodeTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -18220,7 +18221,7 @@ a:before {
     }
     .nodeTopH1,
     .nodeToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .nodeTopBanimg {
@@ -18262,7 +18263,7 @@ a:before {
     }
     .nodeTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18292,7 +18293,7 @@ a:before {
     }
     .nodeTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18322,7 +18323,7 @@ a:before {
     }
     .nodeTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18352,7 +18353,7 @@ a:before {
     }
     .nodeTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18383,7 +18384,7 @@ a:before {
 
 .phpTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -18532,7 +18533,7 @@ a:before {
     }
     .phpTopH1,
     .phpToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .phpTopBanimg {
@@ -18574,7 +18575,7 @@ a:before {
     }
     .phpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18604,7 +18605,7 @@ a:before {
     }
     .phpTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18634,7 +18635,7 @@ a:before {
     }
     .phpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18664,7 +18665,7 @@ a:before {
     }
     .phpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18695,7 +18696,7 @@ a:before {
 
 .angulerTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -18844,7 +18845,7 @@ a:before {
     }
     .angulerTopH1,
     .angulerToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .angulerTopBanimg {
@@ -18886,7 +18887,7 @@ a:before {
     }
     .angulerTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18916,7 +18917,7 @@ a:before {
     }
     .angulerTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18946,7 +18947,7 @@ a:before {
     }
     .angulerTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -18976,7 +18977,7 @@ a:before {
     }
     .angulerTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19007,7 +19008,7 @@ a:before {
 
 .websiteTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -19156,7 +19157,7 @@ a:before {
     }
     .websiteTopH1,
     .websiteToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .websiteTopBanimg {
@@ -19198,7 +19199,7 @@ a:before {
     }
     .websiteTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19228,7 +19229,7 @@ a:before {
     }
     .websiteTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19258,7 +19259,7 @@ a:before {
     }
     .websiteTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19288,7 +19289,7 @@ a:before {
     }
     .websiteTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19318,7 +19319,7 @@ a:before {
 
 .mobileTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -19467,7 +19468,7 @@ a:before {
     }
     .mobileTopH1,
     .mobileToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .mobileTopBanimg {
@@ -19508,7 +19509,7 @@ a:before {
     }
     .mobileTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19537,7 +19538,7 @@ a:before {
     }
     .mobileTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19566,7 +19567,7 @@ a:before {
     }
     .mobileTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19595,7 +19596,7 @@ a:before {
     }
     .mobileTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19625,7 +19626,7 @@ a:before {
 
 .uiTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -19774,7 +19775,7 @@ a:before {
     }
     .uiTopH1,
     .uiToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .uiTopBanimg {
@@ -19815,7 +19816,7 @@ a:before {
     }
     .uiTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19844,7 +19845,7 @@ a:before {
     }
     .uiTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19873,7 +19874,7 @@ a:before {
     }
     .uiTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19902,7 +19903,7 @@ a:before {
     }
     .uiTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -19934,7 +19935,7 @@ a:before {
 
 .responsiveTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -20082,7 +20083,7 @@ a:before {
     }
     .responsiveTopH1,
     .responsiveToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .responsiveTopBanimg {
@@ -20125,7 +20126,7 @@ a:before {
     }
     .responsiveTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20156,7 +20157,7 @@ a:before {
     }
     .responsiveTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20187,7 +20188,7 @@ a:before {
     }
     .responsiveTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20218,7 +20219,7 @@ a:before {
     }
     .responsiveTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20249,7 +20250,7 @@ a:before {
 
 .codeTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -20398,7 +20399,7 @@ a:before {
     }
     .codeTopH1,
     .codeToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .codeTopBanimg {
@@ -20440,7 +20441,7 @@ a:before {
     }
     .codeTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20470,7 +20471,7 @@ a:before {
     }
     .codeTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20500,7 +20501,7 @@ a:before {
     }
     .codeTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20530,7 +20531,7 @@ a:before {
     }
     .codeTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20561,7 +20562,7 @@ a:before {
 
 .laravelTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
     text-align: center;
     margin-top: 200px
@@ -20711,7 +20712,7 @@ a:before {
     }
     .laravelTopH1,
     .laravelToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .laravelTopBanimg {
@@ -20753,7 +20754,7 @@ a:before {
     }
     .laravelTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20783,7 +20784,7 @@ a:before {
     }
     .laravelTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20813,7 +20814,7 @@ a:before {
     }
     .laravelTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20843,7 +20844,7 @@ a:before {
     }
     .laravelTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -20868,7 +20869,7 @@ a:before {
 
 .wordpressTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -20895,7 +20896,7 @@ a:before {
     }
     .wordpressTopH1 {
         font-size: 29px !important;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center !important;
         margin-top: 130px
@@ -20918,7 +20919,7 @@ a:before {
     }
     .wordpressTopH1 {
         font-size: 29px !important;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center !important;
         margin-top: 125px
@@ -20941,7 +20942,7 @@ a:before {
     }
     .wordpressTopH1 {
         font-size: 29px !important;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center !important;
         margin-top: 125px
@@ -20963,7 +20964,7 @@ a:before {
     }
     .ionicTopH1 {
         font-size: 40px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 176px
@@ -20985,7 +20986,7 @@ a:before {
     }
     .wordpressTopH1 {
         font-size: 40px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center margin-top: 155px
     }
@@ -21025,7 +21026,7 @@ a:before {
     }
     .wordpressTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21055,7 +21056,7 @@ a:before {
     }
     .wordpressTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21085,7 +21086,7 @@ a:before {
     }
     .wordpressTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21115,7 +21116,7 @@ a:before {
     }
     .wordpressTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21146,7 +21147,7 @@ a:before {
 
 .magentoTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -21295,7 +21296,7 @@ a:before {
     }
     .magentoTopH1,
     .magentoToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .magentoTopBanimg {
@@ -21337,7 +21338,7 @@ a:before {
     }
     .magentoTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21367,7 +21368,7 @@ a:before {
     }
     .magentoTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21397,7 +21398,7 @@ a:before {
     }
     .magentoTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21427,7 +21428,7 @@ a:before {
     }
     .magentoTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21458,7 +21459,7 @@ a:before {
 
 .wooTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -21607,7 +21608,7 @@ a:before {
     }
     .wooTopH1,
     .wooToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .wooTopBanimg {
@@ -21649,7 +21650,7 @@ a:before {
     }
     .wooTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21679,7 +21680,7 @@ a:before {
     }
     .wooTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21709,7 +21710,7 @@ a:before {
     }
     .wooTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21739,7 +21740,7 @@ a:before {
     }
     .wooTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21770,7 +21771,7 @@ a:before {
 
 .drupalTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -21919,7 +21920,7 @@ a:before {
     }
     .drupalTopH1,
     .drupalToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .drupalTopBanimg {
@@ -21961,7 +21962,7 @@ a:before {
     }
     .drupalTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -21991,7 +21992,7 @@ a:before {
     }
     .drupalTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22021,7 +22022,7 @@ a:before {
     }
     .drupalTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22051,7 +22052,7 @@ a:before {
     }
     .drupalTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22082,7 +22083,7 @@ a:before {
 
 .joomlaTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -22228,7 +22229,7 @@ a:before {
     }
     .joomlaTopH1,
     .joomlaToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .joomlaTopBanimg {
@@ -22271,7 +22272,7 @@ a:before {
     }
     .joomlaTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22301,7 +22302,7 @@ a:before {
     }
     .joomlaTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22331,7 +22332,7 @@ a:before {
     }
     .joomlaTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22361,7 +22362,7 @@ a:before {
     }
     .joomlaTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22392,7 +22393,7 @@ a:before {
 
 .openTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -22541,7 +22542,7 @@ a:before {
     }
     .openTopH1,
     .openToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .openTopBanimg {
@@ -22583,7 +22584,7 @@ a:before {
     }
     .openTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22613,7 +22614,7 @@ a:before {
     }
     .openTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22643,7 +22644,7 @@ a:before {
     }
     .openTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22673,7 +22674,7 @@ a:before {
     }
     .openTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22704,7 +22705,7 @@ a:before {
 
 .wearableTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -22853,7 +22854,7 @@ a:before {
     }
     .wearableTopH1,
     .wearableToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .wearableTopBanimg {
@@ -22895,7 +22896,7 @@ a:before {
     }
     .wearableTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22925,7 +22926,7 @@ a:before {
     }
     .wearableTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22955,7 +22956,7 @@ a:before {
     }
     .wearableTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -22985,7 +22986,7 @@ a:before {
     }
     .wearableTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -23016,7 +23017,7 @@ a:before {
 
 .internetTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -23165,7 +23166,7 @@ a:before {
     }
     .internetTopH1,
     .internetToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .internetTopBanimg {
@@ -23207,7 +23208,7 @@ a:before {
     }
     .internetTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 114px
@@ -23237,7 +23238,7 @@ a:before {
     }
     .internetTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 180px
@@ -23267,7 +23268,7 @@ a:before {
     }
     .internetTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 114px
@@ -23297,7 +23298,7 @@ a:before {
     }
     .internetTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 114px
@@ -23328,7 +23329,7 @@ a:before {
 
 .cloudTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -23477,7 +23478,7 @@ a:before {
     }
     .cloudTopH1,
     .cloudToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .cloudTopBanimg {
@@ -23519,7 +23520,7 @@ a:before {
     }
     .cloudTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 100px
@@ -23549,7 +23550,7 @@ a:before {
     }
     .cloudTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 100px
@@ -23579,7 +23580,7 @@ a:before {
     }
     .cloudTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 100px
@@ -23609,7 +23610,7 @@ a:before {
     }
     .cloudTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 100px
@@ -23673,7 +23674,7 @@ a:before {
     }
     .webTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -23703,7 +23704,7 @@ a:before {
     }
     .webTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -23733,7 +23734,7 @@ a:before {
     }
     .webTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -23763,7 +23764,7 @@ a:before {
     }
     .webTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -23794,7 +23795,7 @@ a:before {
 
 .bigTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 125px
 }
@@ -23943,7 +23944,7 @@ a:before {
     }
     .bigTopH1,
     .bigToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .bigTopBanimg {
@@ -23985,7 +23986,7 @@ a:before {
     }
     .bigTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24015,7 +24016,7 @@ a:before {
     }
     .bigTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24045,7 +24046,7 @@ a:before {
     }
     .bigTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24075,7 +24076,7 @@ a:before {
     }
     .bigTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24136,7 +24137,7 @@ a:before {
     }
     .augmentedTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24167,7 +24168,7 @@ a:before {
 
 .appleTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -24316,7 +24317,7 @@ a:before {
     }
     .appleTopH1,
     .appleToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .appleTopBanimg {
@@ -24358,7 +24359,7 @@ a:before {
     }
     .appleTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24388,7 +24389,7 @@ a:before {
     }
     .appleTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24418,7 +24419,7 @@ a:before {
     }
     .appleTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24448,7 +24449,7 @@ a:before {
     }
     .appleTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24479,7 +24480,7 @@ a:before {
 
 .googleTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -24628,7 +24629,7 @@ a:before {
     }
     .googleTopH1,
     .googleToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .googleTopBanimg {
@@ -24670,7 +24671,7 @@ a:before {
     }
     .googleTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24700,7 +24701,7 @@ a:before {
     }
     .googleTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24730,7 +24731,7 @@ a:before {
     }
     .googleTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24760,7 +24761,7 @@ a:before {
     }
     .googleTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -24791,7 +24792,7 @@ a:before {
 
 .webTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -24940,7 +24941,7 @@ a:before {
     }
     .webTopH1,
     .webToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .webTopBanimg {
@@ -24982,7 +24983,7 @@ a:before {
     }
     .webTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 100px
@@ -25012,7 +25013,7 @@ a:before {
     }
     .webTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 100px
@@ -25042,7 +25043,7 @@ a:before {
     }
     .webTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 100px
@@ -25072,7 +25073,7 @@ a:before {
     }
     .webTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 100px
@@ -25103,7 +25104,7 @@ a:before {
 
 .tokTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -25252,7 +25253,7 @@ a:before {
     }
     .tokTopH1,
     .tokToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .tokTopBanimg {
@@ -25294,7 +25295,7 @@ a:before {
     }
     .tokTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25324,7 +25325,7 @@ a:before {
     }
     .tokTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25354,7 +25355,7 @@ a:before {
     }
     .tokTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25384,7 +25385,7 @@ a:before {
     }
     .tokTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25415,7 +25416,7 @@ a:before {
 
 .augmentedTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -25564,7 +25565,7 @@ a:before {
     }
     .augmentedTopH1,
     .augmentedToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .augmentedTopBanimg {
@@ -25606,7 +25607,7 @@ a:before {
     }
     .augmentedTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25636,7 +25637,7 @@ a:before {
     }
     .augmentedTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 150px
@@ -25666,7 +25667,7 @@ a:before {
     }
     .augmentedTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25696,7 +25697,7 @@ a:before {
     }
     .augmentedTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25721,7 +25722,7 @@ a:before {
 
 .crmTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -25877,7 +25878,7 @@ a:before {
     }
     .crmTopH1,
     .crmToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .crmTopBanimg {
@@ -25919,7 +25920,7 @@ a:before {
     }
     .crmTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25949,7 +25950,7 @@ a:before {
     }
     .crmTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -25979,7 +25980,7 @@ a:before {
     }
     .crmTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26009,7 +26010,7 @@ a:before {
     }
     .crmTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26034,7 +26035,7 @@ a:before {
 
 .crmimpTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -26190,7 +26191,7 @@ a:before {
     }
     .crmimpTopH1,
     .crmimpToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .crmimpTopBanimg {
@@ -26232,7 +26233,7 @@ a:before {
     }
     .crmimpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26262,7 +26263,7 @@ a:before {
     }
     .crmimpTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26292,7 +26293,7 @@ a:before {
     }
     .crmimpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26322,7 +26323,7 @@ a:before {
     }
     .crmimpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26347,7 +26348,7 @@ a:before {
 
 .crmconTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -26503,7 +26504,7 @@ a:before {
     }
     .crmconTopH1,
     .crmconToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .crmconTopBanimg {
@@ -26545,7 +26546,7 @@ a:before {
     }
     .crmconTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26575,7 +26576,7 @@ a:before {
     }
     .crmconTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26605,7 +26606,7 @@ a:before {
     }
     .crmconTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26635,7 +26636,7 @@ a:before {
     }
     .crmconTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26660,7 +26661,7 @@ a:before {
 
 .erpTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -26816,7 +26817,7 @@ a:before {
     }
     .erpTopH1,
     .erpToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .erpTopBanimg {
@@ -26858,7 +26859,7 @@ a:before {
     }
     .erpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26888,7 +26889,7 @@ a:before {
     }
     .erpTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 172px
@@ -26918,7 +26919,7 @@ a:before {
     }
     .erpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26948,7 +26949,7 @@ a:before {
     }
     .erpTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -26973,7 +26974,7 @@ a:before {
 
 .erpconTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -27129,7 +27130,7 @@ a:before {
     }
     .erpconTopH1,
     .erpconToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .erpconTopBanimg {
@@ -27171,7 +27172,7 @@ a:before {
     }
     .erpconTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27201,7 +27202,7 @@ a:before {
     }
     .erpconTopH1 {
         font-size: 54px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27231,7 +27232,7 @@ a:before {
     }
     .erpconTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27261,7 +27262,7 @@ a:before {
     }
     .erpconTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27286,7 +27287,7 @@ a:before {
 
 .performTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -27442,7 +27443,7 @@ a:before {
     }
     .performTopH1,
     .performToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .performTopBanimg {
@@ -27484,7 +27485,7 @@ a:before {
     }
     .performTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27514,7 +27515,7 @@ a:before {
     }
     .performTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27544,7 +27545,7 @@ a:before {
     }
     .performTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27574,7 +27575,7 @@ a:before {
     }
     .performTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27599,7 +27600,7 @@ a:before {
 
 .mtestTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -27755,7 +27756,7 @@ a:before {
     }
     .mtestTopH1,
     .mtestToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .mtestTopBanimg {
@@ -27797,7 +27798,7 @@ a:before {
     }
     .mtestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27827,7 +27828,7 @@ a:before {
     }
     .mtestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27857,7 +27858,7 @@ a:before {
     }
     .mtestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27887,7 +27888,7 @@ a:before {
     }
     .mtestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -27912,7 +27913,7 @@ a:before {
 
 .atestTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -28068,7 +28069,7 @@ a:before {
     }
     .atestTopH1,
     .atestToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .atestTopBanimg {
@@ -28111,7 +28112,7 @@ a:before {
     }
     .atestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28142,7 +28143,7 @@ a:before {
     }
     .atestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28173,7 +28174,7 @@ a:before {
     }
     .atestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28204,7 +28205,7 @@ a:before {
     }
     .atestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28229,7 +28230,7 @@ a:before {
 
 .stestTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -28385,7 +28386,7 @@ a:before {
     }
     .stestTopH1,
     .stestToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .stestTopBanimg {
@@ -28427,7 +28428,7 @@ a:before {
     }
     .stestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28457,7 +28458,7 @@ a:before {
     }
     .stestTopH1 {
         font-size: 56px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 208px
@@ -28487,7 +28488,7 @@ a:before {
     }
     .stestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28517,7 +28518,7 @@ a:before {
     }
     .stestTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28542,7 +28543,7 @@ a:before {
 
 .amcTopH1 {
     font-size: 65px;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 200px
 }
@@ -28698,7 +28699,7 @@ a:before {
     }
     .amcTopH1,
     .amcToppara {
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center
     }
     .amcTopBanimg {
@@ -28740,7 +28741,7 @@ a:before {
     }
     .amcTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28770,7 +28771,7 @@ a:before {
     }
     .amcTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28800,7 +28801,7 @@ a:before {
     }
     .amcTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -28830,7 +28831,7 @@ a:before {
     }
     .amcTopH1 {
         font-size: 65px;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         font-weight: 700;
         text-align: center;
         margin-top: 200px
@@ -29228,7 +29229,7 @@ a:before {
     /* border: solid #292929!important; */
     margin-left: 40px;
     color: #fff;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 
@@ -29241,7 +29242,7 @@ a:before {
     /* border: solid #292929!important; */
     /* margin-left: 40px; */
     color: #fff;
-    font-family: raleway, regular;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 
@@ -29255,7 +29256,7 @@ a:before {
         /* border: solid #292929!important; */
         margin-left: 40px;
         color: #fff;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center;
         margin-left: -55px;
     }
@@ -29279,7 +29280,7 @@ a:before {
         /* border: solid #292929!important; */
         margin-left: 40px;
         color: #fff;
-        font-family: raleway, regular;
+        font-family: 'Poppins', sans-serif;
         text-align: center;
         margin-left: 0px;
     }

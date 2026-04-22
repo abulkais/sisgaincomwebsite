@@ -156,7 +156,7 @@ include("url-page.php");
 
                         <!-- PHONE WITH COUNTRY CODE -->
                         <div class="phone-group">
-                            <select class="countrycode" name="countrycode" aria-label="Country Code"></select>
+                            <select class="countrycode" name="countrycode" aria-label="Country Code" required></select>
                             <input type="tel" placeholder="Phone Number" name="number" required>
                         </div>
 
@@ -333,12 +333,12 @@ include("url-page.php");
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
-                                        <input type="text" placeholder="Name" name="name" class="form-control">
+                                        <input type="text" placeholder="Name" name="name" class="form-control" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="form-group">
-                                        <input type="text" placeholder="Email" name="email" class="form-control">
+                                        <input type="email" placeholder="Email" name="email" class="form-control" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
@@ -347,9 +347,9 @@ include("url-page.php");
                                         <select
                                             style="width:150px;     border: 1px solid #ced4da; padding: 0; margin: 0; background:#fff; border-radius: 15px 0px 0px 15px;"
                                             class="countrycode" name="countrycode" autocomplete="off"
-                                            aria-label="Country Code"></select>
+                                            aria-label="Country Code" required></select>
                                         <input type="text" placeholder="Phone Number" name="number" class="form-control"
-                                            style="border-radius: 0px 15px 15px 0px;">
+                                            style="border-radius: 0px 15px 15px 0px;" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">

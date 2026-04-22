@@ -254,161 +254,163 @@
 
 
 </head>
-<div style="overflow-x:hidden">
-   <div> <?php include 'innerpage-header.php'; ?> </div>
-   <div class="row androidTop-health">
-      <div class="col-sm-12 androidTopBgimg1" id="fitness-responsivebg">
-         <div class="col-sm-5 androidTopBanimg-health androidTopBanimg1" style="margin-top:88px">
-         </div>
-         <div class="col-sm-5 androidTopbanText-health" style="margin-top:160px !important">
-            <h2 class="headtitle-health">Fitness Club Management Application Software Development Services</h2>
-			<div itemscope="" itemtype="http://schema.org/Review-aggregate" class="itemclass">
-				                <span itemprop="rating" itemscope="" itemtype="http://schema.org/Rating">
-				                   <img src="https://sisgain.com/image1/star.png" alt="Fitness Club Management Application Software Development Services"><span>4.8</span> out of <span>5</span>
-			                    </span>
-			                      based on <span>5300</span> ratings.
-			</div>
-			<br/>
-            <p class="androidToppara-health" style="text-align:justify;">
-               Fitness Club Management Application software termed as the Application Software which allows clubs and associations sell their services & products and also support them to improve their services which they provide to the customers. SISGAIN, fitness center management software development company helps Fitness Clubs leverage cloud and digital technology paradigms to stay nimble and adapt to changing customer trends.
-            </p>
-         </div>
-      </div>
-      <!--mobilescree-->
-      <div class="col-sm-12 androidTopBgimg1" id="fitnessmobile-responsivebg">
-         <div class="col-sm-5 androidTopBanimg-health androidTopBanimg1" style="margin-top:88px">
-         </div>
-         <div class="col-sm-5 androidTopbanText-health" style="margin-top:160px !important">
-            <h1 class="headtitle-health">Fitness Club Management Application Software Development Services</h1>
-            <p class="androidToppara-health" style="text-align:justify;">
-               Fitness Club Management Application software termed as the Application Software which allows clubs and associations sell their services & products and also support them to improve their services which they provide to the customers. SISGAIN helps Fitness Clubs leverage cloud and digital technology paradigms to stay nimble and adapt to changing customer trends.
-            </p>
-         </div>
-      </div>
 
-
-      <!--end-->
-   </div>
-   <!--OPTION HEADING-->
-   <section class="darkBg fitness-club-management-darkBg listbulletOrangecheck" style="background-color: #000;">
-      <div class="container">
-         <div class="row">
-            <div class="col-md-12 head-space">
-               <div class="darkbg-heading">
-                  <span class="margin-right-10 table-cell orange-indus-sprite fitness-club-management-orange-icon icon-headin"></span>
-                  <h2 class="table-cell color-orange text-center fitness-text">Our Fitness Club Management Software Development Solutions</h2>
+<body>
+   <div style="overflow-x:hidden">
+      <div> <?php include 'innerpage-header.php'; ?> </div>
+      <div class="row androidTop-health">
+         <div class="col-sm-12 androidTopBgimg1" id="fitness-responsivebg">
+            <div class="col-sm-5 androidTopBanimg-health androidTopBanimg1" style="margin-top:88px">
+            </div>
+            <div class="col-sm-5 androidTopbanText-health" style="margin-top:160px !important">
+               <h2 class="headtitle-health">Fitness Club Management Application Software Development Services</h2>
+               <div itemscope="" itemtype="http://schema.org/Review-aggregate" class="itemclass">
+                  <span itemprop="rating" itemscope="" itemtype="http://schema.org/Rating">
+                     <img src="https://sisgain.com/image1/star.png" alt="Fitness Club Management Application Software Development Services"><span>4.8</span> out of <span>5</span>
+                  </span>
+                  based on <span>5300</span> ratings.
                </div>
+               <br />
+               <p class="androidToppara-health" style="text-align:justify;">
+                  Fitness Club Management Application software termed as the Application Software which allows clubs and associations sell their services & products and also support them to improve their services which they provide to the customers. SISGAIN, fitness center management software development company helps Fitness Clubs leverage cloud and digital technology paradigms to stay nimble and adapt to changing customer trends.
+               </p>
             </div>
-            <div class="col-md-6">
-               <ul class="darkBgcontent text-justify">
-                  <li>In this gym maintenance management application software, you can also check Member attendance, diet menu, workout chart, accounting, new schemes and machinery maintenance system and has the range of reports that help in the management of the Gym or fitness center.</li>
-                  <li>Front desk management administration application software containing internet booking/arrangement abilities, real-time arrangement, occasions/classes administration, mobile registration, staff/coaches/merchants administration, peripheral service administration (child care, towel service, lockers, tanning/beauty, and so forth) and 360⁰ club supervision.</li>
-                  <li>Health Club Management & billing Application software development includes athletic clubs and park districts as well as dance, yoga, aerobics, swimming, fitness center, martial arts, hotel and university.</li>
-                  <li>We build embedded applications software cloud network, and wearable innovation embellishments programming for fitness hardware including customized preparing, custom screens/interfaces, synchronization with portable applications, movement following/investigation and TV/media controls.</li>
-                  <li>Collect the information of visitors for further follow-up and convert the enquiry into sales. Search inquiry option is also available in our application software. </li>
-                  <!--<li>We create personal ID capture and age modules for filter labels with NFC, QR, scanner tag and biometric innovation, in addition, to shutting circle steadfast cards.</li>-->
-               </ul>
-            </div>
-            <div class="col-md-6">
-               <ul class="darkBgcontent text-justify">
-                  <li>Our premium application software performs all the functions where one can keep records of members, their memberships and have quick & easy communication. </li>
-                  <li>We also add client management in our application software. This feature gives you various options for complaints, feedback and other product related queries.</li>
-                  <li>Custom branded mobile applications advancement including internet training, part maintenance highlights, fitness trackers and that's only the tip of the iceberg. </li>
-                  <li>Personal trainers’ applications software advancement including sustenance modules,altered,suppers/training programs administration, appointments/customers administration, practice libraries and evaluations.</li>
-                  <li>Membership administration stages developing including part database/profiles, incorporated site/versatile application administrations, personal ID catch/part card age, advanced mark catch, web-based interfaces, applications/enlistment and that's just the beginning. </li>
-                  <li>We develop property administration and office support scheme including stock administration, tasks administration, support booking/cautions, fund modules, access control and Point-of-Sale (POS)/retail applications. </li>
-               </ul>
-            </div>
-            <div class="clear"></div>
          </div>
+         <!--mobilescree-->
+         <div class="col-sm-12 androidTopBgimg1" id="fitnessmobile-responsivebg">
+            <div class="col-sm-5 androidTopBanimg-health androidTopBanimg1" style="margin-top:88px">
+            </div>
+            <div class="col-sm-5 androidTopbanText-health" style="margin-top:160px !important">
+               <h1 class="headtitle-health">Fitness Club Management Application Software Development Services</h1>
+               <p class="androidToppara-health" style="text-align:justify;">
+                  Fitness Club Management Application software termed as the Application Software which allows clubs and associations sell their services & products and also support them to improve their services which they provide to the customers. SISGAIN helps Fitness Clubs leverage cloud and digital technology paradigms to stay nimble and adapt to changing customer trends.
+               </p>
+            </div>
+         </div>
+
+
+         <!--end-->
       </div>
-   </section>
-   <div class="clear"></div>
-   <!--END OPTION-->
-   <div class="container-fluid androidTop2bg">
-      <div class="row" style="overflow-x:hidden; ">
-         <div class="col-sm-12 hed1">
-            <span style="color:#0097a4 ">Our Fitness Club Software Development Solutions</span>
-            <hr class="hr-style">
-         </div>
-         <div class="CTBlock stxt-center">
-            <div class="CTwrap33 fl">
-               <div class="techworkinglist">
-                  <ul class="sind-list Verticle">
-                     <li>
-                        <a href="fitness-club-management">
-                           <div class="sind-block">
-                              <div class="sind-ico">
-                                 <span class="sind-icblock sinc-Health-allScript"></span>
-                              </div>
-                              <div class="sind-txtwrap">
-                                 <h4>Fitness Club Management</h4>
-                                 <hr>
-                              </div>
-                           </div>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="golf">
-                           <div class="sind-block">
-                              <div class="sind-ico">
-                                 <span class="sind-icblock sinc-EmrPhr">
-                                 </span>
-                              </div>
-                              <div class="sind-txtwrap">
-                                 <h4>Golf</h4>
-                                 <hr>
-                              </div>
-                           </div>
-                        </a>
-                     </li>
+      <!--OPTION HEADING-->
+      <section class="darkBg fitness-club-management-darkBg listbulletOrangecheck" style="background-color: #000;">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12 head-space">
+                  <div class="darkbg-heading">
+                     <span class="margin-right-10 table-cell orange-indus-sprite fitness-club-management-orange-icon icon-headin"></span>
+                     <h2 class="table-cell color-orange text-center fitness-text">Our Fitness Club Management Software Development Solutions</h2>
+                  </div>
+               </div>
+               <div class="col-md-6">
+                  <ul class="darkBgcontent text-justify">
+                     <li>In this gym maintenance management application software, you can also check Member attendance, diet menu, workout chart, accounting, new schemes and machinery maintenance system and has the range of reports that help in the management of the Gym or fitness center.</li>
+                     <li>Front desk management administration application software containing internet booking/arrangement abilities, real-time arrangement, occasions/classes administration, mobile registration, staff/coaches/merchants administration, peripheral service administration (child care, towel service, lockers, tanning/beauty, and so forth) and 360⁰ club supervision.</li>
+                     <li>Health Club Management & billing Application software development includes athletic clubs and park districts as well as dance, yoga, aerobics, swimming, fitness center, martial arts, hotel and university.</li>
+                     <li>We build embedded applications software cloud network, and wearable innovation embellishments programming for fitness hardware including customized preparing, custom screens/interfaces, synchronization with portable applications, movement following/investigation and TV/media controls.</li>
+                     <li>Collect the information of visitors for further follow-up and convert the enquiry into sales. Search inquiry option is also available in our application software. </li>
+                     <!--<li>We create personal ID capture and age modules for filter labels with NFC, QR, scanner tag and biometric innovation, in addition, to shutting circle steadfast cards.</li>-->
                   </ul>
                </div>
-               <div class="cl"></div>
-            </div>
-            <div class="CTwrap33 fl">
-               <div class="responsiveImage stxt-center margin-top-30">
-                  <img src="https://sisgain.com/image1/mobileimgsports.png" title="">
+               <div class="col-md-6">
+                  <ul class="darkBgcontent text-justify">
+                     <li>Our premium application software performs all the functions where one can keep records of members, their memberships and have quick & easy communication. </li>
+                     <li>We also add client management in our application software. This feature gives you various options for complaints, feedback and other product related queries.</li>
+                     <li>Custom branded mobile applications advancement including internet training, part maintenance highlights, fitness trackers and that's only the tip of the iceberg. </li>
+                     <li>Personal trainers’ applications software advancement including sustenance modules,altered,suppers/training programs administration, appointments/customers administration, practice libraries and evaluations.</li>
+                     <li>Membership administration stages developing including part database/profiles, incorporated site/versatile application administrations, personal ID catch/part card age, advanced mark catch, web-based interfaces, applications/enlistment and that's just the beginning. </li>
+                     <li>We develop property administration and office support scheme including stock administration, tasks administration, support booking/cautions, fund modules, access control and Point-of-Sale (POS)/retail applications. </li>
+                  </ul>
                </div>
+               <div class="clear"></div>
             </div>
-            <div class="CTwrap33 fl">
-               <div class="techworkinglist">
-                  <ul class="sind-list Verticle">
-                     <li>
-                        <a href="training">
-                           <div class="sind-block">
-                              <div class="sind-ico">
-                                 <span class="sind-icblock sinc-E-Prescribing">
-                                 </span>
+         </div>
+      </section>
+      <div class="clear"></div>
+      <!--END OPTION-->
+      <div class="container-fluid androidTop2bg">
+         <div class="row" style="overflow-x:hidden; ">
+            <div class="col-sm-12 hed1">
+               <span style="color:#0097a4 ">Our Fitness Club Software Development Solutions</span>
+               <hr class="hr-style">
+            </div>
+            <div class="CTBlock stxt-center">
+               <div class="CTwrap33 fl">
+                  <div class="techworkinglist">
+                     <ul class="sind-list Verticle">
+                        <li>
+                           <a href="fitness-club-management">
+                              <div class="sind-block">
+                                 <div class="sind-ico">
+                                    <span class="sind-icblock sinc-Health-allScript"></span>
+                                 </div>
+                                 <div class="sind-txtwrap">
+                                    <h4>Fitness Club Management</h4>
+                                    <hr>
+                                 </div>
                               </div>
-                              <div class="sind-txtwrap">
-                                 <h4>Training</h4>
-                                 <hr>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="golf">
+                              <div class="sind-block">
+                                 <div class="sind-ico">
+                                    <span class="sind-icblock sinc-EmrPhr">
+                                    </span>
+                                 </div>
+                                 <div class="sind-txtwrap">
+                                    <h4>Golf</h4>
+                                    <hr>
+                                 </div>
                               </div>
-                           </div>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="analytics-performance">
-                           <div class="sind-block">
-                              <div class="sind-ico">
-                                 <span class="sind-icblock sinc-Health-xhng"></span>
-                              </div>
-                              <div class="sind-txtwrap">
-                                 <h4>Sports Analytics &amp; Athlete Performance</h4>
-                                 <hr>
-                              </div>
-                           </div>
-                        </a>
-                     </li>
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="cl"></div>
                </div>
-            </div>
-            <div class="cl">
+               <div class="CTwrap33 fl">
+                  <div class="responsiveImage stxt-center margin-top-30">
+                     <img src="https://sisgain.com/image1/mobileimgsports.png" title="">
+                  </div>
+               </div>
+               <div class="CTwrap33 fl">
+                  <div class="techworkinglist">
+                     <ul class="sind-list Verticle">
+                        <li>
+                           <a href="training">
+                              <div class="sind-block">
+                                 <div class="sind-ico">
+                                    <span class="sind-icblock sinc-E-Prescribing">
+                                    </span>
+                                 </div>
+                                 <div class="sind-txtwrap">
+                                    <h4>Training</h4>
+                                    <hr>
+                                 </div>
+                              </div>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="analytics-performance">
+                              <div class="sind-block">
+                                 <div class="sind-ico">
+                                    <span class="sind-icblock sinc-Health-xhng"></span>
+                                 </div>
+                                 <div class="sind-txtwrap">
+                                    <h4>Sports Analytics &amp; Athlete Performance</h4>
+                                    <hr>
+                                 </div>
+                              </div>
+                           </a>
+                        </li>
+                  </div>
+               </div>
+               <div class="cl">
+               </div>
             </div>
          </div>
       </div>
-   </div>
-   <!--<div class="row androidtop3bg">
+      <!--<div class="row androidtop3bg">
    <div class="sRegulatory-LP wow fadeInDown divcls" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInDown;">
    <div class="swrap">
    <div class="srow">
@@ -473,22 +475,22 @@
          </div>
          <div class="col-sm-12" align="center">
             <a href="https://sisgain.com/hire-android-developer">
-            <button class="androidHireButton-health" type="button">
-            KNOW MORE
-            </button>
+               <button class="androidHireButton-health" type="button">
+                  KNOW MORE
+               </button>
             </a>
          </div>
       </div>
       <div class="row androidHireRankedbg1-health" style="border:0px solid red;">
          <div class="col-sm-12 androidHireRankDiv-health" align="center">
             <span class="androidhirespan1-health">
-            Ranked among top Fitness Club Management app development companies
+               Ranked among top Fitness Club Management app development companies
             </span><br>
-            <span  class="androidhirespan2-health" align="center">
-            EVERYTHING YOU NEED TO BUILD, DEPLOY AND LAUNCH AN AMAZING Fitness Club Management APP
+            <span class="androidhirespan2-health" align="center">
+               EVERYTHING YOU NEED TO BUILD, DEPLOY AND LAUNCH AN AMAZING Fitness Club Management APP
             </span>
             <p class="androidRankedpara-health">
-               There are several interesting factors making the <strong>Fitness Club Management app </strong> important so you must be sure that you are choosing one of 
+               There are several interesting factors making the <strong>Fitness Club Management app </strong> important so you must be sure that you are choosing one of
                the <strong>best <br>Fitness Club Management Application development company.</strong> Call us today to find out more about our<strong> Fitness Club Management App Development services.</strong>
             </p>
          </div>
@@ -616,7 +618,9 @@
          </div>
       </div>
    </div>
-</div>
-</div>
-<?php $subjectFooter = "Query From For Android App Development Page"; ?>
-<div id="loadfooter" style="overflow-x:hidden;"><?php include 'footer.php'; ?> </div>
+   </div>
+   </div>
+</body>
+<?php $subjectFooter = "Query From For Fitness Page"; ?>
+<div id="loadfooter" style="overflow-x:hidden;">
+   <?php include 'footer.php'; ?> </div>

@@ -135,7 +135,7 @@
 	<div class="col-lg-12 col-sm-12 colFooInline">
 
 		<div class="col-lg-6 col-sm-6 addcol">
-			<p class="addspan">Address</p>
+			<p class="addspan" style="text-align: left; color: #fff;">Address</p>
 
 			<br>
 			<div class="col-lg-7 col-sm-7 addressRes" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
@@ -145,32 +145,35 @@
 
 				<span class="indiaFooInline">INDIA</span><br>
 				<p class="addressFooter">
-					<!-- <span itemprop="streetAddress">C-109, Sector-2</span> 
-								<span itemprop="addressRegion">Noida (U.P.)</span> <span itemprop="postalCode">-201301</span><br>
-								<span itemprop="">+91-9212-080-630</span> -->
-				<p>Registered Office:- C-1, Naveen Shahdara, Delhi- 110032</p>
-				<p>Corporate Office:- C-109, Sector-2 Noida (U.P.) -201301</p>
-				</p>
+
+				<p style="color: #fff;">C-109, Sector 2, Noida, Uttar Pradesh 201301 India</p>
 				<br>
 			</div>
 
 			<div class="col-lg-5 col-sm-5 addressRes" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
 
 				<span class="glyphicon glyphicon-map-marker iconFooInline"></span><span class=" DubaiFooInline">DUBAI</span><br>
-				<p class="addressFooter">
-					<span itemprop="streetAddress">P.O Box <span itemprop="postalCode">1555</span> Ras-Al-Khaimah</span>
-					<span itemprop="addressRegion">U.A.E</span><br>
-					<span itemprop="">+971 56-848-5757</span>
+				<p style="color: #fff;">
+					DUQE FREEZONE Quarter Deck, Queen Elizabeth 2, Mina Rashid, Dubai, UAE
+
+
 				</p>
 				<br>
-				<button type="button" class="skypebutton">
-					<i class="fa fa-skype skypelogo SkypeFooInline" aria-hidden="true"> </i>
-					<span class="spanbutton SkyIDFooInline">
-						Skype id <br>spectrum.specialist
-					</span>
-				</button>
+
 			</div>
 
+			<div class="col-lg-7 col-sm-7 addressRes" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+
+				<span class="glyphicon glyphicon-map-marker glyFooInline">
+				</span>
+
+				<span class="indiaFooInline">Canada
+				</span><br>
+				<p class="addressFooter">
+
+				<p style="color: #fff;">100 Consilium Pl Suite 200, Scarborough, ON M1H 3E3, Canada</p>
+				<br>
+			</div>
 			<!-- <div class="col-lg-4 col-sm-4 addressRes" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
 							
 							<span class="glyphicon glyphicon-map-marker glyFooInline">
@@ -239,8 +242,8 @@
 		<div class="col-sm-2 footerbox">
 			<h3 class="footerhead"> MOBILE DEVELOPMENT SERVICES</h3>
 			<hr class="hrfooter">
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a ><span class="footerSpan">Android App Development</span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a ><span class="footerSpan">iPhone App Development</span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a><span class="footerSpan">Android App Development</span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a><span class="footerSpan">iPhone App Development</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/ipad-application-development"><span class="footerSpan">iPAD App Development</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/cross-platform-application-development"><span class="footerSpan">Cross Platform Development</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/ionic-application-development"><span class="footerSpan">Ionic App Development</span></a><br>
@@ -248,7 +251,7 @@
 			<hr class="hrFooInline">
 			<h3 class="footerhead"> WEB DEVELOPMENT SERVICES</h3>
 			<hr class="hrfooter">
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">Resposive Website</span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">Resposive Website</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/ui-ux-design-development" itemprop="url"><span class="footerSpan">UI/UX Design</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/mobile-website-development" itemprop="url"><span class="footerSpan">Mobile Website</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/website-maintenance" itemprop="url"><span class="footerSpan">Website Maintenance</span></a><br>
@@ -277,9 +280,9 @@
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/big-data-service" itemprop="url"><span class="footerSpan">Big Data Services</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/augmented-reality-service" itemprop="url"><span class="footerSpan">Augmented Reality Services</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/apple-watch-development" itemprop="url"><span class="footerSpan">Apple Watch Development</span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">Google Glass Development</span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">WebRTC </span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">Tokbox </span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">Google Glass Development</span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">WebRTC </span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">Tokbox </span></a><br>
 
 		</div>
 
@@ -287,10 +290,10 @@
 			<h3 class="footerhead">ERP & CRM SERVICES</h3>
 			<hr class="hrfooter">
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/crm-development-company" itemprop="url"><span class="footerSpan">CRM Development </span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">CRM Implementation</span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">CRM Consulting</span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">CRM Implementation</span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">CRM Consulting</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/erp-development-company" itemprop="url"><span class="footerSpan">ERP Development</span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">ERP Consulting</span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">ERP Consulting</span></a><br>
 
 			<hr class="hrFooInline">
 			<h3 class="footerhead">QA TESTING & SUPPORT</h3>
@@ -298,7 +301,7 @@
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/performance-testing" itemprop="url"><span class="footerSpan">Performance testing</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/mobile-testing" itemprop="url"><span class="footerSpan">Mobile testing</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/automation-testing" itemprop="url"><span class="footerSpan">Automation Testing</span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">Software test Management </span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">Software test Management </span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/annual-maintenance-contract" itemprop="url"><span class="footerSpan">AMC</span></a><br>
 
 		</div>
@@ -326,7 +329,7 @@
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/hire-wordpress-developer" itemprop="url"><span class="footerSpan">Hire WordPress Developer</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/hire-magento-developer" itemprop="url"><span class="footerSpan">Hire Magento Developer</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/hire-codeigniter-developer" itemprop="url"><span class="footerSpan">Hire Codeigniter Developer</span></a><br>
-			<i class="fa fa-angle-right angleClass listFooInline"></i><a  itemprop="url"><span class="footerSpan">Hire HTML5, CSS Developer</span></a><br>
+			<i class="fa fa-angle-right angleClass listFooInline"></i><a itemprop="url"><span class="footerSpan">Hire HTML5, CSS Developer</span></a><br>
 			<i class="fa fa-angle-right angleClass listFooInline"></i><a href="https://sisgain.com/hire-kubernetes-developer" itemprop="url"><span class="footerSpan">Hire Kubernetes Developer</span></a><br>
 
 		</div>
