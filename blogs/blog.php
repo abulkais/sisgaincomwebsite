@@ -257,7 +257,7 @@ if (!empty($ldFaq['mainEntity'])):
       <div class="col-lg-6">
         <div class="blog-content">
           <?php if (!empty($post['banner_image'])): ?>
-            <img src="Admin/<?= htmlspecialchars($post['banner_image']) ?>" class="img-fluid mb-2" alt="<?= htmlspecialchars($post['title']) ?>">
+            <img src="https://sisgain.com/blogs/Admin/<?= htmlspecialchars($post['banner_image']) ?>" class="img-fluid mb-2" alt="<?= htmlspecialchars($post['title']) ?>">
           <?php endif; ?>
 
           <div class="blog-meta">
