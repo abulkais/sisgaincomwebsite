@@ -443,7 +443,7 @@ echo 'blog / ' . ucwords($slug);
               <?php foreach ($relatedPosts as $p): ?>
                 <div class="all-post-item d-flex align-items-start mb-3 align-items-center">
                   <a href="<?= htmlspecialchars($p['slug']) ?>" class="thumb mr-2">
-                    <img src="Admin/<?= htmlspecialchars($p['banner_image'] ?? 'default.jpg') ?>" alt="<?= htmlspecialchars($p['title']) ?>">
+                    <img src="https://sisgain.com/blogs/Admin/<?= htmlspecialchars($p['banner_image'] ?? 'default.jpg') ?>" alt="<?= htmlspecialchars($p['title']) ?>">
                   </a>
                   <div class="meta flex-grow-1" style="padding:10px 0;">
                     <div class="d-flex justify-content-between">
