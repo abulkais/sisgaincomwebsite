@@ -29,7 +29,7 @@ $query3 = "SELECT p.*, c.name AS category_name, c.id AS category_id, c.slug AS c
            LEFT JOIN categories c ON p.category_id = c.id
            WHERE p.status = 'enabled'
            ORDER BY p.$correctDateColumn DESC
-           LIMIT 50 OFFSET 5";
+           LIMIT 1000 OFFSET 5";
 
 // Execute queries
 $result = $conn->prepare($query);
@@ -186,7 +186,7 @@ function truncate_html($html) {
   <!-- Latest/Featured Posts -->
   <div class="latest-blog">
     <h3>Featured Posts</h3>
-    <div class="row">
+   <div class="row" id="featuredPosts">
       <?php foreach ($latestPosts as $post): ?>
         <div class="col-lg-6">
           <div class="inner-latest-blog">
@@ -226,6 +226,38 @@ function truncate_html($html) {
     </div>
   </div>
 </div>
+<div class="text-center mb-4">
+  <button id="loadMoreBtn" class="btn btn-primary">Load More</button>
+</div>
+<script>
+const posts = document.querySelectorAll('#featuredPosts .col-lg-6');
+const btn = document.getElementById('loadMoreBtn');
+
+let visible = 6;
+
+// hide extra posts
+posts.forEach((post, i) => {
+  if (i >= visible) post.style.display = 'none';
+});
+
+btn.addEventListener('click', () => {
+  let count = 0;
+
+  posts.forEach((post) => {
+    if (post.style.display === 'none' && count < 6) {
+      post.style.display = 'block';
+      count++;
+    }
+  });
+
+  visible += 6;
+
+  if (visible >= posts.length) {
+    btn.disabled = true;
+    btn.innerText = "No More Posts";
+  }
+});
+</script>
 
 <?php include("../assets/includes-new/footer.php"); ?>
 </body>

@@ -862,6 +862,7 @@ body.menu-open .navbar::after {
 }
 
 .ind-link:hover {
+   display: flex!important;
   background: var(--blue-xl);
 }
 
