@@ -8,33 +8,39 @@ include '../db_connect.php';
 
 // Handle upload
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_FILES['bodyImages'])) {
-    $file = $_FILES['bodyImages'];
-    if ($file['size'] > 200 * 1024) {
-        $error = "File size should be less than 200 KB.";
-    } elseif ($file['type'] !== 'image/webp') {
-        $error = "Please upload only WebP image.";
+  $file = $_FILES['bodyImages'];
+
+$allowedTypes = ['image/webp', 'image/x-webp'];
+
+if ($file['size'] > 200 * 1024) {
+    $error = "File size should be less than 200 KB.";
+} elseif (!in_array($file['type'], $allowedTypes)) {
+    $error = "Please upload only WebP image.";
+} else {
+
+    $uploadDir = __DIR__ . '/uploads/body_images/';
+
+    if (!is_dir($uploadDir)) {
+        mkdir($uploadDir, 0777, true);
+    }
+
+    $fileName = time() . '_' . basename($file['name']);
+    $fullPath = $uploadDir . $fileName;
+
+    if (move_uploaded_file($file['tmp_name'], $fullPath)) {
+
+        $dbPath = 'uploads/body_images/' . $fileName;
+
+        $stmt = $conn->prepare("INSERT INTO body_images (image_path) VALUES (:path)");
+        $stmt->bindParam(':path', $dbPath);
+        $stmt->execute();
+
+        $success = "Image uploaded successfully";
+
     } else {
-        $uploadDir = 'uploads/body_images/';
-        if (!is_dir($uploadDir)) mkdir($uploadDir, 0777, true);
-        $path = $uploadDir . basename($file['name']);
+        $error = "Upload failed";
+    }
 
-        // Check if image with same name already exists
-        $checkStmt = $conn->prepare("SELECT * FROM body_images WHERE image_path = :path");
-        $checkStmt->bindParam(':path', $path);
-        $checkStmt->execute();
-
-        if ($checkStmt->rowCount() > 0) {
-            $error = "An image with the same name already exists.";
-        } else {
-            if (move_uploaded_file($file['tmp_name'], $path)) {
-                $stmt = $conn->prepare("INSERT INTO body_images (image_path) VALUES (:path)");
-                $stmt->bindParam(':path', $path);
-                $stmt->execute();
-                $success = "Image uploaded successfully";
-            } else {
-                $error = "Error uploading image";
-            }
-        }
     }
 }
 
