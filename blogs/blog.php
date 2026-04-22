@@ -206,7 +206,7 @@ if (!empty($ldFaq['mainEntity'])):
 <?php endif; ?>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-  <link rel="stylesheet" href="css/blogPage.css">
+  <link rel="stylesheet" href="https://sisgain.com/blogs/css/blogPage.css">
   <?php include "assets/includes-new/header.php"; ?>
 </head>
 <body>
