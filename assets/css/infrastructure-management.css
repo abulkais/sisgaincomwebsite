@@ -954,7 +954,7 @@
 }
 
 .arch-node img{
-    width: 50px;
+    width: 50px!important;
     height: auto;
 }
 .arch-node:hover {
