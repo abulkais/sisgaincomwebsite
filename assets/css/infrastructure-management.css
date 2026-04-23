@@ -953,6 +953,10 @@
   transition: all 0.2s;
 }
 
+.arch-node img{
+    width: 50px;
+    height: auto;
+}
 .arch-node:hover {
   border-color: var(--b400);
   color: var(--b700);

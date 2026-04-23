@@ -824,16 +824,17 @@
                     <div style="color:var(--slate300);font-size:18px">→</div>
                     <div class="arch-node">
                         <div class="nd" style="background:#0089D6"></div>
-                        <img loading="lazy" src="assets/images/infrastructure-ms/aws-rekognition-google-vision-ai.png" alt="Azure">
+                        <img loading="lazy" src="assets/images/infrastructure-ms/azure.png" alt="Azure">
                     </div>
                     <div style="color:var(--slate300);font-size:18px">→</div>
                     <div class="arch-node">
                         <div class="nd" style="background:#4285F4"></div>
-                        <img loading="lazy" src="assets/images/infrastructure-ms/g" alt="GCP">
+                        <img loading="lazy" src="assets/images/infrastructure-ms/gcp.png" alt="GCP">
                     </div>
                     <div style="color:var(--slate300);font-size:18px">→</div>
                     <div class="arch-node">
-                        <div class="nd" style="background:var(--slate400)"></div>On-Premise
+                        <div class="nd" style="background:var(--slate400)"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/on-premise.png" alt="On-Premise">
                     </div>
                 </div>
 
@@ -857,19 +858,24 @@
                 <p class="arch-tier-lbl">MANAGED INFRASTRUCTURE LAYERS</p>
                 <div class="arch-row">
                     <div class="arch-node">
-                        <div class="nd" style="background:#8B5CF6"></div>K8s Clusters
+                        <div class="nd" style="background:#8B5CF6"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/k8s-clusters.png" alt="K8s Clusters">
                     </div>
                     <div class="arch-node">
-                        <div class="nd" style="background:#06B6D4"></div>Microservices
+                        <div class="nd" style="background:#06B6D4"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/microservices.png" alt="Microservices">
                     </div>
                     <div class="arch-node">
-                        <div class="nd" style="background:#F59E0B"></div>Serverless
+                        <div class="nd" style="background:#F59E0B"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/serverless.png" alt="Serverless">
                     </div>
                     <div class="arch-node">
-                        <div class="nd" style="background:#10B981"></div>Databases
+                        <div class="nd" style="background:#10B981"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/databases.png" alt="Databases">
                     </div>
                     <div class="arch-node">
-                        <div class="nd" style="background:#EC4899"></div>Networking
+                        <div class="nd" style="background:#EC4899"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/networking.png" alt="Networking">
                     </div>
                 </div>
 
@@ -879,16 +885,20 @@
                 <p class="arch-tier-lbl">OBSERVABILITY, SECURITY &amp; FINOPS</p>
                 <div class="arch-row">
                     <div class="arch-node">
-                        <div class="nd" style="background:#10B981"></div>Real-time Monitoring
+                        <div class="nd" style="background:#10B981"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/real-time-monitoring.png" alt="Real-time Monitoring">
                     </div>
                     <div class="arch-node">
-                        <div class="nd" style="background:#EF4444"></div>Security &amp; Compliance
+                        <div class="nd" style="background:#EF4444"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/security-and-compliance.png" alt="Security & Compliance">
                     </div>
                     <div class="arch-node">
-                        <div class="nd" style="background:#F59E0B"></div>FinOps Optimization
+                        <div class="nd" style="background:#F59E0B"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/finops-optimization.png" alt="FinOps Optimization">
                     </div>
                     <div class="arch-node">
-                        <div class="nd" style="background:var(--b500)"></div>CI/CD Pipelines
+                        <div class="nd" style="background:var(--b500)"></div>
+                        <img loading="lazy" src="assets/images/infrastructure-ms/ci-cd-pipelines.png" alt="CI/CD Pipelines">
                     </div>
                 </div>
 
