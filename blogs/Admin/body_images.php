@@ -8,13 +8,13 @@ include '../db_connect.php';
 
 // Handle upload
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_FILES['bodyImages'])) {
-$file = $_FILES['bodyImages'];
+  $file = $_FILES['bodyImages'];
 
-$ext = strtolower(pathinfo($file['name'], PATHINFO_EXTENSION));
+$allowedTypes = ['image/webp', 'image/x-webp'];
 
-if ($file['size'] > 2 * 1024 * 1024) {
-    $error = "File size should be less than 2MB.";
-} elseif ($ext !== 'webp') {
+if ($file['size'] > 200 * 1024) {
+    $error = "File size should be less than 200 KB.";
+} elseif (!in_array($file['type'], $allowedTypes)) {
     $error = "Please upload only WebP image.";
 } else {
 
@@ -24,26 +24,23 @@ if ($file['size'] > 2 * 1024 * 1024) {
         mkdir($uploadDir, 0777, true);
     }
 
-    if (!is_writable($uploadDir)) {
-        $error = "Upload folder is not writable.";
+    $fileName = time() . '_' . basename($file['name']);
+    $fullPath = $uploadDir . $fileName;
+
+    if (move_uploaded_file($file['tmp_name'], $fullPath)) {
+
+        $dbPath = 'uploads/body_images/' . $fileName;
+
+        $stmt = $conn->prepare("INSERT INTO body_images (image_path) VALUES (:path)");
+        $stmt->bindParam(':path', $dbPath);
+        $stmt->execute();
+
+        $success = "Image uploaded successfully";
+
     } else {
+        $error = "Upload failed";
+    }
 
-        $fileName = time() . '_' . basename($file['name']);
-        $fullPath = $uploadDir . $fileName;
-
-        if (move_uploaded_file($file['tmp_name'], $fullPath)) {
-
-            $dbPath = 'uploads/body_images/' . $fileName;
-
-            $stmt = $conn->prepare("INSERT INTO body_images (image_path) VALUES (:path)");
-            $stmt->bindParam(':path', $dbPath);
-            $stmt->execute();
-
-            $success = "Image uploaded successfully";
-
-        } else {
-            $error = "Upload failed (move_uploaded_file error)";
-        }
     }
 }
 
