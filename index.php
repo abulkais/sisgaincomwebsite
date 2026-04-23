@@ -3,31 +3,30 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Mobile & Web Application Development Company - SISGAIN</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI & IT Solutions Company | Custom Software & Cloud Services</title>
     <meta name="description"
-        content="Transform your ideas into reality with SISGAIN expert mobile and web application development services. Let's innovate together!">
-    <meta name="keywords"
-        content="android app development,blockchain app development,cloud application development,cross platform app development,custom app development,e-commerce app development,enterprise app development,healthcare app development,ios app development,mobile app development services,on demand app solutions,saas application development,software development company,telemedicine app development,web application development">
+        content="AI-powered IT solutions, custom software & cloud services. 500+ projects delivered with 98% client retention. Build secure, scalable digital solutions.">
     <meta name="user_interst"
-        content="android app development,blockchain app development,cloud application development,cross platform app development,custom app development,e-commerce app development,enterprise app development,healthcare app development,ios app development,mobile app development services,on demand app solutions,saas application development,software development company,telemedicine app development,web application development">
+        content="AI IT solutions company, custom software development, application development company, AI app development, digital transformation company, cloud solutions, IT consulting services, enterprise software development, SaaS development, mobile app development, web application development, machine learning solutions, generative AI development, AI chatbot development, cloud infrastructure services, DevOps services, cybersecurity solutions, software development company, business automation solutions, data analytics services, IT outsourcing services, dedicated development team, UI UX design services, product engineering, software integration, API development, digital product development, enterprise IT solutions, scalable software solutions, technology consulting services">
     <link rel="canonical" href="https://sisgain.com">
-    <meta name="subject" content="Mobile & Web Application Development">
+    <meta name="subject" content="AI & IT Solutions">
     <meta name="copyright" content="SISGAIN">
     <meta name="language" content="en">
     <meta name="robots" content="index,follow">
-    <meta name="topic" content="Mobile & Web Application Development">
+    <meta name="topic" content="AI & IT Solutions Company">
     <meta name="author" content="SISGAIN">
     <meta name="reply-to" content="hello@sisgain.com">
-    <meta name="category" content="software development">
+    <meta name="category" content="AI & IT Solutions Company">
     <meta name="coverage" content="Worldwide">
     <meta name="fb:page_id" content="SISGAIN">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="SISGAIN">
     <meta name="og:url" content="https://sisgain.com/">
-    <meta property="og:image" content="https://sisgain.com/assets/images/sisgain_og_image.webp">
-    <meta name="og:title" content="Mobile & Web Application Development Company - SISGAIN">
+    <meta property="og:image" content="https://sisgain.com/assets/images/home/it-solutions-company.png">
+    <meta name="og:title" content="AI & IT Solutions Company | Custom Software & Cloud Services">
     <meta name="og:description"
-        content="Transform your ideas into reality with SISGAIN expert mobile and web application development services. Let's innovate together!">
+        content="AI-powered IT solutions, custom software & cloud services. 500+ projects delivered with 98% client retention. Build secure, scalable digital solutions.">
     <meta name="og:latitude" content="28.5823">
     <meta name="og:longitude" content="77.3122 ">
     <meta name="og:street-address" content="C-109 Sector-2 Noida">
@@ -35,14 +34,15 @@
     <meta name='og:region' content="IN">
     <meta name="og:postal-code" content="201301">
     <meta name='og:country-name' content="India">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <?php
-    include("assets/includes-new/header.php");
-    ?>
     <link rel="stylesheet" href="assets/css/homepage.css">
     <link href="assets/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
     <link rel="preload" href="assets/images/mobile_banner.webp" as="image">
     <link rel="preload" href="assets/images/homeBackgroundImg.webp" as="image">
+    <?php
+    include("assets/includes-new/header.php");
+    ?>
+
+
 
     <script type="application/ld+json">
         {
@@ -512,7 +512,7 @@
                                         <div class="solution-content">
 
                                             <h3 class="panel_first_head">Innovating Business with Custom Software</h3>
-                                            
+
 
                                             <p>
                                                 Helping businesses build reliable, scalable software solutions that optimize
