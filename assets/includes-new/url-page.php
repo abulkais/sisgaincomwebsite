@@ -63,6 +63,9 @@ $nlp = 'nlp-solutions';
 $multimodalAI = 'multimodal-ai-development';
 $computerVision = "computer-vision-solutions";
 
+// infrastructure management
+$infrastructure_management = "infrastructure-management-services";
+
 $rpm_arizona = "remote-patient-monitoring-software-development-in-arizona";
 $rpm_california = "remote-patient-monitoring-software-development-in-california";
 $rpm_canada = "remote-patient-monitoring-software-development-in-canada";
@@ -211,6 +214,7 @@ $urlMap = [
    $nlp => "NLP Solutions",
    $multimodalAI => "Multimodal AI Development",
    $computerVision => "Computer Vision Solutions",
+   $infrastructure_management => "Infrastructure Management Services"
 ];
 
 // Determine page title based on $url
