@@ -299,6 +299,11 @@ if (!empty($ldFaq['mainEntity'])):
   </div>
 <?php endif; endif; ?>
 <style>
+  table {
+    width: 100%!important;
+    border-collapse: collapse;
+    /* margin: 20px 0; */
+  }
 .faq-container {
   max-width: 600px;
   margin: 0 auto;
