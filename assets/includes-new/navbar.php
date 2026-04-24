@@ -102,7 +102,7 @@
             <div class="mm-cat-heading"><span class="mm-cat-heading-dot"></span>Infrastructure &amp; Cloud</div>
 
             <a href="http://sisgain.com/infrastructure-management-services" class="mm-svc-link">Infrastructure Management Services</a>
-            <a data-toggle="modal" data-target="#myModal" class="mm-svc-link">Cloud Architecture &amp; Infrastructure</a>
+            <a href="http://sisgain.com/cloud-architecture-infrastructure" class="mm-svc-link">Cloud Architecture &amp; Infrastructure</a>
             <a data-toggle="modal" data-target="#myModal" class="mm-svc-link">Cloud Managed Services</a>
             <a data-toggle="modal" data-target="#myModal" class="mm-svc-link">Cloud Migration &amp; Modernization</a>
             <a data-toggle="modal" data-target="#myModal" class="mm-svc-link">FinOps Services</a>
@@ -491,7 +491,7 @@
       <!-- Infrastructure & Cloud -->
       <div class="mob-body">
         <a href="http://sisgain.com/infrastructure-management-services" class="mob-svc">Infrastructure Management Services</a>
-        <a data-toggle="modal" data-target="#myModal" class="mob-svc">Cloud Architecture & Infrastructure Services</a>
+        <a href="http://sisgain.com/cloud-architecture-infrastructure" class="mob-svc">Cloud Architecture & Infrastructure Services</a>
         <a data-toggle="modal" data-target="#myModal" class="mob-svc">Cloud Managed Services</a>
         <a data-toggle="modal" data-target="#myModal" class="mob-svc">Cloud Migration & Modernization</a>
         <a data-toggle="modal" data-target="#myModal" class="mob-svc">FinOps Services</a>

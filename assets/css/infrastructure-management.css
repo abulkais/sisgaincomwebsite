@@ -389,7 +389,10 @@
   justify-content: center;
   margin-bottom: 18px;
 }
-
+.pain-ic img{
+    width: 30px;
+    height: 30px;
+}
 .pain-ic svg {
   width: 20px;
   height: 20px;
@@ -512,12 +515,24 @@
   height: 100%;
 }
 
+
 .svc-card:hover {
   border-color: var(--b400);
   box-shadow: 0 8px 28px rgba(37, 99, 235, 0.1);
   transform: translateY(-3px);
 }
-
+.svc-card img{
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    background: var(--b50);
+    border: 1px solid var(--b200);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18px;
+    padding:10px;
+}
 .svc-ic {
   width: 48px;
   height: 48px;
@@ -947,7 +962,7 @@
   font-size: 13px;
   font-weight: 600;
   color: var(--slate700);
-  display: flex;
+  /* display: flex; */
   align-items: center;
   gap: 7px;
   transition: all 0.2s;
@@ -956,6 +971,14 @@
 .arch-node img{
     width: 50px!important;
     height: auto;
+    display:block;
+    margin:0 auto
+}
+
+.arch-node p{
+    text-align:center;
+    margin-top:10px;
+    margin-bottom:0;
 }
 .arch-node:hover {
   border-color: var(--b400);
@@ -1258,11 +1281,14 @@
   font-size: 14px;
   font-weight: 700;
   color: var(--ink);
+   margin-bottom:5px;
 }
+
 
 .trole {
   font-size: 12px;
   color: var(--slate500);
+   margin-bottom:0;
 }
 
 /* ===== FAQ ===== */
