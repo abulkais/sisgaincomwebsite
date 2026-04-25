@@ -66,6 +66,7 @@ $computerVision = "computer-vision-solutions";
 // infrastructure management
 $infrastructure_management = "infrastructure-management-services";
 $cloud_architecture = "cloud-architecture-infrastructure";
+$cloud_managed_services = "cloud-managed-services";
 
 
 $rpm_arizona = "remote-patient-monitoring-software-development-in-arizona";
@@ -217,7 +218,8 @@ $urlMap = [
    $multimodalAI => "Multimodal AI Development",
    $computerVision => "Computer Vision Solutions",
    $infrastructure_management => "Infrastructure Management Services",
-   $cloud_architecture => "Cloud Architecture & Infrastructure Services"
+   $cloud_architecture => "Cloud Architecture & Infrastructure Services",
+   $cloud_managed_services => "Cloud Managed Services",
 ];
 
 // Determine page title based on $url
