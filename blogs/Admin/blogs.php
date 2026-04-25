@@ -46,6 +46,7 @@ if (isset($_GET['toggle'])) {
     <title>Blog Management</title>
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 </head>
 
 <body>
@@ -74,7 +75,30 @@ if (isset($_GET['toggle'])) {
                                 <td><?php echo $post['title']; ?></td>
                                 <td><?php echo $post['authorName']; ?></td>
                                 <td><?php echo $post['category_name']; ?></td>
-                                <td><?php echo date('d M Y', strtotime($post['createdDate'])); ?></td>
+                                <td>
+                                    <!-- Normal View -->
+                                    <span id="date-text-<?php echo $post['slug']; ?>">
+                                        <?php echo date('d M Y', strtotime($post['createdDate'])); ?>
+                                    </span>
+
+                                    <!-- Hidden Edit Form -->
+                                    <form method="POST" action="blogs.php"
+                                        id="date-form-<?php echo $post['slug']; ?>"
+                                        style="display:none; margin-top:5px;">
+
+                                        <input type="hidden" name="slug" value="<?php echo $post['slug']; ?>">
+
+                                        <input type="date" name="new_date"
+                                            value="<?php echo date('Y-m-d', strtotime($post['createdDate'])); ?>"
+                                            class="form-control form-control-sm mb-1">
+
+                                        <button type="submit" name="update_date" class="btn btn-sm btn-primary">
+                                            Save
+                                        </button>
+                                    </form>
+
+
+                                </td>
 
 
                                 <td>
@@ -136,10 +160,10 @@ if (isset($_GET['toggle'])) {
 
                                             </a>
 
-                                          <!-- Edit -->
-<a href="edit-blog.php?slug=<?php echo urlencode($post['slug']); ?>" class="fa-xl">
-  <i class="fa fa-edit text-primary fa-lg"></i>
-</a>
+                                            <!-- Edit -->
+                                            <a href="edit-blog.php?slug=<?php echo urlencode($post['slug']); ?>" class="fa-xl">
+                                                <i class="fa fa-edit text-primary fa-lg"></i>
+                                            </a>
 
                                             <!-- Delete -->
                                             <a href="blogs.php?delete=<?php echo $post['slug']; ?>" onclick="return confirm('Are you sure?');">
@@ -152,6 +176,10 @@ if (isset($_GET['toggle'])) {
                                                 <i class="fa fa-eye text-success fa-lg"></i>
 
                                             </a>
+
+                                            <a href="javascript:void(0);" onclick="toggleDateEdit('<?php echo $post['slug']; ?>')">
+                                                <i class="fa fa-calendar text-primary fa-lg"></i>
+                                            </a>
                                         </div>
                                     </div>
 
@@ -163,6 +191,32 @@ if (isset($_GET['toggle'])) {
             </div>
         </div>
     </div>
+    <!-- JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <script>
+        function toggleDateEdit(slug) {
+
+            document.querySelectorAll('[id^="date-form-"]').forEach(f => f.style.display = 'none');
+            document.querySelectorAll('[id^="date-text-"]').forEach(t => t.style.display = 'inline');
+
+            document.getElementById('date-text-' + slug).style.display = 'none';
+            document.getElementById('date-form-' + slug).style.display = 'block';
+        }
+    </script>
+
+    <script>
+        toastr.options = {
+            closeButton: true,
+            progressBar: true,
+            positionClass: "toast-top-right",
+            timeOut: "3000"
+        };
+
+        <?php if (isset($_GET['msg']) && $_GET['msg'] == 'date_updated') { ?>
+            toastr.success("Date updated successfully!");
+        <?php } ?>
+    </script>
 </body>
 
 </html>
