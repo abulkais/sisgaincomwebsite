@@ -36,6 +36,22 @@ if (isset($_GET['toggle'])) {
     header("Location: blogs.php");
     exit;
 }
+
+if (isset($_POST['update_date'])) {
+    $slug = $_POST['slug'];
+    $newDate = $_POST['new_date'];
+
+    // Optional: validation (recommended)
+    if (!empty($newDate)) {
+        $stmt = $conn->prepare("UPDATE posts SET createdDate = :createdDate WHERE slug = :slug");
+        $stmt->bindParam(':createdDate', $newDate);
+        $stmt->bindParam(':slug', $slug);
+        $stmt->execute();
+    }
+
+    header("Location: blogs.php");
+    exit;
+}
 ?>
 
 <!DOCTYPE html>
