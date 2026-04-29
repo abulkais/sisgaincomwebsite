@@ -2,15 +2,14 @@
 require_once 'env.php';
 loadEnv(__DIR__ . '/.env');
 
-$servername = $_ENV['DB_HOST'];
-$username   = $_ENV['DB_USER'];
-$password   = $_ENV['DB_PASS'];
-$dbname     = $_ENV['DB_NAME'];
+$conn = new mysqli(
+    $_ENV['DB_HOST'],
+    $_ENV['DB_USER'],
+    $_ENV['DB_PASS'],
+    $_ENV['DB_NAME']
+);
 
-try {
-    $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
-    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-} catch (PDOException $e) {
-    die("Connection failed: " . $e->getMessage());
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
 }
 ?>
