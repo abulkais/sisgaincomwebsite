@@ -1,14 +1,16 @@
 <?php
+require_once 'env.php';
+loadEnv(__DIR__ . '/.env');
 
-$host = 'localhost';
-$username = 'sisgayq6_gensitemap';
-$password = 'sisgayq6_gensitemap';
-$dbname = 'sisgayq6_generatesitemaps';
+$servername = $_ENV['DB_HOST'];
+$username   = $_ENV['DB_USER'];
+$password   = $_ENV['DB_PASS'];
+$dbname     = $_ENV['DB_NAME'];
 
-
-$conn = new mysqli($host, $username, $password, $dbname);
-
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+try {
+    $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch (PDOException $e) {
+    die("Connection failed: " . $e->getMessage());
 }
 ?>

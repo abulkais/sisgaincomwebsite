@@ -35,8 +35,4 @@ if (time() - $_SESSION["SESSION_START"] > $max_session_duration) {
 // Update last activity time to reset inactivity timer
 $_SESSION["LAST_ACTIVITY"] = time();
 
-// Debugging: Print session data
-// echo "<pre>";
-// print_r($_SESSION);
-// echo "</pre>";
 ?>
